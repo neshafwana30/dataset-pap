@@ -1,0 +1,889 @@
+Provinsi;Kab Kota;Kecamatan;Desa;Tanggal;Waktu;Satelit;Confidence;Latitude;Longitude;Pulau;Kab Kota Normalized;TN;TX;TAVG;RR;FF_AVG
+Kalimantan Barat;MELAWI;Menukung;Sampak;01/06/2023;13:18 WIB;NASA-NOAA20;Medium;-0.46813;11222231.0;Kalimantan;melawi;26.4;32.8;30.7;0.0;2.0
+Kalimantan Barat;MELAWI;Belimbing;Balai Lagas;01/08/2023;12:36 WIB;NASA-NOAA20;Medium;-0.59181;11130682.0;Kalimantan;melawi;22.4;34.6;28.9;;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Begelang Jaya;01/08/2023;13:44 WIB;NASA-MODIS;Medium;0.59289;11128703.0;Kalimantan;sintang;23.2;34.2;28.3;0.0;1.0
+Kalimantan Barat;KETAPANG;Kendawangan;Danau Buntar;01/08/2023;13:44 WIB;NASA-MODIS;Medium;-257612.0;11089566.0;Kalimantan;ketapang;24.4;34.2;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Landau Bara;01/08/2023;12:36 WIB;NASA-NOAA20;Medium;-0.1151;11208868.0;Kalimantan;sintang;23.2;34.2;28.3;0.0;1.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Lintah Taum;01/08/2023;12:33 WIB;NASA-NOAA20;Medium;-0.60506;11148787.0;Kalimantan;melawi;22.4;34.6;28.9;;1.0
+Kalimantan Timur;BERAU;Kelay;Merasa;01/08/2023;12:36 WIB;NASA-NOAA20;Medium;184484.0;11722913.0;Kalimantan;berau;24.2;35.5;28.6;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;01/08/2023;01:34 WIB;NASA-NOAA20;Medium;-0.15332;10934488.0;Kalimantan;kubu raya;23.2;34.2;27.4;0.0;2.0
+Kalimantan Barat;SAMBAS;Tangaran;Simpang Empat;01/08/2023;01:24 WIB;NASA-MODIS;Medium;151189.0;10911778.0;Kalimantan;sambas;24.3;33.4;28.4;;1.0
+Kalimantan Timur;BERAU;Tabalar;Tabalar Ulu;01/08/2023;12:36 WIB;NASA-NOAA20;Medium;164079.0;11789834.0;Kalimantan;berau;24.2;35.5;28.6;0.0;2.0
+Kalimantan Timur;BERAU;Kelay;Long Pelay;02/08/2023;12:16 WIB;NASA-NOAA20;Medium;192595.0;11679138.0;Kalimantan;berau;23.8;35.2;28.8;0.0;2.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Timur;Sajau;02/08/2023;12:48 WIB;NASA-MODIS;High;253238.0;11752625.0;Kalimantan;bulungan;25.6;35.2;;0.0;2.0
+Kalimantan Timur;BERAU;Gunung Tabur;Sambakungan;02/08/2023;12:16 WIB;NASA-NOAA20;Medium;224716.0;11760542.0;Kalimantan;berau;23.8;35.2;28.8;0.0;2.0
+Kalimantan Timur;BERAU;Gunung Tabur;Tasuk;02/08/2023;12:48 WIB;NASA-MODIS;Medium;216823.0;11728085.0;Kalimantan;berau;23.8;35.2;28.8;0.0;2.0
+Kalimantan Barat;MELAWI;Nanga Pinoh;Nanga Kebebu;03/06/2023;12:42 WIB;NASA-NOAA20;Medium;-0.3805;11183238.0;Kalimantan;melawi;26.0;33.5;30.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Kayung Tuhe;03/08/2023;13:29 WIB;NASA-MODIS;Medium;-156727.0;11064404.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;MELAWI;Menukung;Nanga Melona Satu;03/08/2023;13:29 WIB;NASA-MODIS;Medium;-0.368;11236169.0;Kalimantan;melawi;22.6;34.2;27.5;6.6;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Payak;03/08/2023;13:37 WIB;NASA-NOAA20;Medium;-0.12216;11200016.0;Kalimantan;sintang;22.2;33.6;27.2;27.4;0.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Ungai;03/08/2023;13:37 WIB;NASA-NOAA20;Medium;-0.09473;1120955.0;Kalimantan;sintang;22.2;33.6;27.2;27.4;0.0
+Kalimantan Barat;MELAWI;Ella Hilir;Natai Compa;03/08/2023;13:29 WIB;NASA-MODIS;Medium;-0.35431;11201536.0;Kalimantan;melawi;22.6;34.2;27.5;6.6;1.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Utara;Ruhui Rahayu;03/08/2023;11:57 WIB;NASA-NOAA20;High;308142.0;11725471.0;Kalimantan;bulungan;25.4;36.0;29.1;;1.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Titi Baru;03/08/2023;13:37 WIB;NASA-NOAA20;Medium;-188786.0;11056434.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Timur;BERAU;Segah;Batu Rajang;04/08/2023;13:20 WIB;NASA-NOAA20;High;2061.0;11709026.0;Kalimantan;berau;24.6;35.6;28.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Deranuk;04/08/2023;13:18 WIB;NASA-NOAA20;Medium;-20653.0;11083083.0;Kalimantan;ketapang;24.4;34.6;29.7;0.0;4.0
+Kalimantan Timur;BERAU;Talisayan;Dumaring;04/08/2023;00:39 WIB;NASA-NOAA20;Medium;154071.0;11816804.0;Kalimantan;berau;24.6;35.6;28.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hulu;04/08/2023;13:20 WIB;NASA-NOAA20;Medium;-0.51691;11057634.0;Kalimantan;ketapang;24.4;34.6;29.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Mahawa;04/08/2023;13:18 WIB;NASA-NOAA20;Medium;-184621.0;11064839.0;Kalimantan;ketapang;24.4;34.6;29.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Merawa;04/08/2023;13:20 WIB;NASA-NOAA20;Medium;-0.47081;11049972.0;Kalimantan;ketapang;24.4;34.6;29.7;0.0;4.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Masau;04/08/2023;13:20 WIB;NASA-NOAA20;Medium;-0.1572;11232786.0;Kalimantan;sintang;22.6;34.4;28.4;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Nyangkom;04/08/2023;13:20 WIB;NASA-NOAA20;Medium;-0.04902;11187788.0;Kalimantan;sintang;22.6;34.4;28.4;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Sekucing Labai;04/08/2023;13:20 WIB;NASA-NOAA20;Medium;-0.51072;11014368.0;Kalimantan;ketapang;24.4;34.6;29.7;0.0;4.0
+Kalimantan Timur;BERAU;Sambaliung;Bena Baru;05/07/2023;12:42 WIB;NASA-NOAA20;Medium;198989.0;11729442.0;Kalimantan;berau;23.5;32.7;27.5;8888.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Balai Pinang Hulu;05/08/2023;13:16 WIB;NASA-MODIS;Medium;-0.6235;11031911.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Terentang;Betuah;05/08/2023;13:16 WIB;NASA-MODIS;Medium;-0.30799;10995153.0;Kalimantan;kubu raya;24.4;34.4;28.2;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Botuh Bosi;05/08/2023;13:16 WIB;NASA-MODIS;Medium;-0.5556;11030344.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Idai;05/08/2023;12:59 WIB;NASA-NOAA20;Medium;0.95339;11132024.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;MELAWI;Ella Hilir;Jabai;05/08/2023;13:16 WIB;NASA-MODIS;Medium;-0.69275;11198358.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;MELAWI;Belimbing Hulu;Kayu Bunga;05/08/2023;13:16 WIB;NASA-MODIS;Medium;-0.53228;11151617.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Lengkong Bindu;05/08/2023;12:59 WIB;NASA-NOAA20;Medium;-0.07533;11196777.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Nanga Bugau;05/08/2023;12:59 WIB;NASA-NOAA20;Medium;0.7268;11119102.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Menantak;05/08/2023;13:16 WIB;NASA-MODIS;Medium;-0.21897;1130341.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nangkak Lestari;05/08/2023;12:59 WIB;NASA-NOAA20;Medium;-0.09918;1122141.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Senangan Kecil;05/08/2023;13:16 WIB;NASA-MODIS;Medium;0.71489;11152794.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Tuguk;05/08/2023;12:59 WIB;NASA-NOAA20;Medium;-0.06011;1118664.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Kelam Permai;Gemba Raya;06/07/2023;13:35 WIB;NASA-MODIS;Medium;0.1706;11178209.0;Kalimantan;sintang;24.0;33.3;26.5;1.0;1.0
+Kalimantan Barat;MELAWI;Sokan;Nanga Tangkit;06/08/2023;12:42 WIB;NASA-NOAA20;Medium;-107187.0;11149001.0;Kalimantan;melawi;24.3;31.4;27.0;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;06/08/2023;01:43 WIB;NASA-NOAA20;Medium;-0.15727;1093232.0;Kalimantan;kubu raya;23.9;33.6;27.3;0.0;2.0
+Kalimantan Timur;BERAU;Pulau Derawan;Tanjung Batu;06/08/2023;12:42 WIB;NASA-NOAA20;Medium;225099.0;11798918.0;Kalimantan;berau;24.0;35.2;28.4;0.0;1.0
+Kalimantan Timur;BERAU;Sambaliung;Bena Baru;07/08/2023;13:01 WIB;NASA-MODIS;High;194444.0;11738936.0;Kalimantan;berau;25.0;35.1;28.7;8888.0;2.0
+Kalimantan Barat;MELAWI;Belimbing Hulu;Kayu Bunga;07/08/2023;12:23 WIB;NASA-NOAA20;Medium;-0.51896;11162337.0;Kalimantan;melawi;22.6;34.0;27.5;0.2;2.0
+Kalimantan Timur;BERAU;Kelay;Lesan Dayak;07/08/2023;13:01 WIB;NASA-MODIS;High;167904.0;11714201.0;Kalimantan;berau;25.0;35.1;28.7;8888.0;2.0
+Kalimantan Timur;BERAU;Sambaliung;Long Lanuk;07/08/2023;13:01 WIB;NASA-MODIS;High;188708.0;11718087.0;Kalimantan;berau;25.0;35.1;28.7;8888.0;2.0
+Kalimantan Timur;BERAU;Gunung Tabur;Birang;08/08/2023;12:04 WIB;NASA-NOAA20;Medium;222405.0;11747018.0;Kalimantan;berau;23.5;36.0;28.7;8888.0;2.0
+Kalimantan Barat;MELAWI;Ella Hilir;Kahiya;08/08/2023;12:04 WIB;NASA-NOAA20;Medium;-0.59958;11196234.0;Kalimantan;melawi;22.8;33.4;28.3;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Madu Sari;08/08/2023;01:04 WIB;NASA-NOAA20;Medium;-0.10818;10946281.0;Kalimantan;kubu raya;21.5;33.6;26.2;8888.0;2.0
+Kalimantan Barat;KETAPANG;Sandai;Alam Pakuan;09/08/2023;13:25 WIB;NASA-NOAA20;Medium;-112863.0;11058852.0;Kalimantan;ketapang;23.5;33.4;28.1;0.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Bengaras;09/08/2023;13:25 WIB;NASA-NOAA20;Medium;-0.9691;11052203.0;Kalimantan;ketapang;23.5;33.4;28.1;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Gema;09/08/2023;13:25 WIB;NASA-NOAA20;Medium;-0.85195;11041588.0;Kalimantan;ketapang;23.5;33.4;28.1;0.0;3.0
+Kalimantan Timur;BERAU;Gunung Tabur;Melati Jaya;09/08/2023;00:43 WIB;NASA-NOAA20;Medium;23263.0;11770702.0;Kalimantan;berau;23.0;35.8;27.3;24.3;1.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Pelita Jaya;09/08/2023;13:25 WIB;NASA-NOAA20;Medium;-0.73647;11151947.0;Kalimantan;melawi;24.4;33.0;28.1;;2.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Sungai Bugau;09/08/2023;13:25 WIB;NASA-NOAA20;Medium;0.8464;11115971.0;Kalimantan;sintang;23.4;33.2;27.0;0.0;1.0
+Kalimantan Timur;BERAU;Sambaliung;Tumbit Dayak;09/08/2023;12:46 WIB;NASA-MODIS;Medium;195441.0;11729807.0;Kalimantan;berau;23.0;35.8;27.3;24.3;1.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Air Nyuruk;10/08/2023;13:05 WIB;NASA-NOAA20;Medium;0.5664;11151828.0;Kalimantan;sintang;23.4;34.6;27.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Kayung Tuhe;10/08/2023;13:29 WIB;NASA-MODIS;Medium;-157307.0;11061013.0;Kalimantan;ketapang;23.8;33.3;27.9;0.0;4.0
+Kalimantan Barat;MELAWI;Pinoh Selatan;Landau Tubun;10/08/2023;13:05 WIB;NASA-NOAA20;Medium;-0.48626;11182597.0;Kalimantan;melawi;24.5;34.0;27.6;;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Madu Sari;10/08/2023;00:26 WIB;NASA-NOAA20;Medium;-0.11131;1094577.0;Kalimantan;kubu raya;23.2;33.4;26.6;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Melingkat;10/08/2023;13:05 WIB;NASA-NOAA20;Medium;0.03759;11195916.0;Kalimantan;sintang;23.4;34.6;27.6;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nangkak Lestari;10/08/2023;13:05 WIB;NASA-NOAA20;Medium;-0.0442;11215962.0;Kalimantan;sintang;23.4;34.6;27.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Periangan;10/08/2023;13:29 WIB;NASA-MODIS;Medium;-204434.0;11086019.0;Kalimantan;ketapang;23.8;33.3;27.9;0.0;4.0
+Kalimantan Barat;MELAWI;Sokan;Tanjung Mahung;10/08/2023;13:05 WIB;NASA-NOAA20;Medium;-102834.0;11143607.0;Kalimantan;melawi;24.5;34.0;27.6;;2.0
+Kalimantan Barat;KETAPANG;Marau;Batu Payung Dua;11/06/2023;00:52 WIB;NASA-NOAA20;Medium;-201137.0;11053643.0;Kalimantan;ketapang;25.2;33.5;28.6;0.0;3.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Selatan;Kelurahan Samuda Kota;11/08/2023;12:46 WIB;NASA-NOAA20;Medium;-289141.0;11288896.0;Kalimantan;kotawaringin timur;;31.6;25.9;;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Tualan Hulu;Luwuk Sampun;11/08/2023;12:48 WIB;NASA-NOAA20;Medium;-172719.0;11271989.0;Kalimantan;kotawaringin timur;;31.6;25.9;;1.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Madu Sari;11/08/2023;12:48 WIB;NASA-NOAA20;Medium;-0.11478;10945815.0;Kalimantan;kubu raya;23.8;32.0;26.4;0.1;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Senduruhan;11/08/2023;12:48 WIB;NASA-NOAA20;Medium;-0.85263;11069593.0;Kalimantan;ketapang;23.3;33.2;27.7;0.0;3.0
+Kalimantan Barat;KETAPANG;Kendawangan;Danau Buntar;12/06/2023;00:32 WIB;NASA-NOAA20;Medium;-260515.0;11087488.0;Kalimantan;ketapang;26.0;30.0;27.7;3.2;2.0
+Kalimantan Timur;BERAU;Sambaliung;Tumbit Dayak;12/07/2023;12:53 WIB;NASA-MODIS;Medium;193546.0;11726188.0;Kalimantan;berau;23.0;34.1;27.8;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Ambarawa;12/08/2023;12:27 WIB;NASA-NOAA20;Medium;-0.84648;10928188.0;Kalimantan;kubu raya;23.1;33.0;25.9;0.0;2.0
+Kalimantan Barat;SINTANG;Serawai;Mentajoi;12/08/2023;13:14 WIB;NASA-MODIS;Medium;-0.40116;11262944.0;Kalimantan;sintang;22.0;33.6;26.6;41.7;1.0
+Kalimantan Barat;SAMBAS;Subah;Mukti Raharja;12/08/2023;13:14 WIB;NASA-MODIS;Medium;126692.0;10945217.0;Kalimantan;sambas;24.2;33.6;28.2;8888.0;2.0
+Kalimantan Barat;MELAWI;Belimbing Hulu;Nanga Keberak;12/08/2023;13:14 WIB;NASA-MODIS;Medium;-0.39469;11149979.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nangkak Lestari;12/08/2023;13:14 WIB;NASA-MODIS;Medium;-0.12303;11225063.0;Kalimantan;sintang;22.0;33.6;26.6;41.7;1.0
+Kalimantan Tengah;BARITO SELATAN;Jenamas;Rangga Ilung;12/08/2023;13:14 WIB;NASA-MODIS;Medium;-236928.0;11488143.0;Kalimantan;barito selatan;21.1;33.4;26.9;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Cempaga Hulu;Selucing;12/08/2023;21:44 WIB;NASA-MODIS;High;-187571.0;11298797.0;Kalimantan;kotawaringin timur;18.2;32.2;24.5;0.0;1.0
+Kalimantan Barat;SINTANG;Serawai;Bedaha;13/08/2023;13:50 WIB;NASA-NOAA20;Medium;-0.29431;11250813.0;Kalimantan;sintang;22.0;34.2;27.0;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Deme;13/08/2023;12:10 WIB;NASA-NOAA20;Medium;-0.1862;11303192.0;Kalimantan;sintang;22.0;34.2;27.0;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Baamang;Kelurahan Baamang Hulu;13/08/2023;01:11 WIB;NASA-NOAA20;Medium;-245511.0;11293808.0;Kalimantan;kotawaringin timur;19.4;33.6;25.7;;1.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Krio Hulu;13/08/2023;13:57 WIB;NASA-MODIS;Medium;-0.88738;11084332.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hulu;13/08/2023;12:10 WIB;NASA-NOAA20;Medium;-0.54378;11057427.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Madu Sari;13/08/2023;13:57 WIB;NASA-MODIS;Medium;-0.10798;10945679.0;Kalimantan;kubu raya;21.8;34.6;26.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Sandai;Merimbang Jaya;13/08/2023;13:50 WIB;NASA-NOAA20;Medium;-101454.0;11054928.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Pemahan;Muara Semayok;13/08/2023;13:57 WIB;NASA-MODIS;Medium;-169229.0;11053498.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Neraci Jaya;13/08/2023;13:57 WIB;NASA-MODIS;Medium;0.91713;11086135.0;Kalimantan;sintang;22.0;34.2;27.0;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Teluk Sampit;Parebok;13/08/2023;12:10 WIB;NASA-NOAA20;Medium;-294823.0;11288861.0;Kalimantan;kotawaringin timur;19.4;33.6;25.7;;1.0
+Kalimantan Barat;KETAPANG;Manis Mata;Pelempangan;13/08/2023;01:11 WIB;NASA-NOAA20;Medium;-211157.0;1110675.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Sandai;Petai Patah;13/08/2023;13:50 WIB;NASA-NOAA20;Medium;-118442.0;11059985.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Selatan;Samuda Besar;13/08/2023;10:04 WIB;NASA-MODIS;Medium;-292154.0;11288932.0;Kalimantan;kotawaringin timur;19.4;33.6;25.7;;1.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Sungai Daka;13/08/2023;13:50 WIB;NASA-NOAA20;Medium;-10039.0;11049451.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;MELAWI;Sokan;Teluk Pongkal;13/08/2023;12:10 WIB;NASA-NOAA20;Medium;-0.99632;11126371.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;SAMBAS;Galing;Galing;14/07/2023;13:14 WIB;NASA-NOAA20;Medium;152869.0;10937379.0;Kalimantan;sambas;24.7;33.6;28.4;0.0;2.0
+Kalimantan Barat;SINTANG;Sepauk;Sekubang;14/07/2023;13:14 WIB;NASA-NOAA20;Medium;-0.24579;1111628.0;Kalimantan;sintang;23.3;33.5;27.7;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Terentang;Betuah;14/08/2023;12:59 WIB;NASA-MODIS;Medium;-0.2878;10995978.0;Kalimantan;kubu raya;22.7;33.4;26.6;0.0;2.0
+Kalimantan Timur;BERAU;Biatan;Biatan Ilir;14/08/2023;11:51 WIB;NASA-NOAA20;Medium;156667.0;11805714.0;Kalimantan;berau;23.8;34.1;27.3;26.7;1.0
+Kalimantan Barat;MELAWI;Pinoh Selatan;Bina Jaya;14/08/2023;13:31 WIB;NASA-NOAA20;Medium;-0.48854;11193558.0;Kalimantan;melawi;23.7;32.2;27.5;0.0;2.0
+Kalimantan Barat;MELAWI;Sokan;Gelata;14/08/2023;12:59 WIB;NASA-MODIS;Medium;-10267.0;11151883.0;Kalimantan;melawi;23.7;32.2;27.5;0.0;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Kota Besi;Kandan;14/08/2023;00:52 WIB;NASA-NOAA20;Medium;-240663.0;11288987.0;Kalimantan;kotawaringin timur;;33.7;26.0;;2.0
+Kalimantan Tengah;BARITO SELATAN;Karau Kuala;Kelurahan Bangkuang;14/08/2023;00:52 WIB;NASA-NOAA20;Medium;-204535.0;11491468.0;Kalimantan;barito selatan;22.6;32.0;26.8;0.0;1.0
+Kalimantan Barat;KETAPANG;Pemahan;Lalang Panjang;14/08/2023;13:31 WIB;NASA-NOAA20;Medium;-177097.0;1105651.0;Kalimantan;ketapang;23.3;33.0;27.4;0.0;3.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Kesange;14/08/2023;13:31 WIB;NASA-NOAA20;Medium;-0.29648;11281207.0;Kalimantan;sintang;22.2;32.4;26.2;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Padang Tikar Satu;14/08/2023;00:52 WIB;NASA-NOAA20;Medium;-0.72335;10926955.0;Kalimantan;kubu raya;22.7;33.4;26.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Nanjung;14/08/2023;21:27 WIB;NASA-MODIS;Medium;-21487.0;11012749.0;Kalimantan;ketapang;23.3;33.0;27.4;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Terentang;Teluk Empening;14/08/2023;00:52 WIB;NASA-NOAA20;Medium;-0.39583;10960375.0;Kalimantan;kubu raya;22.7;33.4;26.6;0.0;2.0
+Kalimantan Barat;SINTANG;Serawai;Tontang;14/08/2023;12:59 WIB;NASA-MODIS;Medium;-0.2987;11264126.0;Kalimantan;sintang;22.2;32.4;26.2;0.0;1.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Cinta Manis;15/08/2023;13:12 WIB;NASA-NOAA20;Medium;-117527.0;11076017.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Kampar Sebomban;15/08/2023;13:12 WIB;NASA-NOAA20;Medium;-0.71101;11015422.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Melayu Rayak;Makmur Abadi;15/08/2023;13:42 WIB;NASA-MODIS;Medium;-172652.0;11023189.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;MELAWI;Menukung;Nanga Melona Satu;15/08/2023;13:12 WIB;NASA-NOAA20;Medium;-0.39791;11239328.0;Kalimantan;melawi;24.1;33.6;28.4;;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Tonggoi;15/08/2023;13:12 WIB;NASA-NOAA20;Medium;-0.30019;11214669.0;Kalimantan;sintang;22.8;33.2;27.5;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Selatan;Samuda Besar;15/08/2023;13:12 WIB;NASA-NOAA20;Medium;-292548.0;11289433.0;Kalimantan;kotawaringin timur;20.3;33.0;26.5;;1.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Sebadak Raya;15/08/2023;13:12 WIB;NASA-NOAA20;Medium;-141714.0;11069099.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Sekukun;15/08/2023;13:12 WIB;NASA-NOAA20;Medium;-125953.0;11082476.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Sungai Sintang;15/08/2023;13:14 WIB;NASA-NOAA20;Medium;0.09058;1120699.0;Kalimantan;sintang;22.8;33.2;27.5;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaiasam;15/08/2023;01:21 WIB;NASA-MODIS;Medium;-0.28451;10953764.0;Kalimantan;kubu raya;21.8;34.6;26.5;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Silat Hulu;Nanga Dangkan;16/07/2023;12:36 WIB;NASA-NOAA20;Medium;0.26405;11199593.0;Kalimantan;kapuas hulu;23.2;33.8;27.3;13.8;0.0
+Kalimantan Barat;MELAWI;Menukung;Laman Mumbung;16/08/2023;12:53 WIB;NASA-NOAA20;Medium;-0.47412;11225845.0;Kalimantan;melawi;22.5;33.6;28.7;;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Madu Sari;16/08/2023;12:53 WIB;NASA-NOAA20;Medium;-0.11369;10945831.0;Kalimantan;kubu raya;23.2;34.8;27.4;0.0;2.0
+Kalimantan Tengah;BARITO SELATAN;Dusun Hilir;Mangkatir;16/08/2023;12:55 WIB;NASA-NOAA20;Medium;-220251.0;11492042.0;Kalimantan;barito selatan;23.0;33.8;27.7;;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Segulang;16/08/2023;12:53 WIB;NASA-NOAA20;Medium;-0.40554;11244154.0;Kalimantan;sintang;24.4;33.6;27.6;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Selatan;Sei Ijum Raya;16/08/2023;12:44 WIB;NASA-MODIS;Medium;-293119.0;11286093.0;Kalimantan;kotawaringin timur;20.0;34.3;26.5;;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaiasam;16/08/2023;21:12 WIB;NASA-MODIS;Medium;-0.30799;10950655.0;Kalimantan;kubu raya;23.2;34.8;27.4;0.0;2.0
+Kalimantan Barat;SINTANG;Serawai;Tahai Permai;16/08/2023;12:53 WIB;NASA-NOAA20;Medium;-0.17428;11258223.0;Kalimantan;sintang;24.4;33.6;27.6;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Tanjung Andan;16/08/2023;12:44 WIB;NASA-MODIS;Medium;-0.02284;11275513.0;Kalimantan;sintang;24.4;33.6;27.6;0.0;1.0
+Kalimantan Selatan;KOTA BANJARBARU;Cempaka;Kelurahan Palam;17/07/2023;13:03 WIB;NASA-MODIS;High;-350713.0;11476566.0;Kalimantan;kota banjarbaru;22.4;32.8;;0.0;2.0
+Kalimantan Barat;MELAWI;Sayan;Meta Bersatu;17/07/2023;12:16 WIB;NASA-NOAA20;Medium;-0.71074;11179956.0;Kalimantan;melawi;24.2;33.5;28.3;;2.0
+Kalimantan Barat;SINTANG;Binjai Hulu;Binjai Hulu;17/08/2023;12:36 WIB;NASA-NOAA20;Medium;0.2616;1114919.0;Kalimantan;sintang;23.2;33.8;27.3;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Gut Jaya Bhakti;17/08/2023;12:36 WIB;NASA-NOAA20;Medium;0.88231;11133989.0;Kalimantan;sintang;23.2;33.8;27.3;0.0;1.0
+Kalimantan Barat;MELAWI;Belimbing;Laman Bukit;17/08/2023;12:36 WIB;NASA-NOAA20;Medium;-0.26439;11161359.0;Kalimantan;melawi;24.6;34.1;28.6;;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Teluk Sampit;Lampuyang;17/08/2023;13:27 WIB;NASA-MODIS;Medium;-300958.0;11293558.0;Kalimantan;kotawaringin timur;21.8;33.0;26.7;;2.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Nanga Kelapan;17/08/2023;12:36 WIB;NASA-NOAA20;Medium;0.91733;11142296.0;Kalimantan;sintang;23.2;33.8;27.3;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Rade;17/08/2023;12:36 WIB;NASA-NOAA20;Medium;-0.05269;11287813.0;Kalimantan;sintang;23.2;33.8;27.3;0.0;1.0
+Kalimantan Tengah;BARITO SELATAN;Dusun Hilir;Sungai Jaya;17/08/2023;12:33 WIB;NASA-NOAA20;Medium;-244453.0;11479664.0;Kalimantan;barito selatan;21.8;34.1;27.4;0.0;1.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Tanjung Maju;17/08/2023;12:33 WIB;NASA-NOAA20;Medium;-0.6755;11047732.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Bukit Santuai;Tumbang Saluang;17/08/2023;12:33 WIB;NASA-NOAA20;Medium;-154849.0;11223532.0;Kalimantan;kotawaringin timur;21.8;33.0;26.7;;2.0
+Kalimantan Timur;BERAU;Segah;Long Ayap;18/06/2023;12:59 WIB;NASA-NOAA20;Medium;23564.0;11690083.0;Kalimantan;berau;23.4;33.7;26.5;0.7;1.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Sungai Kelik;18/06/2023;12:59 WIB;NASA-NOAA20;Medium;-165914.0;11037662.0;Kalimantan;ketapang;24.9;33.6;28.4;0.0;2.0
+Kalimantan Barat;MELAWI;Menukung;Batas Nangka;18/08/2023;12:16 WIB;NASA-NOAA20;Medium;-0.30243;11236157.0;Kalimantan;melawi;24.5;34.0;28.9;0.0;2.0
+Kalimantan Tengah;BARITO UTARA;Teweh Selatan;Buntok Baru;18/08/2023;01:15 WIB;NASA-NOAA20;Medium;-115642.0;11487217.0;Kalimantan;barito utara;23.9;33.0;27.8;0.0;0.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Laar;18/08/2023;12:16 WIB;NASA-NOAA20;Medium;-0.01997;11229968.0;Kalimantan;sintang;23.4;34.6;26.9;0.0;2.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Segulang;18/08/2023;12:16 WIB;NASA-NOAA20;Medium;-0.40952;11247569.0;Kalimantan;sintang;23.4;34.6;26.9;0.0;2.0
+Kalimantan Tengah;BARITO SELATAN;Jenamas;Tabatan;18/08/2023;01:15 WIB;NASA-NOAA20;Medium;-256303.0;11478953.0;Kalimantan;barito selatan;23.8;34.0;28.4;;1.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Tanjung Maju;18/08/2023;12:16 WIB;NASA-NOAA20;Medium;-0.7044;11052097.0;Kalimantan;ketapang;24.0;34.2;28.1;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Batu Nyadi;19/07/2023;13:20 WIB;NASA-NOAA20;Medium;0.56819;11141081.0;Kalimantan;sintang;24.0;34.0;29.2;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Neran Baya;19/07/2023;13:20 WIB;NASA-NOAA20;Medium;0.12863;11196967.0;Kalimantan;sintang;24.0;34.0;29.2;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Sungai Garong;19/07/2023;13:20 WIB;NASA-NOAA20;Medium;0.14257;11203331.0;Kalimantan;sintang;24.0;34.0;29.2;0.0;1.0
+Kalimantan Barat;MELAWI;Belimbing;Balai Lagas;19/08/2023;13:37 WIB;NASA-NOAA20;Medium;-0.50975;1113251.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Durian Jaya;19/08/2023;13:12 WIB;NASA-MODIS;Medium;-0.83817;11139721.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Parenggean;Kabuau;19/08/2023;13:37 WIB;NASA-NOAA20;High;-209909.0;11277521.0;Kalimantan;kotawaringin timur;22.0;33.9;26.9;;2.0
+Kalimantan Barat;KETAPANG;Sandai;Merimbang Jaya;19/08/2023;13:12 WIB;NASA-MODIS;Medium;-112052.0;11056803.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Natai Lesung;19/08/2023;13:12 WIB;NASA-MODIS;Medium;-0.19614;11187333.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;KETAPANG;Sandai;Randau;19/08/2023;13:12 WIB;NASA-MODIS;Medium;-103796.0;11057809.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;MELAWI;Menukung;Sampak;19/08/2023;13:37 WIB;NASA-NOAA20;Medium;-0.5151;11219346.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;KETAPANG;Manis Mata;Suka Ramai;19/08/2023;13:37 WIB;NASA-NOAA20;Medium;-28011.0;11098621.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;SAMBAS;Paloh;Temajuk;19/08/2023;13:14 WIB;NASA-MODIS;Medium;19566.0;10953393.0;Kalimantan;sambas;24.2;33.6;28.0;8888.0;1.0
+Kalimantan Barat;KUBU RAYA;Kubu;Kubu;20/06/2023;13:52 WIB;NASA-MODIS;Medium;-0.45909;10970046.0;Kalimantan;kubu raya;24.0;32.2;27.8;1.2;2.0
+Kalimantan Barat;KETAPANG;Sandai;Jago Bersatu;20/08/2023;13:20 WIB;NASA-NOAA20;Medium;-119567.0;11045682.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Kampar Sebomban;20/08/2023;13:20 WIB;NASA-NOAA20;Medium;-0.86377;11030176.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Kemuning Biutak;20/08/2023;09:58 WIB;NASA-MODIS;Medium;-199867.0;11045004.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;MELAWI;Ella Hilir;Popai;20/08/2023;13:20 WIB;NASA-NOAA20;Medium;-0.41723;11205778.0;Kalimantan;melawi;25.0;34.4;29.4;0.0;2.0
+Kalimantan Barat;MELAWI;Menukung;Sampak;20/08/2023;13:20 WIB;NASA-NOAA20;Medium;-0.47351;11222893.0;Kalimantan;melawi;25.0;34.4;29.4;0.0;2.0
+Kalimantan Timur;BERAU;Segah;Siduung Indah;20/08/2023;13:20 WIB;NASA-NOAA20;High;199491.0;11715797.0;Kalimantan;berau;23.5;34.3;27.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Manis Mata;Silat;20/08/2023;13:18 WIB;NASA-NOAA20;Medium;-229672.0;11102468.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Teluk Mutiara;20/08/2023;13:20 WIB;NASA-NOAA20;Medium;-0.88735;11049601.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Mahawa;03/06/2023;13:25 WIB;NASA-MODIS;High;-189973.0;11062084.0;Kalimantan;ketapang;26.1;34.5;29.4;0.0;3.0
+Kalimantan Barat;MELAWI;Pinoh Utara;Manding;03/06/2023;13:25 WIB;NASA-MODIS;High;-0.31326;11184557.0;Kalimantan;melawi;26.0;33.5;30.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Nanga Kelampai;03/06/2023;13:25 WIB;NASA-MODIS;High;-190104.0;11061181.0;Kalimantan;ketapang;26.1;34.5;29.4;0.0;3.0
+Kalimantan Barat;KETAPANG;Kendawangan;Pembedilan;10/06/2023;13:25 WIB;NASA-MODIS;High;-278462.0;11041674.0;Kalimantan;ketapang;24.0;33.8;29.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;10/06/2023;13:25 WIB;NASA-MODIS;High;-0.79939;11032636.0;Kalimantan;ketapang;24.0;33.8;29.0;0.0;3.0
+Kalimantan Barat;SAMBAS;Paloh;Temajuk;15/06/2023;13:40 WIB;NASA-MODIS;High;195883.0;10947733.0;Kalimantan;sambas;24.0;33.2;27.0;2.0;1.0
+Kalimantan Barat;KUBU RAYA;Kuala Mandor B;Kubu Padi;21/06/2023;13:44 WIB;NASA-NOAA20;High;0.10321;10941844.0;Kalimantan;kubu raya;24.0;33.4;27.2;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Silat Hilir;Perigi;21/06/2023;13:44 WIB;NASA-NOAA20;High;0.31519;1117515.0;Kalimantan;kapuas hulu;23.9;34.7;28.5;;1.0
+Kalimantan Barat;KETAPANG;Kendawangan;Danau Buntar;22/06/2023;13:37 WIB;NASA-MODIS;High;-270053.0;11093418.0;Kalimantan;ketapang;24.7;34.9;29.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Kendawangan;Bangkal Serai;24/06/2023;13:22 WIB;NASA-MODIS;High;-25249.0;11045467.0;Kalimantan;ketapang;24.2;32.6;28.3;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Sekucing Labai;24/06/2023;13:22 WIB;NASA-MODIS;High;-0.43155;11016019.0;Kalimantan;ketapang;24.2;32.6;28.3;0.0;2.0
+Kalimantan Barat;SAMBAS;Paloh;Mentibar;25/06/2023;21:48 WIB;NASA-MODIS;High;166094.0;10926562.0;Kalimantan;sambas;23.9;33.4;28.0;10.1;1.0
+Kalimantan Utara;NUNUKAN;Krayan Selatan;Long Pupung;26/06/2023;12:10 WIB;NASA-NOAA20;Medium;361002.0;11570315.0;Kalimantan;nunukan;24.2;31.8;27.3;0.0;2.0
+Kalimantan Utara;NUNUKAN;Krayan Barat;Long Tugul;26/06/2023;12:10 WIB;NASA-NOAA20;Medium;3769.0;11565615.0;Kalimantan;nunukan;24.2;31.8;27.3;0.0;2.0
+Kalimantan Barat;SAMBAS;Paloh;Mentibar;26/06/2023;13:52 WIB;NASA-NOAA20;High;165654.0;109272.0;Kalimantan;sambas;24.2;32.4;28.1;8888.0;1.0
+Kalimantan Barat;MELAWI;Sayan;Bora;27/06/2023;13:31 WIB;NASA-NOAA20;High;-0.66881;11178072.0;Kalimantan;melawi;25.3;33.5;27.4;0.0;2.0
+Kalimantan Barat;SAMBAS;Paloh;Mentibar;27/06/2023;01:28 WIB;NASA-MODIS;High;166314.0;10928094.0;Kalimantan;sambas;23.6;33.9;28.6;0.0;1.0
+Kalimantan Barat;SAMBAS;Paloh;Temajuk;27/06/2023;01:28 WIB;NASA-MODIS;High;197462.0;10948142.0;Kalimantan;sambas;23.6;33.9;28.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Legong;29/06/2023;13:37 WIB;NASA-MODIS;High;-0.59273;11050995.0;Kalimantan;ketapang;24.3;34.3;28.3;0.0;3.0
+Kalimantan Barat;SINTANG;Sepauk;Nanga Pari;01/07/2023;13:22 WIB;NASA-MODIS;High;-0.43613;1111557.0;Kalimantan;sintang;25.1;32.8;28.3;0.0;1.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Pematang Gadung;01/07/2023;13:22 WIB;NASA-MODIS;High;-199758.0;11015031.0;Kalimantan;ketapang;25.0;34.3;28.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Sekukun;01/07/2023;13:22 WIB;NASA-MODIS;High;-128577.0;11082446.0;Kalimantan;ketapang;25.0;34.3;28.2;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaibulan;16/07/2023;12:36 WIB;NASA-NOAA20;High;-0.3232;10947347.0;Kalimantan;kubu raya;24.2;32.8;27.9;0.0;3.0
+Kalimantan Barat;KAPUAS HULU;Silat Hulu;Belimbing;17/07/2023;13:05 WIB;NASA-MODIS;High;0.26747;11202532.0;Kalimantan;kapuas hulu;23.6;34.5;28.6;0.4;1.0
+Kalimantan Utara;NUNUKAN;Sei Menggaris;Samaenre Semaja;17/07/2023;13:08 WIB;NASA-MODIS;Medium;422088.0;11727171.0;Kalimantan;nunukan;25.0;32.2;28.1;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;;Area Tidak Terdefinisi;18/07/2023;13:37 WIB;NASA-NOAA20;High;0.49491;11208533.0;Kalimantan;kapuas hulu;23.5;35.8;28.9;;1.0
+Kalimantan Barat;KAPUAS HULU;Silat Hulu;Belimbing;18/07/2023;13:37 WIB;NASA-NOAA20;High;0.25896;11209677.0;Kalimantan;kapuas hulu;23.5;35.8;28.9;;1.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Beluh Mulyo;18/07/2023;13:37 WIB;NASA-NOAA20;High;0.4597;11149659.0;Kalimantan;sintang;22.6;33.8;28.0;0.0;2.0
+Kalimantan Barat;SINTANG;Sepauk;Bernayau;18/07/2023;13:37 WIB;NASA-NOAA20;High;-0.37474;11113735.0;Kalimantan;sintang;22.6;33.8;28.0;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Jambu;18/07/2023;13:37 WIB;NASA-NOAA20;High;-0.1493;11195847.0;Kalimantan;sintang;22.6;33.8;28.0;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Tengah;18/07/2023;13:37 WIB;NASA-NOAA20;High;-0.4675;11040295.0;Kalimantan;ketapang;24.8;34.2;28.9;0.0;3.0
+Kalimantan Barat;SINTANG;Sepauk;Landau Panjang;18/07/2023;13:37 WIB;NASA-NOAA20;High;-0.28182;11118712.0;Kalimantan;sintang;22.6;33.8;28.0;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Putussibau Utara;Lauk;18/07/2023;13:37 WIB;NASA-NOAA20;High;111083.0;11265839.0;Kalimantan;kapuas hulu;23.5;35.8;28.9;;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Abai;18/07/2023;13:37 WIB;NASA-NOAA20;High;-0.0772;11226425.0;Kalimantan;sintang;22.6;33.8;28.0;0.0;2.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Pangkalan Teluk;18/07/2023;13:46 WIB;NASA-MODIS;High;-139111.0;11044575.0;Kalimantan;ketapang;24.8;34.2;28.9;0.0;3.0
+Kalimantan Barat;KAPUAS HULU;Silat Hilir;Rumbih;18/07/2023;13:37 WIB;NASA-NOAA20;High;0.24534;11196954.0;Kalimantan;kapuas hulu;23.5;35.8;28.9;;1.0
+Kalimantan Barat;SINTANG;Kelam Permai;Sepan Lebang;18/07/2023;13:37 WIB;NASA-NOAA20;High;0.18558;11182127.0;Kalimantan;sintang;22.6;33.8;28.0;0.0;2.0
+Kalimantan Barat;SAMBAS;Teluk Keramat;Sungai Kumpai;18/07/2023;13:46 WIB;NASA-MODIS;High;144778.0;10914664.0;Kalimantan;sambas;24.8;33.6;29.1;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Sungai Sintang;18/07/2023;13:37 WIB;NASA-NOAA20;High;0.11198;11206994.0;Kalimantan;sintang;22.6;33.8;28.0;0.0;2.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Pesaguan Kanan;19/07/2023;21:44 WIB;NASA-MODIS;High;-201071.0;11017554.0;Kalimantan;ketapang;25.0;34.2;28.8;0.0;4.0
+Kalimantan Barat;MELAWI;Ella Hilir;Sungai Mentoba;19/07/2023;12:53 WIB;NASA-MODIS;High;-0.29378;11209573.0;Kalimantan;melawi;23.4;34.3;29.1;0.0;2.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Nanjung;24/07/2023;21:52 WIB;NASA-MODIS;High;-213764.0;11012641.0;Kalimantan;ketapang;24.8;32.8;28.3;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaibulan;26/07/2023;21:37 WIB;NASA-MODIS;High;-0.31816;10946907.0;Kalimantan;kubu raya;23.4;34.0;28.1;0.0;3.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Air Nyuruk;27/07/2023;13:31 WIB;NASA-MODIS;High;0.55839;11155903.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Balai Pinang;27/07/2023;12:27 WIB;NASA-NOAA20;High;-0.53383;11040897.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Balai Pinang Hulu;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.57187;11042796.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KAPUAS HULU;Seberuang;Bati;27/07/2023;12:27 WIB;NASA-NOAA20;High;0.4101;11206928.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Betung Permai;27/07/2023;13:31 WIB;NASA-MODIS;High;0.48033;11139979.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Botuh Bosi;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.51203;11033752.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KAPUAS HULU;Silat Hulu;Dangkan Kota;27/07/2023;13:31 WIB;NASA-MODIS;High;0.21905;1120276.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;KAPUAS HULU;Seberuang;Emperiang;27/07/2023;13:31 WIB;NASA-MODIS;High;0.46496;11205227.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;KAPUAS HULU;Bika;Jelemuk;27/07/2023;13:31 WIB;NASA-MODIS;High;0.77625;11278428.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kenanga;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.66627;11054495.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;MELAWI;Tanah Pinoh;Keranjik;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.85144;11156277.0;Kalimantan;melawi;23.6;33.2;28.2;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hilir;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.66441;11030282.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hulu;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.5539;11055287.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Tengah;27/07/2023;12:27 WIB;NASA-NOAA20;High;-0.46538;11039867.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Kubu Berangan;27/07/2023;13:31 WIB;NASA-MODIS;High;0.84098;11141109.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Labai Hilir;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.48967;10998483.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;MELAWI;Sayan;Landau Sandak;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.8364;11166733.0;Kalimantan;melawi;23.6;33.2;28.2;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Legong;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.57092;11057112.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Mekar Harapan;27/07/2023;13:31 WIB;NASA-MODIS;High;-10458.0;11040652.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Merawa;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.5208;11046587.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KAPUAS HULU;Putussibau Utara;Nanga Awin;27/07/2023;13:31 WIB;NASA-MODIS;High;0.95473;11288641.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;MELAWI;Ella Hilir;Nanga Nuak;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.40303;1121203.0;Kalimantan;melawi;23.6;33.2;28.2;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Putussibau Utara;Nanga Nyabau;27/07/2023;13:31 WIB;NASA-MODIS;High;101494.0;11274332.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;KAPUAS HULU;Seberuang;Nanga Pala;27/07/2023;13:31 WIB;NASA-MODIS;High;0.40938;11193612.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Panggi Ruguk;27/07/2023;13:31 WIB;NASA-MODIS;High;0.64328;11138335.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Rasau Jaya;Pematang Tujuh;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.19111;10931031.0;Kalimantan;kubu raya;23.6;34.0;27.5;0.0;4.0
+Kalimantan Barat;MELAWI;Belimbing Hulu;Piawas;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.43479;11150669.0;Kalimantan;melawi;23.6;33.2;28.2;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.11525;10932002.0;Kalimantan;kubu raya;23.6;34.0;27.5;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Radin Jaya;27/07/2023;13:31 WIB;NASA-MODIS;High;0.83416;11156055.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;SINTANG;Tempunak;Riam Batu;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.38284;1112907.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Riam Dadap;27/07/2023;13:31 WIB;NASA-MODIS;High;-120724.0;110816.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KAPUAS HULU;Silat Hilir;Seberu;27/07/2023;13:31 WIB;NASA-MODIS;High;0.28461;11194601.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Sekukun;27/07/2023;12:27 WIB;NASA-NOAA20;High;-126487.0;11083016.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Semandang Hulu;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.61067;11048573.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.7354;11038219.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Semantun;27/07/2023;12:27 WIB;NASA-NOAA20;High;-209685.0;11097465.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;MELAWI;Pinoh Utara;Senibung;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.21904;11178738.0;Kalimantan;melawi;23.6;33.2;28.2;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Silat Hilir;Sentabai;27/07/2023;13:31 WIB;NASA-MODIS;High;0.48457;11175646.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;KAPUAS HULU;Batang Lupar;Sungai Ajung;27/07/2023;13:31 WIB;NASA-MODIS;High;102422.0;11237379.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Sungai Kelik;27/07/2023;13:31 WIB;NASA-MODIS;High;101103.0;11119192.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Putussibau Utara;Sungai Uluk Palin;27/07/2023;13:31 WIB;NASA-MODIS;High;105334.0;11279596.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaibulan;27/07/2023;01:11 WIB;NASA-MODIS;High;-0.32045;10947803.0;Kalimantan;kubu raya;23.6;34.0;27.5;0.0;4.0
+Kalimantan Barat;MELAWI;Belimbing;Tekaban;27/07/2023;13:31 WIB;NASA-MODIS;High;-0.35864;11158643.0;Kalimantan;melawi;23.6;33.2;28.2;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Teluknibung;27/07/2023;12:27 WIB;NASA-NOAA20;High;-0.82063;10942406.0;Kalimantan;kubu raya;23.6;34.0;27.5;0.0;4.0
+Kalimantan Barat;SAMBAS;Paloh;Temajuk;27/07/2023;13:31 WIB;NASA-MODIS;High;193795.0;10943955.0;Kalimantan;sambas;24.4;34.5;28.7;0.0;2.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Wana Bhakti;27/07/2023;13:31 WIB;NASA-MODIS;High;0.83274;11155074.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kenanga;28/07/2023;13:50 WIB;NASA-NOAA20;High;-0.67321;11054777.0;Kalimantan;ketapang;23.3;33.4;27.8;0.0;4.0
+Kalimantan Barat;SINTANG;Tempunak;Kuala Tiga;28/07/2023;13:50 WIB;NASA-NOAA20;High;-0.25409;11129333.0;Kalimantan;sintang;22.6;32.2;27.4;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Silat Hilir;Penai;28/07/2023;12:10 WIB;NASA-NOAA20;High;0.36617;11166899.0;Kalimantan;kapuas hulu;24.2;;;;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Bakti Senabung;29/07/2023;13:16 WIB;NASA-MODIS;High;0.53946;11134191.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Batu Nyadi;29/07/2023;13:16 WIB;NASA-MODIS;High;0.54291;11143163.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Serawai;Bedaha;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.30774;11249664.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Begelang Jaya;29/07/2023;13:16 WIB;NASA-MODIS;High;0.61469;1112951.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;MELAWI;Menukung;Belaban Ella;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.52651;1121926.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;MELAWI;Ella Hilir;Bemban Permai;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.56913;11202638.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Botuh Bosi;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.50626;11033145.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Bukit Sidin Permai;29/07/2023;13:16 WIB;NASA-MODIS;High;0.6116;11153499.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Buluh Merindu;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.0397;11212333.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Ambalau;Buntut Purun;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.29591;11302432.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;KETAPANG;Sandai;Demit;29/07/2023;13:16 WIB;NASA-MODIS;High;-116718.0;11064395.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Durian Jaya;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.83924;11143034.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;KETAPANG;Air Upas;Gahang;29/07/2023;13:16 WIB;NASA-MODIS;High;-23472.0;11075282.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;MELAWI;Ella Hilir;Jabai;29/07/2023;13:31 WIB;NASA-NOAA20;High;-0.66954;1120261.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Jentawang Hilir;29/07/2023;13:31 WIB;NASA-NOAA20;High;0.42883;11170186.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;MELAWI;Belimbing Hulu;Kayu Bunga;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.52897;11152978.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Keluas Hulu;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.70583;11134762.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kenanga;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.67209;1105303.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;MELAWI;Ella Hilir;Kerangan Kora;29/07/2023;13:31 WIB;NASA-NOAA20;High;-0.67237;11207578.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Tengah;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.35477;11046086.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Kubu Berangan;29/07/2023;13:16 WIB;NASA-MODIS;High;0.76601;11133135.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Laja;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.70346;11142978.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;MELAWI;Sayan;Landau Sandak;29/07/2023;13:31 WIB;NASA-NOAA20;High;-0.82657;11167587.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Legong;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.58481;11050089.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Lengkong Bindu;29/07/2023;13:31 WIB;NASA-NOAA20;High;-0.09667;11198184.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Sepauk;Limau Bakti;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.29595;11109617.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Margahayu;29/07/2023;13:16 WIB;NASA-MODIS;High;0.78614;11133845.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Melingkat;29/07/2023;13:16 WIB;NASA-MODIS;High;0.04942;11197007.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Merah Arai;29/07/2023;13:31 WIB;NASA-NOAA20;High;-0.23113;11225453.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;MELAWI;Sayan;Nanga Kompi;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.85582;11175227.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Pahangan;29/07/2023;13:31 WIB;NASA-NOAA20;High;-0.29426;11305988.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Sakai;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.21314;11282694.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;MELAWI;Belimbing Hulu;Nanga Tikan;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.44592;11160343.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Toran;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.06632;11205653.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Ungai;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.08835;11209792.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;MELAWI;Menukung;Nusa Poring;29/07/2023;13:31 WIB;NASA-NOAA20;High;-0.5081;11233947.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;KETAPANG;Manis Mata;Pakit Selaba;29/07/2023;13:16 WIB;NASA-MODIS;High;-221608.0;11102647.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Pampang Dua;29/07/2023;13:31 WIB;NASA-NOAA20;High;0.6121;11154097.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;KETAPANG;Sandai;Randau;29/07/2023;13:16 WIB;NASA-MODIS;High;-0.96353;11056817.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Sekukun;29/07/2023;13:16 WIB;NASA-MODIS;High;-126543.0;11081802.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Senibung;29/07/2023;13:16 WIB;NASA-MODIS;High;0.57649;11146656.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Simpang Tiga Sembelangaan;29/07/2023;13:16 WIB;NASA-MODIS;High;-148146.0;11037873.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Sumber Sari;29/07/2023;13:16 WIB;NASA-MODIS;High;0.76746;1113412.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Sungai Seria;29/07/2023;13:16 WIB;NASA-MODIS;High;0.87639;11082999.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;MELAWI;Belimbing;Tekaban;29/07/2023;13:31 WIB;NASA-NOAA20;High;-0.37707;11156744.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;MELAWI;Sayan;Tumbak Raya;29/07/2023;13:31 WIB;NASA-NOAA20;High;-0.79838;11169225.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;SAMBAS;Jawai;Sarang Burung Danau;30/07/2023;13:59 WIB;NASA-MODIS;High;145575.0;10912409.0;Kalimantan;sambas;23.2;33.0;27.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Kendawangan;Seriam;30/07/2023;13:59 WIB;NASA-MODIS;High;-258129.0;1104124.0;Kalimantan;ketapang;23.0;33.8;28.2;0.0;4.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Batu Netak;31/07/2023;13:03 WIB;NASA-MODIS;High;0.14144;11200936.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Buntut Purun;31/07/2023;13:03 WIB;NASA-MODIS;High;-0.32189;11300838.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Embaleh;31/07/2023;13:03 WIB;NASA-MODIS;High;0.78961;11129347.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Engkeruh;31/07/2023;13:03 WIB;NASA-MODIS;High;0.93348;11104985.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Kayu Dujung;31/07/2023;13:03 WIB;NASA-MODIS;High;0.79821;11163802.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;MELAWI;Ella Hilir;Kerangan Kora;31/07/2023;13:01 WIB;NASA-MODIS;High;-0.63557;11204317.0;Kalimantan;melawi;22.7;34.2;27.9;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Kubu Berangan;31/07/2023;13:03 WIB;NASA-MODIS;High;0.80171;11129163.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;MELAWI;Sokan;Landau Kabu;31/07/2023;13:01 WIB;NASA-MODIS;High;-100363.0;11149668.0;Kalimantan;melawi;22.7;34.2;27.9;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Margahayu;31/07/2023;13:03 WIB;NASA-MODIS;High;0.79309;11135033.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SAMBAS;Tebas;Maribas;31/07/2023;21:44 WIB;NASA-MODIS;High;108251.0;10912097.0;Kalimantan;sambas;23.2;34.2;27.9;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Ambalau;31/07/2023;13:03 WIB;NASA-MODIS;High;-0.26691;11276021.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Nanga Kelapan;31/07/2023;13:03 WIB;NASA-MODIS;High;0.90891;11139055.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Menantak;31/07/2023;13:03 WIB;NASA-MODIS;High;-0.21845;11301512.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Toran;31/07/2023;13:03 WIB;NASA-MODIS;High;-0.08994;11208684.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Ukai;31/07/2023;13:03 WIB;NASA-MODIS;High;-0.22431;11297503.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;KETAPANG;Manis Mata;Pakit Selaba;31/07/2023;13:01 WIB;NASA-MODIS;High;-22155.0;11100195.0;Kalimantan;ketapang;23.6;34.2;28.6;0.0;4.0
+Kalimantan Barat;SINTANG;Ambalau;Pulou Sabhang;31/07/2023;13:03 WIB;NASA-MODIS;High;-0.10954;11274474.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Besar;31/07/2023;21:44 WIB;NASA-MODIS;High;-0.21557;1092552.0;Kalimantan;kubu raya;22.3;33.6;27.2;0.0;2.0
+Kalimantan Barat;SAMBAS;Jawai;Sarang Burung Danau;31/07/2023;13:03 WIB;NASA-MODIS;High;146165.0;10910943.0;Kalimantan;sambas;23.2;34.2;27.9;0.0;1.0
+Kalimantan Utara;NUNUKAN;Sei Menggaris;Sekaduyan Taka;31/07/2023;12:55 WIB;NASA-NOAA20;Medium;415866.0;11746449.0;Kalimantan;nunukan;25.4;32.3;28.0;0.0;2.0
+Kalimantan Barat;SAMBAS;Selakau Timur;Selakau Tua;31/07/2023;13:03 WIB;NASA-MODIS;High;108191.0;10911308.0;Kalimantan;sambas;23.2;34.2;27.9;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Semareh;31/07/2023;13:03 WIB;NASA-MODIS;High;0.98302;1113578.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SAMBAS;Tangaran;Semata;31/07/2023;21:44 WIB;NASA-MODIS;High;15069.0;10912009.0;Kalimantan;sambas;23.2;34.2;27.9;0.0;1.0
+Kalimantan Barat;SAMBAS;Semparuk;Sepinggan;31/07/2023;21:44 WIB;NASA-MODIS;High;110101.0;10911206.0;Kalimantan;sambas;23.2;34.2;27.9;0.0;1.0
+Kalimantan Barat;SAMBAS;Salatiga;Serumpun;31/07/2023;21:44 WIB;NASA-MODIS;High;108891.0;10910202.0;Kalimantan;sambas;23.2;34.2;27.9;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Sungai Garong;31/07/2023;13:03 WIB;NASA-MODIS;High;0.14912;112003.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Sungai Kelik;31/07/2023;13:03 WIB;NASA-MODIS;High;0.95383;11119156.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;MELAWI;Sokan;Tanjung Mahung;31/07/2023;13:01 WIB;NASA-MODIS;High;-1063.0;1114557.0;Kalimantan;melawi;22.7;34.2;27.9;0.0;1.0
+Kalimantan Barat;SINTANG;Sepauk;Bernayau;01/08/2023;13:44 WIB;NASA-MODIS;High;-0.38729;11117196.0;Kalimantan;sintang;23.2;34.2;28.3;0.0;1.0
+Kalimantan Barat;MELAWI;Ella Hilir;Nanga Nyuruh;01/08/2023;12:33 WIB;NASA-NOAA20;High;-0.51109;11207652.0;Kalimantan;melawi;22.4;34.6;28.9;;1.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;01/08/2023;12:36 WIB;NASA-NOAA20;High;-0.15155;10935258.0;Kalimantan;kubu raya;23.2;34.2;27.4;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Rasau Jaya;Rasau Jaya Umum;01/08/2023;12:36 WIB;NASA-NOAA20;High;-0.16209;10935119.0;Kalimantan;kubu raya;23.2;34.2;27.4;0.0;2.0
+Kalimantan Barat;SAMBAS;Jawai;Sarang Burung Danau;01/08/2023;01:24 WIB;NASA-MODIS;High;147036.0;10912335.0;Kalimantan;sambas;24.3;33.4;28.4;;1.0
+Kalimantan Barat;SAMBAS;Semparuk;Sepinggan;01/08/2023;01:24 WIB;NASA-MODIS;High;109299.0;10911716.0;Kalimantan;sambas;24.3;33.4;28.4;;1.0
+Kalimantan Barat;SAMBAS;Paloh;Temajuk;01/08/2023;13:44 WIB;NASA-MODIS;High;194901.0;10945328.0;Kalimantan;sambas;24.3;33.4;28.4;;1.0
+Kalimantan Barat;SAMBAS;Teluk Keramat;Tri Mandayan;01/08/2023;01:24 WIB;NASA-MODIS;High;146991.0;10912782.0;Kalimantan;sambas;24.3;33.4;28.4;;1.0
+Kalimantan Barat;KETAPANG;Kendawangan;Bangkal Serai;03/08/2023;13:37 WIB;NASA-NOAA20;High;-233005.0;11055733.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;MELAWI;Menukung;Batu Badak;03/08/2023;13:29 WIB;NASA-MODIS;High;-0.42548;1122296.0;Kalimantan;melawi;22.6;34.2;27.5;6.6;1.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Batu Lapis;03/08/2023;13:29 WIB;NASA-MODIS;High;-1287.0;11079246.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Beginci Darat;03/08/2023;13:37 WIB;NASA-NOAA20;High;-134904.0;11104089.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Melayu Rayak;Jairan Jaya;03/08/2023;13:37 WIB;NASA-NOAA20;High;-175847.0;1104405.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Jelayan;03/08/2023;13:37 WIB;NASA-NOAA20;High;-177602.0;11065588.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Kayung Tuhe;03/08/2023;13:29 WIB;NASA-MODIS;High;-157234.0;11067188.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Kusik Batu Lapu;03/08/2023;13:29 WIB;NASA-MODIS;High;-203764.0;11088732.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Landau Bara;03/08/2023;13:37 WIB;NASA-NOAA20;High;-0.11911;11209407.0;Kalimantan;sintang;22.2;33.6;27.2;27.4;0.0
+Kalimantan Barat;SINTANG;Serawai;Mensulung Bio;03/08/2023;13:37 WIB;NASA-NOAA20;High;-0.23303;11261018.0;Kalimantan;sintang;22.2;33.6;27.2;27.4;0.0
+Kalimantan Barat;KETAPANG;Pemahan;Muara Gerunggang;03/08/2023;13:29 WIB;NASA-MODIS;High;-167659.0;11052111.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Masau;03/08/2023;13:29 WIB;NASA-MODIS;High;-0.16076;1123427.0;Kalimantan;sintang;22.2;33.6;27.2;27.4;0.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Segulang;03/08/2023;13:29 WIB;NASA-MODIS;High;-0.418;11248053.0;Kalimantan;sintang;22.2;33.6;27.2;27.4;0.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Nanga Tayap;03/08/2023;13:29 WIB;NASA-MODIS;High;-159407.0;11052142.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Ungai;03/08/2023;13:37 WIB;NASA-NOAA20;High;-0.10174;11209145.0;Kalimantan;sintang;22.2;33.6;27.2;27.4;0.0
+Kalimantan Barat;KETAPANG;Pemahan;Pebihingan;03/08/2023;13:37 WIB;NASA-NOAA20;High;-172268.0;1105778.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;KETAPANG;Marau;Pelanjau Jaya;03/08/2023;13:29 WIB;NASA-MODIS;High;-224844.0;11064088.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;KETAPANG;Manis Mata;Pelempangan;03/08/2023;13:37 WIB;NASA-NOAA20;High;-218899.0;1110371.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Utara;Ruhui Rahayu;03/08/2023;11:57 WIB;NASA-NOAA20;Medium;308197.0;11725809.0;Kalimantan;bulungan;25.4;36.0;29.1;;1.0
+Kalimantan Barat;KETAPANG;Marau;Runjai Jaya;03/08/2023;13:37 WIB;NASA-NOAA20;High;-209708.0;11083342.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Siantau Raya;03/08/2023;13:29 WIB;NASA-MODIS;High;-166641.0;11052867.0;Kalimantan;ketapang;22.9;34.0;27.6;7.0;3.0
+Kalimantan Barat;MELAWI;Menukung;Nanga Mawang Mentatai;04/08/2023;13:20 WIB;NASA-NOAA20;High;-0.43716;11230538.0;Kalimantan;melawi;24.5;34.8;29.1;;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Ungai;04/08/2023;13:20 WIB;NASA-NOAA20;High;-0.04364;1121349.0;Kalimantan;sintang;22.6;34.4;28.4;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Sekucing Labai;04/08/2023;13:20 WIB;NASA-NOAA20;High;-0.48219;11032746.0;Kalimantan;ketapang;24.4;34.6;29.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Balai Pinang Hulu;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.63392;11032059.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;MELAWI;Tanah Pinoh;Bata Luar;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.86112;11144871.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;MELAWI;Ella Hilir;Bemban Permai;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.5916;11204284.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Bukit Raya;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.7313;11148237.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Buluh Merindu;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.04611;11212548.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Deme;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.18299;11302891.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Durian Jaya;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.8288;11144949.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;MELAWI;Ella Hilir;Jabai;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.69134;11199336.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Kayung Tuhe;05/08/2023;13:14 WIB;NASA-MODIS;High;-157446.0;11061681.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;SINTANG;Ambalau;Kepala Jungai;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.01456;11298302.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;MELAWI;Tanah Pinoh;Keranjik;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.83789;11154198.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hilir;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.63568;11030821.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;MELAWI;Menukung;Lihai;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.397;11218104.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Merawa;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.48432;11044901.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Mungguk Lawang;05/08/2023;13:16 WIB;NASA-MODIS;High;0.6434;1116666.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Nanga Kelampai;05/08/2023;13:14 WIB;NASA-MODIS;High;-188511.0;11052907.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;MELAWI;Ella Hilir;Nanga Kempangai;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.61763;11212633.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;MELAWI;Menukung;Nanga Mawang Mentatai;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.44623;11235136.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;MELAWI;Ella Hilir;Nanga Nyuruh;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.52364;1120774.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Segulang;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.42344;11244483.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Nanga Tayap;05/08/2023;21:52 WIB;NASA-MODIS;High;-151551.0;11046952.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Tebidah;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.14434;11208699.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Ungai;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.0447;11213522.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Padung Kumang;05/08/2023;13:16 WIB;NASA-MODIS;High;0.71006;11169315.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Paoh Concong;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.68737;11039108.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Segar Wangi;05/08/2023;13:14 WIB;NASA-MODIS;High;-18798.0;11053373.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Sungai Buaya;05/08/2023;13:16 WIB;NASA-MODIS;High;0.08922;11198469.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Sungai Sintang;05/08/2023;13:16 WIB;NASA-MODIS;High;0.10564;11203197.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Tapang Manua;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.15994;11241743.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Teluk Runjai;05/08/2023;13:14 WIB;NASA-MODIS;High;-199862.0;11079475.0;Kalimantan;ketapang;24.9;34.2;28.4;0.0;3.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Tirta Karya;05/08/2023;13:16 WIB;NASA-MODIS;High;0.67792;11160507.0;Kalimantan;sintang;21.8;34.6;27.7;0.0;1.0
+Kalimantan Barat;MELAWI;Sayan;Tumbak Raya;05/08/2023;13:16 WIB;NASA-MODIS;High;-0.80902;11167558.0;Kalimantan;melawi;23.6;35.0;28.9;;1.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Pesaguan Kanan;06/08/2023;01:36 WIB;NASA-MODIS;High;-20503.0;1102167.0;Kalimantan;ketapang;25.1;34.0;28.1;4.9;3.0
+Kalimantan Barat;MELAWI;Belimbing;Balai Lagas;07/08/2023;13:01 WIB;NASA-MODIS;High;-0.58047;11139182.0;Kalimantan;melawi;22.6;34.0;27.5;0.2;2.0
+Kalimantan Barat;MELAWI;Sokan;Gelata;07/08/2023;12:23 WIB;NASA-NOAA20;High;-10253.0;111.53;Kalimantan;melawi;22.6;34.0;27.5;0.2;2.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Harapan Jaya;07/08/2023;13:01 WIB;NASA-MODIS;High;-0.65896;11138828.0;Kalimantan;melawi;22.6;34.0;27.5;0.2;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hilir;07/08/2023;13:01 WIB;NASA-MODIS;High;-0.59665;11019176.0;Kalimantan;ketapang;24.3;30.0;27.2;1.5;3.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Kebarau;08/08/2023;13:44 WIB;NASA-MODIS;High;-0.13536;11207146.0;Kalimantan;sintang;23.6;33.8;28.0;10.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Mungguk Entawak;08/08/2023;13:44 WIB;NASA-MODIS;High;0.80467;11125607.0;Kalimantan;sintang;23.6;33.8;28.0;10.0;1.0
+Kalimantan Barat;MELAWI;Belimbing;Nanga Entebah;08/08/2023;13:44 WIB;NASA-MODIS;High;-0.40926;11135986.0;Kalimantan;melawi;22.8;33.4;28.3;0.0;1.0
+Kalimantan Barat;MELAWI;Belimbing;Nanga Pau;08/08/2023;13:44 WIB;NASA-MODIS;High;-0.43542;11142487.0;Kalimantan;melawi;22.8;33.4;28.3;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;08/08/2023;13:44 WIB;NASA-NOAA20;High;-0.72879;11037253.0;Kalimantan;ketapang;24.4;34.0;28.7;8888.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Semandang Kiri;08/08/2023;13:44 WIB;NASA-NOAA20;High;-0.62032;11045532.0;Kalimantan;ketapang;24.4;34.0;28.7;8888.0;3.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Senangan Jaya;08/08/2023;13:44 WIB;NASA-MODIS;High;0.69688;11154409.0;Kalimantan;sintang;23.6;33.8;28.0;10.0;1.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Serengkah Kanan;08/08/2023;13:44 WIB;NASA-MODIS;High;-176735.0;11072659.0;Kalimantan;ketapang;24.4;34.0;28.7;8888.0;3.0
+Kalimantan Barat;KETAPANG;Kendawangan;Sungai Jelayan;08/08/2023;13:44 WIB;NASA-NOAA20;High;-215165.0;11044567.0;Kalimantan;ketapang;24.4;34.0;28.7;8888.0;3.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Sungai Menuang;08/08/2023;13:44 WIB;NASA-MODIS;High;-0.18167;11197513.0;Kalimantan;sintang;23.6;33.8;28.0;10.0;1.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Pesaguan Kanan;09/08/2023;21:18 WIB;NASA-MODIS;High;-205032.0;11020304.0;Kalimantan;ketapang;23.5;33.4;28.1;0.0;3.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Air Dua;10/08/2023;13:29 WIB;NASA-MODIS;High;-195063.0;11080393.0;Kalimantan;ketapang;23.8;33.3;27.9;0.0;4.0
+Kalimantan Barat;MELAWI;Tanah Pinoh;Bata Luar;10/08/2023;13:29 WIB;NASA-MODIS;High;-0.87162;11144932.0;Kalimantan;melawi;24.5;34.0;27.6;;2.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Bengaras;10/08/2023;13:29 WIB;NASA-MODIS;High;-0.98826;11051582.0;Kalimantan;ketapang;23.8;33.3;27.9;0.0;4.0
+Kalimantan Barat;MELAWI;Tanah Pinoh;Bina Karya;10/08/2023;13:29 WIB;NASA-MODIS;High;-0.79555;11158697.0;Kalimantan;melawi;24.5;34.0;27.6;;2.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Kempas Raya;10/08/2023;13:29 WIB;NASA-MODIS;High;0.0318;11195676.0;Kalimantan;sintang;23.4;34.6;27.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Manis Mata;Kemuning;10/08/2023;13:29 WIB;NASA-MODIS;High;-221544.0;11095163.0;Kalimantan;ketapang;23.8;33.3;27.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Kesuma Jaya;10/08/2023;13:29 WIB;NASA-MODIS;High;-193556.0;11084126.0;Kalimantan;ketapang;23.8;33.3;27.9;0.0;4.0
+Kalimantan Barat;MELAWI;Sayan;Madya Raya;10/08/2023;13:29 WIB;NASA-MODIS;High;-0.89052;11163491.0;Kalimantan;melawi;24.5;34.0;27.6;;2.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Nanga Kelampai;10/08/2023;13:29 WIB;NASA-MODIS;High;-192573.0;11046712.0;Kalimantan;ketapang;23.8;33.3;27.9;0.0;4.0
+Kalimantan Barat;SINTANG;Sepauk;Nanga Libau;10/08/2023;13:29 WIB;NASA-MODIS;High;-0.15037;11115012.0;Kalimantan;sintang;23.4;34.6;27.6;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Nanga Merkak;10/08/2023;13:29 WIB;NASA-MODIS;High;0.53832;11151018.0;Kalimantan;sintang;23.4;34.6;27.6;0.0;1.0
+Kalimantan Barat;MELAWI;Ella Hilir;Perembang Nyuruh;10/08/2023;09:38 WIB;NASA-MODIS;High;-0.5683;11212706.0;Kalimantan;melawi;24.5;34.0;27.6;;2.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Pesaguan Kanan;10/08/2023;01:09 WIB;NASA-MODIS;High;-205213.0;11021556.0;Kalimantan;ketapang;23.8;33.3;27.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;10/08/2023;13:29 WIB;NASA-MODIS;High;-0.70995;1102693.0;Kalimantan;ketapang;23.8;33.3;27.9;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Madu Sari;11/08/2023;12:48 WIB;NASA-NOAA20;High;-0.11076;10945754.0;Kalimantan;kubu raya;23.8;32.0;26.4;0.1;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Balai Pinang Hulu;12/08/2023;12:27 WIB;NASA-NOAA20;High;-0.61344;11037876.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Batu Mas;12/08/2023;12:27 WIB;NASA-NOAA20;High;-168093.0;11055894.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Bayun Sari;12/08/2023;13:14 WIB;NASA-MODIS;High;-103598.0;11044279.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Botuh Bosi;12/08/2023;12:27 WIB;NASA-NOAA20;High;-0.56581;11037728.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Harapan Baru;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.76258;11050636.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Harapan Jaya;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.71045;11135867.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;KETAPANG;Sungai Melayu Rayak;Jairan Jaya;12/08/2023;12:27 WIB;NASA-NOAA20;High;-1754.0;11043411.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;MELAWI;Sayan;Karangan Purun;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.66249;11162373.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Keluas Hulu;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.71211;11134699.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;MELAWI;Sokan;Keluing Taja;12/08/2023;13:14 WIB;NASA-MODIS;High;-101714.0;11143281.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kenanga;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.61767;11057073.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Kesuma Jaya;12/08/2023;13:14 WIB;NASA-MODIS;High;-193869.0;11085857.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Krio Hulu;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.90246;11081082.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hilir;12/08/2023;12:27 WIB;NASA-NOAA20;High;-0.546;11018581.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Tengah;12/08/2023;12:27 WIB;NASA-NOAA20;High;-0.45112;11035359.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Legong;12/08/2023;12:27 WIB;NASA-NOAA20;High;-0.59092;11052996.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Limpang;12/08/2023;13:14 WIB;NASA-MODIS;High;-187883.0;11082427.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Madu Sari;12/08/2023;21:44 WIB;NASA-MODIS;High;-0.10841;10944904.0;Kalimantan;kubu raya;23.1;33.0;25.9;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Mekar Sari;12/08/2023;21:44 WIB;NASA-MODIS;High;-0.23899;10944361.0;Kalimantan;kubu raya;23.1;33.0;25.9;0.0;2.0
+Kalimantan Barat;SINTANG;Serawai;Mentajoi;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.3933;11261835.0;Kalimantan;sintang;22.0;33.6;26.6;41.7;1.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Merabu Jaya;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.6947;11067935.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;SINTANG;Serawai;Merako Jaya;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.33069;1126586.0;Kalimantan;sintang;22.0;33.6;26.6;41.7;1.0
+Kalimantan Barat;MELAWI;Ella Hilir;Nanga Ella Hilir;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.42699;11205335.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;MELAWI;Belimbing;Nanga Pau;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.52109;11146729.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;MELAWI;Sayan;Nanga Sayan;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.70689;11166354.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Nanga Tayap;12/08/2023;13:14 WIB;NASA-MODIS;High;-155847.0;11056763.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Pangkalan Suka;12/08/2023;12:27 WIB;NASA-NOAA20;High;-135492.0;11058876.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Paoh Concong;12/08/2023;12:27 WIB;NASA-NOAA20;High;-0.70491;11041566.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;12/08/2023;21:44 WIB;NASA-MODIS;High;-0.12587;10932504.0;Kalimantan;kubu raya;23.1;33.0;25.9;0.0;2.0
+Kalimantan Barat;KETAPANG;Sandai;Sandai;12/08/2023;13:14 WIB;NASA-MODIS;High;-128757.0;11053839.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Sebadak Raya;12/08/2023;12:27 WIB;NASA-NOAA20;High;-140518.0;11075702.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;12/08/2023;12:27 WIB;NASA-NOAA20;High;-0.72818;11033591.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Semandang Kiri;12/08/2023;12:27 WIB;NASA-NOAA20;High;-0.64068;11041276.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Kendawangan;Seriam;12/08/2023;12:27 WIB;NASA-NOAA20;High;-27051.0;11041655.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Sunge Bengaras;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.82327;11079257.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Tajok Kayong;12/08/2023;13:14 WIB;NASA-MODIS;High;-156733.0;11058235.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;MELAWI;Sokan;Tanjung Mahung;12/08/2023;13:14 WIB;NASA-MODIS;High;-101552.0;11144393.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Tanjung Maju;12/08/2023;12:27 WIB;NASA-NOAA20;High;-0.69011;11047625.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Tebing Berseri;12/08/2023;12:27 WIB;NASA-NOAA20;High;-197571.0;1108521.0;Kalimantan;ketapang;22.5;32.3;26.6;0.0;3.0
+Kalimantan Barat;MELAWI;Sokan;Teluk Pongkal;12/08/2023;13:14 WIB;NASA-MODIS;High;-0.94916;11140452.0;Kalimantan;melawi;23.0;34.0;27.5;6.7;2.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Air Dua;13/08/2023;13:50 WIB;NASA-NOAA20;High;-19597.0;11081621.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Balai Pinang Hulu;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.58489;11041836.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Batu Lapis;13/08/2023;12:10 WIB;NASA-NOAA20;High;-126081.0;11097064.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;SINTANG;Serawai;Bedaha;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.28604;11249729.0;Kalimantan;sintang;22.0;34.2;27.0;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Deme;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.18219;11303003.0;Kalimantan;sintang;22.0;34.2;27.0;0.0;1.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Durian Jaya;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.78523;11140145.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;MELAWI;Pinoh Utara;Engkurai;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.2827;11193931.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;KETAPANG;Air Upas;Harapan Baru;13/08/2023;13:50 WIB;NASA-NOAA20;High;-218086.0;11091259.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;MELAWI;Ella Hilir;Kahiya;13/08/2023;01:11 WIB;NASA-NOAA20;High;-0.49729;11196352.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kenanga;13/08/2023;13:57 WIB;NASA-MODIS;High;-0.62972;11055357.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Krio Hulu;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.87841;11085763.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hulu;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.46742;11055602.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Labai Hilir;13/08/2023;13:57 WIB;NASA-MODIS;High;-0.5022;11000619.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;SAMBAS;Jawai;Lambau;13/08/2023;13:52 WIB;NASA-NOAA20;High;136993.0;10914436.0;Kalimantan;sambas;23.4;33.4;27.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Legong;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.62559;11050977.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;SINTANG;Serawai;Limbur Bernaung Lestari;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.16496;1125703.0;Kalimantan;sintang;22.0;34.2;27.0;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Sungai Ambawang;Lingga;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.05587;10958996.0;Kalimantan;kubu raya;21.8;34.6;26.6;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Madu Sari;13/08/2023;01:34 WIB;NASA-MODIS;High;-0.10403;10945484.0;Kalimantan;kubu raya;21.8;34.6;26.6;0.0;2.0
+Kalimantan Barat;SINTANG;Serawai;Mensulung Bio;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.23427;11260754.0;Kalimantan;sintang;22.0;34.2;27.0;0.0;1.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Menyumbung;13/08/2023;13:50 WIB;NASA-NOAA20;High;-103508.0;11075727.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Merabu Jaya;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.65681;11067886.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;MELAWI;Belimbing;Nanga Pau;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.47141;11142316.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;MELAWI;Sayan;Nanga Raku;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.75993;11178667.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Segulang;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.48268;11249033.0;Kalimantan;sintang;22.0;34.2;27.0;0.0;1.0
+Kalimantan Barat;MELAWI;Sokan;Nanga Tangkit;13/08/2023;13:50 WIB;NASA-NOAA20;High;-105758.0;11147807.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;KETAPANG;Benua Kayong;Negeri Baru;13/08/2023;13:50 WIB;NASA-NOAA20;High;-188715.0;11008078.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;MELAWI;Menukung;Nusa Poring;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.46962;11235312.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Pangkalan Suka;13/08/2023;12:10 WIB;NASA-NOAA20;High;-128706.0;11059909.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;SAMBAS;Jawai;Pelimpaan;13/08/2023;13:57 WIB;NASA-MODIS;High;136375.0;10914398.0;Kalimantan;sambas;23.4;33.4;27.7;0.0;1.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Pelita Jaya;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.75083;11153062.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;KETAPANG;Sandai;Petai Patah;13/08/2023;13:50 WIB;NASA-NOAA20;High;-118045.0;11060133.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;13/08/2023;10:04 WIB;NASA-MODIS;High;-0.13049;10933752.0;Kalimantan;kubu raya;21.8;34.6;26.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Sandai;Randau Jungkal;13/08/2023;13:50 WIB;NASA-NOAA20;High;-117895.0;11069051.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Riam Danau Kanan;13/08/2023;13:50 WIB;NASA-NOAA20;High;-195355.0;11085262.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Sandai;Sandai;13/08/2023;12:10 WIB;NASA-NOAA20;High;-12826.0;1105991.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Sandai;Sandai Kiri;13/08/2023;13:57 WIB;NASA-MODIS;High;-125143.0;11050417.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;SAMBAS;Jawai;Sarang Burung Kuala;13/08/2023;13:57 WIB;NASA-MODIS;High;137582.0;10914225.0;Kalimantan;sambas;23.4;33.4;27.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Sekucing Labai;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.47078;11033096.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Semandang Hulu;13/08/2023;13:57 WIB;NASA-MODIS;High;-0.55932;11049343.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;SAMBAS;Teluk Keramat;Sungai Baru;13/08/2023;13:57 WIB;NASA-MODIS;High;137832.0;10915936.0;Kalimantan;sambas;23.4;33.4;27.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;13/08/2023;01:36 WIB;NASA-MODIS;High;-190271.0;11015113.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Sungai Daka;13/08/2023;13:50 WIB;NASA-NOAA20;High;-100303.0;1104999.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;13/08/2023;01:36 WIB;NASA-MODIS;High;-189217.0;11014307.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;SINTANG;Serawai;Teluk Harapan;13/08/2023;12:10 WIB;NASA-NOAA20;High;-0.48555;11248781.0;Kalimantan;sintang;22.0;34.2;27.0;0.0;1.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Titi Baru;13/08/2023;13:50 WIB;NASA-NOAA20;High;-18622.0;11062466.0;Kalimantan;ketapang;22.6;33.2;27.2;0.0;3.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Togan Baru;13/08/2023;13:50 WIB;NASA-NOAA20;High;-0.78797;11138425.0;Kalimantan;melawi;23.1;34.5;28.1;;1.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Batu Lapis;14/08/2023;12:59 WIB;NASA-MODIS;High;-128657.0;11092463.0;Kalimantan;ketapang;23.3;33.0;27.4;0.0;3.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Betenung;14/08/2023;12:59 WIB;NASA-MODIS;High;-157379.0;11076942.0;Kalimantan;ketapang;23.3;33.0;27.4;0.0;3.0
+Kalimantan Barat;MELAWI;Pinoh Selatan;Bina Jaya;14/08/2023;13:31 WIB;NASA-NOAA20;High;-0.48808;11193858.0;Kalimantan;melawi;23.7;32.2;27.5;0.0;2.0
+Kalimantan Barat;SINTANG;Ambalau;Dahtah Bungai;14/08/2023;13:31 WIB;NASA-NOAA20;High;-0.27271;11285573.0;Kalimantan;sintang;22.2;32.4;26.2;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Jengkarang;14/08/2023;12:59 WIB;NASA-MODIS;High;-0.02179;11294991.0;Kalimantan;sintang;22.2;32.4;26.2;0.0;1.0
+Kalimantan Barat;KETAPANG;Pemahan;Lalang Panjang;14/08/2023;13:31 WIB;NASA-NOAA20;High;-176642.0;11056435.0;Kalimantan;ketapang;23.3;33.0;27.4;0.0;3.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Kesange;14/08/2023;12:59 WIB;NASA-MODIS;High;-0.25799;11283456.0;Kalimantan;sintang;22.2;32.4;26.2;0.0;1.0
+Kalimantan Barat;MELAWI;Sayan;Nanga Kompi;14/08/2023;13:31 WIB;NASA-NOAA20;High;-0.8704;11168844.0;Kalimantan;melawi;23.7;32.2;27.5;0.0;2.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Menantak;14/08/2023;12:59 WIB;NASA-MODIS;High;-0.2324;11300796.0;Kalimantan;sintang;22.2;32.4;26.2;0.0;1.0
+Kalimantan Barat;MELAWI;Sayan;Nanga Raku;14/08/2023;13:31 WIB;NASA-NOAA20;High;-0.77684;11176398.0;Kalimantan;melawi;23.7;32.2;27.5;0.0;2.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Ukai;14/08/2023;12:59 WIB;NASA-MODIS;High;-0.23701;11297671.0;Kalimantan;sintang;22.2;32.4;26.2;0.0;1.0
+Kalimantan Barat;MELAWI;Menukung;Nusa Poring;14/08/2023;12:59 WIB;NASA-MODIS;High;-0.51781;11231774.0;Kalimantan;melawi;23.7;32.2;27.5;0.0;2.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;14/08/2023;21:27 WIB;NASA-MODIS;High;-190589.0;11012971.0;Kalimantan;ketapang;23.3;33.0;27.4;0.0;3.0
+Kalimantan Barat;MELAWI;Ella Hilir;Sungai Labuk;14/08/2023;13:31 WIB;NASA-NOAA20;High;-0.64312;11211993.0;Kalimantan;melawi;23.7;32.2;27.5;0.0;2.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Nanjung;14/08/2023;21:27 WIB;NASA-MODIS;High;-214584.0;11012077.0;Kalimantan;ketapang;23.3;33.0;27.4;0.0;3.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;14/08/2023;09:06 WIB;NASA-MODIS;High;-190019.0;11012794.0;Kalimantan;ketapang;23.3;33.0;27.4;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaiasam;14/08/2023;21:27 WIB;NASA-MODIS;High;-0.29163;10953075.0;Kalimantan;kubu raya;22.7;33.4;26.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Kendawangan;Banjar Sari;15/08/2023;13:42 WIB;NASA-MODIS;High;-247571.0;11024128.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Bayun Sari;15/08/2023;13:12 WIB;NASA-NOAA20;High;-101534.0;11047895.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Cinta Manis;15/08/2023;13:42 WIB;NASA-MODIS;High;-116431.0;1107957.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Kualan Hilir;15/08/2023;13:42 WIB;NASA-MODIS;High;-0.54815;11019765.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Lanjut Mekar Sari;15/08/2023;13:42 WIB;NASA-MODIS;High;-0.94564;11054272.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Limbung;15/08/2023;13:42 WIB;NASA-MODIS;High;-0.16541;10936442.0;Kalimantan;kubu raya;21.8;34.6;26.5;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Besar;15/08/2023;13:42 WIB;NASA-MODIS;High;-0.21906;10925423.0;Kalimantan;kubu raya;21.8;34.6;26.5;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;15/08/2023;13:42 WIB;NASA-MODIS;High;-0.13895;1093507.0;Kalimantan;kubu raya;21.8;34.6;26.5;0.0;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Senduruhan;15/08/2023;13:42 WIB;NASA-MODIS;High;-100704.0;11068059.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;15/08/2023;09:49 WIB;NASA-MODIS;High;-191113.0;11013929.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Melayu Rayak;Sungai Melayu;15/08/2023;13:42 WIB;NASA-MODIS;High;-184374.0;11035623.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;15/08/2023;09:49 WIB;NASA-MODIS;High;-190051.0;11013097.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaiasam;15/08/2023;01:21 WIB;NASA-MODIS;High;-0.29591;10954209.0;Kalimantan;kubu raya;21.8;34.6;26.5;0.0;2.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Teluk Bayur;15/08/2023;09:49 WIB;NASA-MODIS;High;-117912.0;11048532.0;Kalimantan;ketapang;23.0;33.4;27.7;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;16/08/2023;02:04 WIB;NASA-MODIS;High;-190253.0;11013607.0;Kalimantan;ketapang;23.9;33.4;27.9;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaiasam;16/08/2023;12:53 WIB;NASA-NOAA20;High;-0.32019;10952684.0;Kalimantan;kubu raya;23.2;34.8;27.4;0.0;2.0
+Kalimantan Barat;SINTANG;Binjai Hulu;Binjai Hulu;17/08/2023;13:27 WIB;NASA-MODIS;High;0.26297;1114813.0;Kalimantan;sintang;23.2;33.8;27.3;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Bukit Sidin Permai;17/08/2023;13:27 WIB;NASA-MODIS;High;0.57124;1115084.0;Kalimantan;sintang;23.2;33.8;27.3;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Kubu;Dabong;17/08/2023;12:36 WIB;NASA-NOAA20;High;-0.53845;10928914.0;Kalimantan;kubu raya;23.5;33.6;27.1;0.0;2.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Kepari;17/08/2023;13:27 WIB;NASA-MODIS;High;-0.86872;1105333.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Kesuma Jaya;17/08/2023;13:27 WIB;NASA-MODIS;High;-193852.0;11084433.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Krio Hulu;17/08/2023;13:27 WIB;NASA-MODIS;High;-0.89928;11083701.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Lubuk Kakap;17/08/2023;13:27 WIB;NASA-MODIS;High;-127925.0;11114015.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Sandai;Merimbang Jaya;17/08/2023;13:27 WIB;NASA-MODIS;High;-111305.0;11056896.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Nanga Kelampai;17/08/2023;13:27 WIB;NASA-MODIS;High;-189684.0;1104996.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Panggi Ruguk;17/08/2023;13:27 WIB;NASA-MODIS;High;0.60393;11135294.0;Kalimantan;sintang;23.2;33.8;27.3;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Besar;17/08/2023;21:52 WIB;NASA-MODIS;High;-0.22527;10925541.0;Kalimantan;kubu raya;23.5;33.6;27.1;0.0;2.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Sebadak Raya;17/08/2023;13:27 WIB;NASA-MODIS;High;-134846.0;11072224.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Selangkut Raya;17/08/2023;13:27 WIB;NASA-MODIS;High;-0.74892;11060208.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;17/08/2023;13:27 WIB;NASA-MODIS;High;-0.83951;11035349.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Senduruhan;17/08/2023;13:27 WIB;NASA-MODIS;High;-0.79679;11065139.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Sepakat Jaya;17/08/2023;13:27 WIB;NASA-MODIS;High;-134975.0;11071326.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Sepotong;17/08/2023;13:27 WIB;NASA-MODIS;High;-0.87003;11052428.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;17/08/2023;13:27 WIB;NASA-MODIS;High;-191248.0;11013346.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Sungai Daka;17/08/2023;13:27 WIB;NASA-MODIS;High;-0.98835;11047417.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Sungai Kelik;17/08/2023;13:27 WIB;NASA-MODIS;High;100596.0;11120677.0;Kalimantan;sintang;23.2;33.8;27.3;0.0;1.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;17/08/2023;09:32 WIB;NASA-MODIS;High;-190216.0;11013068.0;Kalimantan;ketapang;24.4;33.8;28.0;0.0;3.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaiasam;17/08/2023;09:32 WIB;NASA-MODIS;High;-0.28548;10951373.0;Kalimantan;kubu raya;23.5;33.6;27.1;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Tanjungharapan;17/08/2023;12:33 WIB;NASA-NOAA20;High;-0.86058;10948589.0;Kalimantan;kubu raya;23.5;33.6;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Tapang Manua;17/08/2023;13:27 WIB;NASA-MODIS;High;-0.13988;1123951.0;Kalimantan;sintang;23.2;33.8;27.3;0.0;1.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Kenyabur;18/08/2023;12:16 WIB;NASA-NOAA20;High;-0.76688;11093163.0;Kalimantan;ketapang;24.0;34.2;28.1;0.0;4.0
+Kalimantan Barat;MELAWI;Menukung;Laman Mumbung;18/08/2023;12:16 WIB;NASA-NOAA20;High;-0.43873;11224826.0;Kalimantan;melawi;24.5;34.0;28.9;0.0;2.0
+Kalimantan Barat;MELAWI;Menukung;Nanga Mawang Mentatai;18/08/2023;12:16 WIB;NASA-NOAA20;High;-0.42831;11231598.0;Kalimantan;melawi;24.5;34.0;28.9;0.0;2.0
+Kalimantan Barat;SINTANG;Serawai;Sawang Senghiang;18/08/2023;12:16 WIB;NASA-NOAA20;High;-0.18;11261105.0;Kalimantan;sintang;23.4;34.6;26.9;0.0;2.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;18/08/2023;01:49 WIB;NASA-MODIS;High;-189913.0;1101292.0;Kalimantan;ketapang;24.0;34.2;28.1;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Batu Daya;19/08/2023;13:12 WIB;NASA-MODIS;High;-100977.0;11037942.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Batu Lapis;19/08/2023;13:37 WIB;NASA-NOAA20;High;-127913.0;11087801.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Botuh Bosi;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.5449;11035532.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Kendawangan;Danau Buntar;19/08/2023;13:12 WIB;NASA-MODIS;High;-280599.0;11097997.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Sandai;Demit;19/08/2023;13:37 WIB;NASA-NOAA20;High;-121035.0;11066417.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Empakan;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.1581;11213596.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Entogong;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.16105;1121004.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Ganjang;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.91355;11128838.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Gema;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.84688;11042012.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Harapan Baru;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.77496;11049415.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Kepari;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.8969;11051698.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;MELAWI;Ella Hilir;Kerangan Kora;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.62916;11205718.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;MELAWI;Menukung;Laman Mumbung;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.47681;11227229.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Limbung;19/08/2023;21:35 WIB;NASA-MODIS;High;-0.17117;10936014.0;Kalimantan;kubu raya;24.0;34.4;27.4;3.4;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Lubuk Kakap;19/08/2023;13:37 WIB;NASA-NOAA20;High;-117601.0;11115276.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;SINTANG;Ambalau;Lunjan Tingang;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.21938;11271844.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;MELAWI;Sayan;Madya Raya;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.90267;11162554.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Mekar Harapan;19/08/2023;13:12 WIB;NASA-MODIS;High;-100763.0;1103939.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Sandai;Merimbang Jaya;19/08/2023;13:12 WIB;NASA-MODIS;High;-1049.0;11057966.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;SINTANG;Serawai;Muara Kota;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.30153;11241708.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;MELAWI;Belimbing Hulu;Nanga Keberak;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.39419;11148582.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;MELAWI;Sayan;Nanga Kompi;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.86497;11177019.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Menakon;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.24428;11294472.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Riyoi;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.37878;11271615.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Tekungai;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.41199;11250398.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Ungai;19/08/2023;13:14 WIB;NASA-MODIS;High;-0.08313;11215141.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;MELAWI;Pinoh Selatan;Nyanggai;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.58935;11184068.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Pangkalan Teluk;19/08/2023;13:12 WIB;NASA-MODIS;High;-142134.0;11046794.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Sandai;Petai Patah;19/08/2023;13:12 WIB;NASA-MODIS;High;-118511.0;11059694.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Sungai Kakap;Pungur Kecil;19/08/2023;21:35 WIB;NASA-MODIS;High;-0.17842;10930763.0;Kalimantan;kubu raya;24.0;34.4;27.4;3.4;2.0
+Kalimantan Barat;KETAPANG;Sandai;Randau Jungkal;19/08/2023;13:12 WIB;NASA-MODIS;High;-11454.0;11071913.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Rasau Jaya;Rasau Jaya Umum;19/08/2023;21:35 WIB;NASA-MODIS;High;-0.16988;10934287.0;Kalimantan;kubu raya;24.0;34.4;27.4;3.4;2.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Selangkut Raya;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.6939;1106459.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Semandang Hulu;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.56231;11047926.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;19/08/2023;13:12 WIB;NASA-MODIS;High;-191647.0;11013944.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Sungai Daka;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.99929;11050288.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Melayu Rayak;Sungai Melayu;19/08/2023;21:35 WIB;NASA-MODIS;High;-179803.0;11044187.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;19/08/2023;09:15 WIB;NASA-MODIS;High;-189877.0;11012199.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaiasam;19/08/2023;21:35 WIB;NASA-MODIS;High;-0.29253;10949976.0;Kalimantan;kubu raya;24.0;34.4;27.4;3.4;2.0
+Kalimantan Barat;SINTANG;Serawai;Tanjung Baru;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.30605;11238583.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Tanjung Lalau;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.19908;11212259.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;SINTANG;Serawai;Teluk Harapan;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.47051;1124538.0;Kalimantan;sintang;23.2;33.5;26.9;0.2;1.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Teluk Mutiara;19/08/2023;13:37 WIB;NASA-NOAA20;High;-0.86146;1104938.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;MELAWI;Sokan;Teluk Pongkal;19/08/2023;13:12 WIB;NASA-MODIS;High;-0.95803;1114016.0;Kalimantan;melawi;24.7;35.2;29.2;0.0;1.0
+Kalimantan Barat;KETAPANG;Muara Pawan;Tempurukan;19/08/2023;21:35 WIB;NASA-MODIS;High;-164818.0;11005756.0;Kalimantan;ketapang;24.3;34.0;28.9;0.0;4.0
+Kalimantan Barat;MELAWI;Belimbing;Balai Lagas;20/08/2023;13:20 WIB;NASA-NOAA20;High;-0.5584;11137173.0;Kalimantan;melawi;25.0;34.4;29.4;0.0;2.0
+Kalimantan Barat;KETAPANG;Kendawangan;Mekar Utama;20/08/2023;13:54 WIB;NASA-MODIS;High;-23272.0;11025725.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Paoh Concong;20/08/2023;09:56 WIB;NASA-MODIS;High;-0.70657;11042664.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;SAMBAS;Selakau Timur;Selakau Tua;20/08/2023;13:20 WIB;NASA-NOAA20;High;107211.0;10911062.0;Kalimantan;sambas;24.6;33.6;27.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;20/08/2023;01:34 WIB;NASA-MODIS;High;-190891.0;11015186.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;20/08/2023;09:58 WIB;NASA-MODIS;High;-190831.0;11012219.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Muara Pawan;Tempurukan;20/08/2023;09:58 WIB;NASA-MODIS;High;-164498.0;11006329.0;Kalimantan;ketapang;24.6;33.8;28.6;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Limbung;21/08/2023;12:59 WIB;NASA-NOAA20;High;-0.15973;1093753.0;Kalimantan;kubu raya;24.1;34.4;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;21/08/2023;12:59 WIB;NASA-MODIS;High;-0.81584;11033661.0;Kalimantan;ketapang;24.3;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;21/08/2023;12:59 WIB;NASA-NOAA20;High;-190936.0;11015162.0;Kalimantan;ketapang;24.3;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;21/08/2023;12:59 WIB;NASA-MODIS;High;-189673.0;11011067.0;Kalimantan;ketapang;24.3;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Teluk Mutiara;21/08/2023;12:59 WIB;NASA-MODIS;High;-0.85667;11046838.0;Kalimantan;ketapang;24.3;33.8;28.6;0.0;4.0
+Kalimantan Barat;KETAPANG;Kendawangan;Danau Buntar;22/08/2023;01:19 WIB;NASA-MODIS;High;-258517.0;11087325.0;Kalimantan;ketapang;24.2;34.4;28.5;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;22/08/2023;09:38 WIB;NASA-MODIS;High;-189925.0;11010839.0;Kalimantan;ketapang;24.2;34.4;28.5;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaiasam;22/08/2023;21:59 WIB;NASA-MODIS;High;-0.28189;1094799.0;Kalimantan;kubu raya;24.3;31.1;26.4;0.0;2.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Titi Baru;22/08/2023;13:40 WIB;NASA-MODIS;High;-182297.0;11063847.0;Kalimantan;ketapang;24.2;34.4;28.5;0.0;4.0
+Kalimantan Barat;KETAPANG;Singkup;Bukit Kelambing;24/08/2023;13:25 WIB;NASA-MODIS;High;-23605.0;11071632.0;Kalimantan;ketapang;24.9;34.0;28.7;4.3;3.0
+Kalimantan Barat;MELAWI;Tanah Pinoh Barat;Durian Jaya;24/08/2023;13:25 WIB;NASA-MODIS;High;-0.78745;11146664.0;Kalimantan;melawi;24.8;35.2;28.7;0.2;2.0
+Kalimantan Barat;KETAPANG;Sandai;Muara Jekak;24/08/2023;13:25 WIB;NASA-MODIS;High;-116475.0;11057906.0;Kalimantan;ketapang;24.9;34.0;28.7;4.3;3.0
+Kalimantan Barat;SINTANG;Sepauk;Nanga Libau;24/08/2023;13:25 WIB;NASA-MODIS;High;-0.1496;11116812.0;Kalimantan;sintang;23.6;34.5;28.1;0.1;1.0
+Kalimantan Barat;MELAWI;Sayan;Nanga Raku;24/08/2023;13:25 WIB;NASA-MODIS;High;-0.78811;1117897.0;Kalimantan;melawi;24.8;35.2;28.7;0.2;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Sekukun;24/08/2023;13:25 WIB;NASA-MODIS;High;-129754.0;11080869.0;Kalimantan;ketapang;24.9;34.0;28.7;4.3;3.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Sunge Bengaras;24/08/2023;13:44 WIB;NASA-NOAA20;High;-0.75623;11079036.0;Kalimantan;ketapang;24.9;34.0;28.7;4.3;3.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Tengah;Salimbatu;27/08/2023;12:48 WIB;NASA-NOAA20;Medium;296934.0;11730709.0;;bulungan;25.0;34.6;29.3;0.0;1.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Batu Beransak;28/08/2023;12:27 WIB;NASA-NOAA20;High;-179071.0;11071322.0;Kalimantan;ketapang;24.2;33.8;28.3;0.0;4.0
+Kalimantan Barat;KETAPANG;Sandai;Pendamaran Indah;28/08/2023;12:27 WIB;NASA-NOAA20;High;-113393.0;11062012.0;Kalimantan;ketapang;24.2;33.8;28.3;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;28/08/2023;12:27 WIB;NASA-NOAA20;High;-0.84816;1103486.0;Kalimantan;ketapang;24.2;33.8;28.3;0.0;4.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Aur Gading;29/08/2023;13:50 WIB;NASA-NOAA20;High;-179362.0;11059095.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Batu Ampar;29/08/2023;13:40 WIB;NASA-MODIS;High;-0.78251;10951495.0;Kalimantan;kubu raya;23.3;34.6;28.6;0.8;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Botuh Bosi;29/08/2023;13:50 WIB;NASA-NOAA20;High;-0.52828;11031551.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Kusik Batu Lapu;29/08/2023;13:50 WIB;NASA-NOAA20;High;-19949.0;11093804.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;SAMBAS;Paloh;Malek;29/08/2023;21:52 WIB;NASA-MODIS;High;167589.0;10932066.0;Kalimantan;sambas;24.7;35.6;29.0;0.0;2.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Mekar Harapan;29/08/2023;13:40 WIB;NASA-MODIS;High;-104218.0;11039518.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Mekar Raya;29/08/2023;13:50 WIB;NASA-NOAA20;High;-0.8744;11035312.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;SAMBAS;Paloh;Mentibar;29/08/2023;21:52 WIB;NASA-MODIS;High;167456.0;10931097.0;Kalimantan;sambas;24.7;35.6;29.0;0.0;2.0
+Kalimantan Barat;KETAPANG;Sandai;Muara Jekak;29/08/2023;13:40 WIB;NASA-MODIS;High;-12212.0;11056081.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Penyarang;29/08/2023;13:50 WIB;NASA-NOAA20;High;-204384.0;11091939.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Periangan;29/08/2023;13:37 WIB;NASA-MODIS;High;-207451.0;11089583.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Pesaguan Kanan;29/08/2023;09:32 WIB;NASA-MODIS;High;-205305.0;11020692.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Sekucing Labai;29/08/2023;13:50 WIB;NASA-NOAA20;High;-0.50752;11013502.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;29/08/2023;13:50 WIB;NASA-NOAA20;High;-0.81051;11035065.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;SAMBAS;Paloh;Tanah Hitam;29/08/2023;21:52 WIB;NASA-MODIS;High;161014.0;1092375.0;Kalimantan;sambas;24.7;35.6;29.0;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Tanjung Bunga;29/08/2023;13:40 WIB;NASA-MODIS;High;-0.16307;11205254.0;Kalimantan;sintang;24.8;34.0;27.9;0.0;1.0
+Kalimantan Barat;KETAPANG;Muara Pawan;Tanjung Pasar;29/08/2023;13:50 WIB;NASA-NOAA20;High;-182341.0;1101465.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;SINTANG;Serawai;Gurung Senghiang;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.28259;112451.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Barat;Long Pari;30/08/2023;11:51 WIB;NASA-NOAA20;Medium;276581.0;11720734.0;;bulungan;25.4;35.8;29.3;;2.0
+Kalimantan Barat;SINTANG;Serawai;Mensulung Bio;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.23076;11260743.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Bihe;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.38851;1126011.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Kemangai;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.28523;11272013.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Sakai;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.22499;11285829.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Segulang;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.46589;11254768.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Tangoi;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.28672;11272184.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Tekungai;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.36329;1124816.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;MELAWI;Belimbing Hulu;Nanga Tikan;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.46471;11157349.0;Kalimantan;melawi;24.4;34.5;29.0;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Purut Beribit;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.15004;11275687.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;SINTANG;Serawai;Rantau Malam;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.48806;11258109.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;MELAWI;Menukung;Sungai Sampuk;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.35285;11231097.0;Kalimantan;melawi;24.4;34.5;29.0;0.0;1.0
+Kalimantan Barat;SINTANG;Serawai;Tanjung Baru;30/08/2023;13:31 WIB;NASA-NOAA20;High;-0.3009;112403.0;Kalimantan;sintang;22.4;35.0;28.0;0.0;1.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Bayun Sari;31/08/2023;13:25 WIB;NASA-MODIS;High;-104518.0;1104186.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Beginci Darat;31/08/2023;13:25 WIB;NASA-MODIS;High;-130802.0;11108852.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Bengaras;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.95059;11049868.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Empunak Tapang Keladan;31/08/2023;13:25 WIB;NASA-MODIS;High;0.83965;11103442.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Harapan Baru;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.74488;11051641.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Jasa;31/08/2023;13:25 WIB;NASA-MODIS;High;0.98395;11113645.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Kamora;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.95081;11029702.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;MELAWI;Ella Hilir;Kerangan Kora;31/08/2023;21:33 WIB;NASA-MODIS;High;-0.68038;11206375.0;Kalimantan;melawi;24.6;34.9;29.1;0.0;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Krio Hulu;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.83388;11086798.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Dedai;Kumpang;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.05964;11175454.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Landau Temiang;31/08/2023;13:25 WIB;NASA-MODIS;High;0.72298;11169198.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Lintak Tambuk;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.18068;11219156.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Luting Mingan;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.00246;11260287.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Serawai;Mensulung Bio;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.23603;11257668.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Mungguk Lawang;31/08/2023;13:25 WIB;NASA-MODIS;High;0.65801;11168311.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Ambalau;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.27256;11276883.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Nanga Kelapan;31/08/2023;13:25 WIB;NASA-MODIS;High;0.90998;1113922.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Kesange;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.24439;11283764.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Oran;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.13368;11213959.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Rade;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.04631;11286959.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Serawai;Nanga Tangoi;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.28918;1127168.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Panggi Agung;31/08/2023;13:25 WIB;NASA-MODIS;High;0.58288;11129928.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Panggi Ruguk;31/08/2023;13:25 WIB;NASA-MODIS;High;0.64217;11138503.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Pesaguan Kanan;31/08/2023;13:25 WIB;NASA-MODIS;High;-204738.0;11019016.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Radin Jaya;31/08/2023;13:25 WIB;NASA-MODIS;High;0.7697;11157042.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Sandai;Randau;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.94812;11064699.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Sejawak;31/08/2023;13:25 WIB;NASA-MODIS;High;0.88787;11123977.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Sekukun;31/08/2023;13:25 WIB;NASA-MODIS;High;-128246.0;11081764.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Sempurna;31/08/2023;13:25 WIB;NASA-MODIS;High;-117736.0;1104029.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Sepiluk;31/08/2023;13:25 WIB;NASA-MODIS;High;0.8354;11094198.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;31/08/2023;21:33 WIB;NASA-MODIS;High;-19137.0;11015905.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Kelam Permai;Sungai Labi;31/08/2023;13:25 WIB;NASA-MODIS;High;0.14869;11192061.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;KETAPANG;Sungai Laur;Teluk Mutiara;31/08/2023;13:25 WIB;NASA-MODIS;High;-0.84959;1104984.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Wana Bhakti;31/08/2023;13:25 WIB;NASA-MODIS;High;0.85187;11149747.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Tengah;KOTA PALANGKARAYA;Sabangau;Kelurahan Kalampangan;21/08/2023;12:59 WIB;NASA-NOAA20;Medium;-226004.0;11400372.0;Kalimantan;kota palangkaraya;23.4;35.4;28.4;0.0;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Kenyabur;21/08/2023;12:59 WIB;NASA-MODIS;Medium;-0.76556;11088306.0;Kalimantan;ketapang;24.3;33.8;28.6;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Padang Tikar Satu;21/08/2023;12:59 WIB;NASA-NOAA20;Medium;-0.72579;10926968.0;Kalimantan;kubu raya;24.1;34.4;27.2;0.0;3.0
+Kalimantan Timur;BERAU;Sambaliung;Pegat Bukur;21/08/2023;12:59 WIB;NASA-NOAA20;Medium;204869.0;11741747.0;Kalimantan;berau;24.0;34.9;27.6;27.4;1.0
+Kalimantan Barat;KUBU RAYA;Kubu;Sungai Bemban;21/08/2023;12:59 WIB;NASA-NOAA20;Medium;-0.36818;10922444.0;Kalimantan;kubu raya;24.1;34.4;27.2;0.0;3.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Pelang;21/08/2023;12:59 WIB;NASA-MODIS;Medium;-191234.0;11011291.0;Kalimantan;ketapang;24.3;33.8;28.6;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Sungaijawi;21/08/2023;12:59 WIB;NASA-NOAA20;Medium;-0.80239;10927029.0;Kalimantan;kubu raya;24.1;34.4;27.2;0.0;3.0
+Kalimantan Timur;BERAU;Pulau Derawan;Teluk Semanting;21/08/2023;12:59 WIB;NASA-MODIS;High;23325.0;11794444.0;Kalimantan;berau;24.0;34.9;27.6;27.4;1.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Teluknibung;21/08/2023;12:59 WIB;NASA-NOAA20;Medium;-0.79532;10950181.0;Kalimantan;kubu raya;24.1;34.4;27.2;0.0;3.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Teluk Sampit;Ujung Pandaran;21/08/2023;12:59 WIB;NASA-NOAA20;Medium;-317383.0;11299387.0;Kalimantan;kotawaringin timur;21.7;33.9;26.7;;2.0
+Kalimantan Barat;KETAPANG;Kendawangan;Danau Buntar;22/06/2023;13:37 WIB;NASA-MODIS;Medium;-271002.0;11093557.0;Kalimantan;ketapang;24.7;34.9;29.2;0.0;3.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Sungai Meraya;22/06/2023;13:25 WIB;NASA-NOAA20;Medium;-0.00778;11194205.0;Kalimantan;sintang;22.8;34.8;28.3;0.6;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentawa Baru Ketapang;Eka Bahurui;22/08/2023;01:19 WIB;NASA-MODIS;High;-261087.0;1129446.0;Kalimantan;kotawaringin timur;22.4;33.1;27.9;;2.0
+Kalimantan Tengah;BARITO SELATAN;Jenamas;Tabatan;22/08/2023;12:40 WIB;NASA-NOAA20;Medium;-254952.0;11482484.0;Kalimantan;barito selatan;23.6;33.6;26.9;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Batu Ampar;23/06/2023;13:05 WIB;NASA-NOAA20;Medium;-0.81408;10967799.0;Kalimantan;kubu raya;23.8;33.0;27.2;52.4;2.0
+Kalimantan Barat;SINTANG;Ketungau Hilir;Beluh Mulyo;23/06/2023;13:05 WIB;NASA-NOAA20;Medium;0.43499;11146609.0;Kalimantan;sintang;24.6;34.0;27.8;1.4;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Tualan Hulu;Luwuk Sampun;24/06/2023;12:48 WIB;NASA-NOAA20;Medium;-170568.0;1128084.0;Kalimantan;kotawaringin timur;21.6;33.5;27.3;0.0;1.0
+Kalimantan Timur;BERAU;Gunung Tabur;Merancang Ulu;24/06/2023;12:48 WIB;NASA-NOAA20;Medium;222936.0;11766209.0;Kalimantan;berau;24.6;33.8;28.2;0.8;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Buluh Merindu;24/07/2023;13:25 WIB;NASA-NOAA20;Medium;-0.03122;11210005.0;Kalimantan;sintang;24.5;33.4;27.1;0.2;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Payak;24/07/2023;13:25 WIB;NASA-NOAA20;Medium;-0.14549;11199704.0;Kalimantan;sintang;24.5;33.4;27.1;0.2;1.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Kenyabur;24/08/2023;13:25 WIB;NASA-MODIS;Medium;-0.7415;11089623.0;Kalimantan;ketapang;24.9;34.0;28.7;4.3;3.0
+Kalimantan Barat;MELAWI;Belimbing;Langan;24/08/2023;13:25 WIB;NASA-MODIS;Medium;-0.42102;11132578.0;Kalimantan;melawi;24.8;35.2;28.7;0.2;2.0
+Kalimantan Barat;SINTANG;Serawai;Tanjung Harapan;24/08/2023;13:44 WIB;NASA-NOAA20;Medium;-0.28129;11257384.0;Kalimantan;sintang;23.6;34.5;28.1;0.1;1.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Jungkal;25/07/2023;13:05 WIB;NASA-NOAA20;Medium;-198909.0;11049667.0;Kalimantan;ketapang;24.6;33.6;28.4;0.0;3.0
+Kalimantan Tengah;KOTAWARINGIN BARAT;Arut Selatan;Kenambui;25/07/2023;13:05 WIB;NASA-NOAA20;Medium;-234544.0;11165225.0;Kalimantan;kotawaringin barat;23.0;32.7;27.4;0.0;2.0
+Kalimantan Barat;SINTANG;Ambalau;Pulou Sabhang;25/07/2023;13:05 WIB;NASA-NOAA20;Medium;-0.10985;11274922.0;Kalimantan;sintang;23.0;33.9;27.6;1.0;1.0
+Kalimantan Barat;SAMBAS;Selakau Timur;Selakau Tua;25/07/2023;13:08 WIB;NASA-NOAA20;Medium;101994.0;1090759.0;Kalimantan;sambas;25.2;34.6;29.0;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;25/07/2023;13:05 WIB;NASA-NOAA20;Medium;-0.84245;11035908.0;Kalimantan;ketapang;24.6;33.6;28.4;0.0;3.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Sungai Kelik;25/07/2023;13:05 WIB;NASA-NOAA20;Medium;-165897.0;11036684.0;Kalimantan;ketapang;24.6;33.6;28.4;0.0;3.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Sungai Sintang;25/07/2023;13:05 WIB;NASA-NOAA20;Medium;0.12414;11205112.0;Kalimantan;sintang;23.0;33.9;27.6;1.0;1.0
+Kalimantan Barat;KUBU RAYA;Batu Ampar;Sungaibesar;25/07/2023;13:05 WIB;NASA-NOAA20;Medium;-0.78145;10925867.0;Kalimantan;kubu raya;23.6;33.8;27.4;0.0;2.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Teluk Runjai;25/07/2023;13:05 WIB;NASA-NOAA20;Medium;-199134.0;11077235.0;Kalimantan;ketapang;24.6;33.6;28.4;0.0;3.0
+Kalimantan Tengah;BARITO SELATAN;Jenamas;Tabatan;25/08/2023;00:45 WIB;NASA-NOAA20;Medium;-256222.0;11479794.0;Kalimantan;barito selatan;23.9;33.4;27.4;36.0;1.0
+Kalimantan Barat;KETAPANG;Air Upas;Harapan Baru;26/06/2023;01:11 WIB;NASA-NOAA20;Medium;-222897.0;11083983.0;Kalimantan;ketapang;24.0;32.4;28.0;0.0;2.0
+Kalimantan Barat;SINTANG;Sintang;Tertung;26/06/2023;01:11 WIB;NASA-NOAA20;Medium;0.01469;11155705.0;Kalimantan;sintang;24.3;34.4;27.7;49.3;0.0
+Kalimantan Barat;KETAPANG;Marau;Batu Payung Dua;26/07/2023;12:48 WIB;NASA-NOAA20;Medium;-205352.0;1105676.0;Kalimantan;ketapang;24.5;33.2;28.3;0.0;3.0
+Kalimantan Barat;KAPUAS HULU;Jongkong;Jongkong Pasar;26/07/2023;12:48 WIB;NASA-NOAA20;Medium;0.61924;11226475.0;Kalimantan;kapuas hulu;24.1;35.3;29.2;;0.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Kubu Berangan;26/07/2023;12:48 WIB;NASA-NOAA20;Medium;0.82685;11135219.0;Kalimantan;sintang;23.8;33.6;28.2;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Boyan Tanjung;Nanga Jemah;26/07/2023;12:50 WIB;NASA-MODIS;Medium;0.31714;11245532.0;Kalimantan;kapuas hulu;24.1;35.3;29.2;;0.0
+Kalimantan Barat;KAPUAS HULU;Silat Hilir;Rumbih;26/07/2023;12:50 WIB;NASA-MODIS;Medium;0.22164;11192316.0;Kalimantan;kapuas hulu;24.1;35.3;29.2;;0.0
+Kalimantan Barat;KAPUAS HULU;Bunut Hulu;Selaup;26/07/2023;12:48 WIB;NASA-NOAA20;Medium;0.44204;11276105.0;Kalimantan;kapuas hulu;24.1;35.3;29.2;;0.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Simpang Tiga Sembelangaan;26/07/2023;12:48 WIB;NASA-NOAA20;Medium;-143595.0;11030978.0;Kalimantan;ketapang;24.5;33.2;28.3;0.0;3.0
+Kalimantan Barat;KAPUAS HULU;Putussibau Utara;Tanjung Karang;26/07/2023;12:50 WIB;NASA-MODIS;Medium;0.85503;11298668.0;Kalimantan;kapuas hulu;24.1;35.3;29.2;;0.0
+Kalimantan Barat;KAPUAS HULU;Putussibau Utara;Tanjung Lasa;26/07/2023;12:48 WIB;NASA-NOAA20;Medium;101647.0;11297242.0;Kalimantan;kapuas hulu;24.1;35.3;29.2;;0.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Tanjung Putar;26/07/2023;12:48 WIB;NASA-NOAA20;Medium;0.00376;11192925.0;Kalimantan;sintang;23.8;33.6;28.2;0.0;2.0
+Kalimantan Barat;MELAWI;Pinoh Utara;Tengkajau;26/07/2023;12:48 WIB;NASA-NOAA20;Medium;-0.22696;1117468.0;Kalimantan;melawi;24.5;33.6;28.4;;2.0
+Kalimantan Selatan;KOTA BANJARBARU;Liang Anggang;Kelurahan Landasan Ulin Utara;26/08/2023;13:10 WIB;NASA-MODIS;Medium;-33779.0;1147204.0;Kalimantan;kota banjarbaru;23.2;33.4;;;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Kota Besi;Palangan;26/08/2023;21:27 WIB;NASA-MODIS;High;-233081.0;1127568.0;Kalimantan;kotawaringin timur;22.9;32.5;27.0;0.0;2.0
+Kalimantan Barat;SAMBAS;Sajingan Besar;Santaban;26/08/2023;13:08 WIB;NASA-NOAA20;Medium;164116.0;10951164.0;Kalimantan;sambas;23.6;33.4;28.0;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Selatan;Sebamban;26/08/2023;13:10 WIB;NASA-MODIS;Medium;-293005.0;11288824.0;Kalimantan;kotawaringin timur;22.9;32.5;27.0;0.0;2.0
+Kalimantan Utara;NUNUKAN;Sebuku;Tetaban;26/08/2023;13:08 WIB;NASA-NOAA20;High;406282.0;11690282.0;Kalimantan;nunukan;24.8;32.9;28.5;8888.0;2.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Batu Beransak;27/06/2023;00:52 WIB;NASA-NOAA20;Medium;-184051.0;11071021.0;Kalimantan;ketapang;23.9;32.9;27.6;0.0;3.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hulu;Tanjung Bantur;27/06/2023;21:29 WIB;NASA-MODIS;High;-209216.0;11251619.0;Kalimantan;kotawaringin timur;20.8;34.1;26.6;8888.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Ipoh Emang;27/07/2023;12:27 WIB;NASA-NOAA20;Medium;-0.0443;11182484.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Bika;Jongkong Manday;27/07/2023;12:29 WIB;NASA-NOAA20;Medium;0.72663;11280861.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Kenyabur;27/07/2023;12:27 WIB;NASA-NOAA20;Medium;-0.53475;1111953.0;Kalimantan;ketapang;24.0;32.6;28.5;0.0;3.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Menantak;27/07/2023;13:31 WIB;NASA-MODIS;Medium;-0.25945;11297945.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;MELAWI;Ella Hilir;Nanga Nuak;27/07/2023;12:27 WIB;NASA-NOAA20;Medium;-0.39903;11212041.0;Kalimantan;melawi;23.6;33.2;28.2;0.0;2.0
+Kalimantan Barat;SINTANG;Ambalau;Nanga Sake;27/07/2023;12:27 WIB;NASA-NOAA20;Medium;-0.03714;11275983.0;Kalimantan;sintang;22.4;33.4;27.6;0.0;2.0
+Kalimantan Barat;MELAWI;Menukung;Oyah;27/07/2023;13:31 WIB;NASA-MODIS;Medium;-0.38554;11224223.0;Kalimantan;melawi;23.6;33.2;28.2;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Pengkadan;Pinang Laka;27/07/2023;12:27 WIB;NASA-NOAA20;Medium;0.4847;112312.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;SAMBAS;Sajingan Besar;Senatab;27/07/2023;01:28 WIB;NASA-NOAA20;Medium;164676.0;1095516.0;Kalimantan;sambas;24.4;34.5;28.7;0.0;2.0
+Kalimantan Barat;KAPUAS HULU;Putussibau Utara;Tanjung Karang;27/07/2023;13:31 WIB;NASA-MODIS;Medium;0.8581;1130022.0;Kalimantan;kapuas hulu;23.9;35.1;29.2;;0.0
+Kalimantan Barat;SAMBAS;Paloh;Temajuk;27/07/2023;09:58 WIB;NASA-MODIS;Medium;194632.0;1094437.0;Kalimantan;sambas;24.4;34.5;28.7;0.0;2.0
+Kalimantan Tengah;BARITO SELATAN;Dusun Selatan;Baru;27/08/2023;12:46 WIB;NASA-NOAA20;Medium;-177479.0;11476895.0;Kalimantan;barito selatan;23.2;34.6;28.2;0.0;1.0
+Kalimantan Tengah;BARITO SELATAN;Karau Kuala;Malitin;27/08/2023;12:46 WIB;NASA-NOAA20;Medium;-189786.0;11489728.0;Kalimantan;barito selatan;23.2;34.6;28.2;0.0;1.0
+Kalimantan Tengah;BARITO SELATAN;Dusun Utara;Reong;27/08/2023;12:48 WIB;NASA-NOAA20;Medium;-139508.0;11483261.0;Kalimantan;barito selatan;23.2;34.6;28.2;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Selatan;Sei Ijum Raya;27/08/2023;09:47 WIB;NASA-MODIS;Medium;-293617.0;11290868.0;Kalimantan;kotawaringin timur;23.2;34.5;28.5;0.0;2.0
+Kalimantan Barat;KETAPANG;Nanga Tayap;Sepakat Jaya;27/08/2023;12:48 WIB;NASA-NOAA20;Medium;-144664.0;11060015.0;Kalimantan;ketapang;23.6;32.4;28.3;0.0;3.0
+Kalimantan Barat;KETAPANG;Tumbang Titi;Serengkah Kanan;27/08/2023;12:48 WIB;NASA-NOAA20;Medium;-176575.0;11074144.0;Kalimantan;ketapang;23.6;32.4;28.3;0.0;3.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentawa Baru Ketapang;Kelurahan Pasir Putih;28/06/2023;00:32 WIB;NASA-NOAA20;Medium;-247303.0;11281952.0;Kalimantan;kotawaringin timur;21.7;34.3;28.0;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN BARAT;Kumai;Sungai Bakau;28/06/2023;09:51 WIB;NASA-MODIS;Medium;-295079.0;11161621.0;Kalimantan;kotawaringin barat;23.6;33.5;28.4;0.0;2.0
+Kalimantan Barat;MELAWI;Belimbing Hulu;Kayu Bunga;28/07/2023;13:50 WIB;NASA-NOAA20;Medium;-0.51095;11157635.0;Kalimantan;melawi;23.5;32.3;27.3;;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Senduruhan;28/07/2023;13:50 WIB;NASA-NOAA20;Medium;-0.99733;1107764.0;Kalimantan;ketapang;23.3;33.4;27.8;0.0;4.0
+Kalimantan Barat;SINTANG;Sungai Tebelian;Bancoh;28/08/2023;12:27 WIB;NASA-NOAA20;Medium;-0.12582;11158544.0;Kalimantan;sintang;22.0;33.2;26.8;0.4;1.0
+Kalimantan Selatan;KOTA BANJARBARU;Cempaka;Kelurahan Cempaka;28/08/2023;12:55 WIB;NASA-MODIS;Medium;-353107.0;11487859.0;Kalimantan;kota banjarbaru;21.6;34.7;;0.0;3.0
+Kalimantan Barat;SAMBAS;Subah;Balai Gemuruh;29/06/2023;12:53 WIB;NASA-NOAA20;Medium;114869.0;1094437.0;Kalimantan;sambas;24.7;34.6;28.8;0.7;1.0
+Kalimantan Barat;MELAWI;Menukung;Batas Nangka;29/06/2023;12:53 WIB;NASA-NOAA20;Medium;-0.31451;11234037.0;Kalimantan;melawi;25.3;33.4;28.9;0.0;2.0
+Kalimantan Tengah;KOTAWARINGIN BARAT;Kotawaringin Lama;Kelurahan Kotawaringin Hilir;29/06/2023;12:55 WIB;NASA-NOAA20;Medium;-256877.0;11142502.0;Kalimantan;kotawaringin barat;24.2;32.5;27.5;2.6;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Argo Mulyo;29/07/2023;13:16 WIB;NASA-MODIS;Medium;0.64113;11141168.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;KETAPANG;Kendawangan;Banjar Sari;29/07/2023;13:31 WIB;NASA-NOAA20;Medium;-250301.0;11024655.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;MELAWI;Tanah Pinoh;Bata Luar;29/07/2023;13:31 WIB;NASA-NOAA20;Medium;-0.85917;11146667.0;Kalimantan;melawi;22.5;33.8;27.0;;2.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Bekuan Luyang;29/07/2023;13:31 WIB;NASA-NOAA20;Medium;0.96479;11100057.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Kelam Permai;Bengkuang;29/07/2023;13:31 WIB;NASA-NOAA20;Medium;0.1588;11188893.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Buluh Merindu;29/07/2023;13:16 WIB;NASA-MODIS;Medium;-0.04378;11209534.0;Kalimantan;sintang;21.3;33.0;27.1;0.0;2.0
+Kalimantan Barat;SAMBAS;Jawai;Lambau;29/07/2023;00:49 WIB;NASA-NOAA20;Medium;137569.0;10912709.0;Kalimantan;sambas;23.4;34.3;28.3;0.0;1.0
+Kalimantan Utara;NUNUKAN;Krayan Tengah;Long Mutan;29/07/2023;11:51 WIB;NASA-NOAA20;High;371272.0;11585788.0;Kalimantan;nunukan;24.9;32.4;28.2;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Merawa;29/07/2023;13:16 WIB;NASA-MODIS;Medium;-0.51488;11041457.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Semandang Kiri;29/07/2023;13:31 WIB;NASA-NOAA20;Medium;-0.64659;11044869.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;KETAPANG;Matan Hilir Selatan;Sungai Besar;29/07/2023;13:16 WIB;NASA-MODIS;Medium;-191842.0;11017577.0;Kalimantan;ketapang;23.7;33.6;28.3;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Sungai Raya;Sungaiasam;29/07/2023;09:38 WIB;NASA-MODIS;Medium;-0.25832;10951056.0;Kalimantan;kubu raya;22.9;32.5;26.8;0.0;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Antang Kalang;Tumbang Sepayang;29/07/2023;13:16 WIB;NASA-MODIS;Medium;-16496.0;11264183.0;Kalimantan;kotawaringin timur;21.8;33.2;27.4;;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Utara;Bagendang Tengah;29/08/2023;01:11 WIB;NASA-NOAA20;Medium;-265163.0;11283739.0;Kalimantan;kotawaringin timur;23.6;34.0;27.7;;2.0
+Kalimantan Barat;KETAPANG;Simpang Hulu;Balai Pinang;29/08/2023;13:50 WIB;NASA-NOAA20;Medium;-0.49587;11039798.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telawang;Kenyala;29/08/2023;21:50 WIB;NASA-MODIS;High;-229047.0;11270644.0;Kalimantan;kotawaringin timur;23.6;34.0;27.7;;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Krio Hulu;29/08/2023;12:10 WIB;NASA-NOAA20;Medium;-0.83934;11081409.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Mekar Raya;29/08/2023;13:50 WIB;NASA-NOAA20;Medium;-0.87233;11034931.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Oran;29/08/2023;12:10 WIB;NASA-NOAA20;Medium;-0.12671;11213575.0;Kalimantan;sintang;24.8;34.0;27.9;0.0;1.0
+Kalimantan Barat;KETAPANG;Kendawangan;Pangkalan Batu;29/08/2023;01:11 WIB;NASA-NOAA20;Medium;-208625.0;11038824.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;KUBU RAYA;Rasau Jaya;Rasau Jaya Umum;29/08/2023;13:50 WIB;NASA-NOAA20;Medium;-0.19277;10934299.0;Kalimantan;kubu raya;23.3;34.6;28.6;0.8;2.0
+Kalimantan Barat;KUBU RAYA;Kuala Mandor B;Retok;29/08/2023;13:40 WIB;NASA-MODIS;Medium;0.21959;10944081.0;Kalimantan;kubu raya;23.3;34.6;28.6;0.8;2.0
+Kalimantan Barat;SAMBAS;Jawai;Sarang Burung Kuala;29/08/2023;13:50 WIB;NASA-NOAA20;Medium;138289.0;10912932.0;Kalimantan;sambas;24.7;35.6;29.0;0.0;2.0
+Kalimantan Barat;KETAPANG;Simpang Dua;Semandang Kanan;29/08/2023;13:40 WIB;NASA-MODIS;Medium;-0.7998;11035066.0;Kalimantan;ketapang;23.6;34.8;29.0;0.0;4.0
+Kalimantan Barat;SAMBAS;Galing;Tempapan Hulu;29/08/2023;21:52 WIB;NASA-MODIS;Medium;167723.0;10933035.0;Kalimantan;sambas;24.7;35.6;29.0;0.0;2.0
+Kalimantan Barat;KUBU RAYA;Sungai Ambawang;Bengkarek;30/06/2023;12:36 WIB;NASA-NOAA20;Medium;-0.21763;10957269.0;Kalimantan;kubu raya;25.0;34.5;27.5;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Entogong;30/07/2023;13:14 WIB;NASA-NOAA20;Medium;-0.15295;11206249.0;Kalimantan;sintang;21.6;33.4;26.9;0.0;2.0
+Kalimantan Barat;MELAWI;Pinoh Utara;Kompas Raya;30/07/2023;13:14 WIB;NASA-NOAA20;Medium;-0.30837;11174814.0;Kalimantan;melawi;22.4;33.2;27.1;;2.0
+Kalimantan Barat;MELAWI;Menukung;Lihai;30/07/2023;13:12 WIB;NASA-NOAA20;Medium;-0.41518;11219618.0;Kalimantan;melawi;22.4;33.2;27.1;;2.0
+Kalimantan Barat;SAMBAS;Tebas;Maribas;30/07/2023;01:38 WIB;NASA-MODIS;Medium;109087.0;1091249.0;Kalimantan;sambas;23.2;33.0;27.6;0.0;1.0
+Kalimantan Barat;SAMBAS;Paloh;Nibung;30/07/2023;13:59 WIB;NASA-MODIS;Medium;17115.0;10934856.0;Kalimantan;sambas;23.2;33.0;27.6;0.0;1.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Penyarang;30/07/2023;13:12 WIB;NASA-NOAA20;Medium;-201919.0;11097713.0;Kalimantan;ketapang;23.0;33.8;28.2;0.0;4.0
+Kalimantan Barat;SAMBAS;Semparuk;Sepinggan;30/07/2023;00:32 WIB;NASA-NOAA20;Medium;109104.0;10911888.0;Kalimantan;sambas;23.2;33.0;27.6;0.0;1.0
+Kalimantan Timur;BERAU;Teluk Bayur;Tumbit Melayu;30/07/2023;13:14 WIB;NASA-NOAA20;Medium;197534.0;11721253.0;Kalimantan;berau;22.2;34.5;27.7;0.0;2.0
+Kalimantan Barat;MELAWI;Sayan;Bora;30/08/2023;13:31 WIB;NASA-NOAA20;Medium;-0.63118;11175723.0;Kalimantan;melawi;24.4;34.5;29.0;0.0;1.0
+Kalimantan Utara;BULUNGAN;Tanjung Selor;Gunung Seriang;30/08/2023;11:51 WIB;NASA-NOAA20;High;263218.0;11737927.0;Kalimantan;bulungan;25.4;35.8;29.3;;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Kota Besi;Hanjalipan;30/08/2023;00:52 WIB;NASA-NOAA20;Medium;-22199.0;1127367.0;Kalimantan;kotawaringin timur;22.5;34.7;28.2;;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Baamang;Kelurahan Baamang Barat;30/08/2023;00:52 WIB;NASA-NOAA20;Medium;-250297.0;11293869.0;Kalimantan;kotawaringin timur;22.5;34.7;28.2;;2.0
+Kalimantan Timur;BERAU;Gunung Tabur;Kelurahan Gunung Tabur;30/08/2023;12:42 WIB;NASA-MODIS;High;224414.0;1175184.0;Kalimantan;berau;24.0;36.2;29.2;0.0;2.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas;Kelurahan Tanjung Palas Hilir;30/08/2023;12:42 WIB;NASA-MODIS;High;286788.0;11730634.0;Kalimantan;bulungan;25.4;35.8;29.3;;2.0
+Kalimantan Barat;KETAPANG;Jelai Hulu;Limpang;30/08/2023;13:31 WIB;NASA-NOAA20;Medium;-187331.0;11081396.0;Kalimantan;ketapang;24.0;33.8;28.0;0.0;4.0
+Kalimantan Utara;BULUNGAN;Peso Hilir;Long Tungu;30/08/2023;11:51 WIB;NASA-NOAA20;High;282422.0;11706364.0;Kalimantan;bulungan;25.4;35.8;29.3;;2.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Barat;Mara Hilir;30/08/2023;11:51 WIB;NASA-NOAA20;High;27678.0;11725644.0;Kalimantan;bulungan;25.4;35.8;29.3;;2.0
+Kalimantan Barat;KETAPANG;Sandai;Pendamaran Indah;30/08/2023;13:31 WIB;NASA-NOAA20;Medium;-104408.0;11058839.0;Kalimantan;ketapang;24.0;33.8;28.0;0.0;4.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Timur;Pura Sajau;30/08/2023;11:51 WIB;NASA-NOAA20;High;266805.0;11762822.0;Kalimantan;bulungan;25.4;35.8;29.3;;2.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Timur;Sajau;30/08/2023;11:51 WIB;NASA-NOAA20;High;26018.0;11754926.0;Kalimantan;bulungan;25.4;35.8;29.3;;2.0
+Kalimantan Timur;BERAU;Gunung Tabur;Samburakat;30/08/2023;11:51 WIB;NASA-NOAA20;High;220135.0;11757343.0;Kalimantan;berau;24.0;36.2;29.2;0.0;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Selatan;Sebamban;30/08/2023;00:52 WIB;NASA-NOAA20;Medium;-293057.0;11291398.0;Kalimantan;kotawaringin timur;22.5;34.7;28.2;;2.0
+Kalimantan Barat;KETAPANG;Hulu Sungai;Sekukun;30/08/2023;13:31 WIB;NASA-NOAA20;Medium;-121555.0;11075985.0;Kalimantan;ketapang;24.0;33.8;28.0;0.0;4.0
+Kalimantan Timur;BERAU;Pulau Derawan;Teluk Semanting;30/08/2023;12:42 WIB;NASA-MODIS;High;225638.0;11798073.0;Kalimantan;berau;24.0;36.2;29.2;0.0;2.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Timur;Wonomulyo;30/08/2023;11:51 WIB;NASA-NOAA20;High;269328.0;11756416.0;Kalimantan;bulungan;25.4;35.8;29.3;;2.0
+Kalimantan Timur;BERAU;Segah;Gunung Sari;31/07/2023;00:11 WIB;NASA-NOAA20;Medium;204765.0;11716271.0;Kalimantan;berau;22.8;36.5;27.8;0.0;2.0
+Kalimantan Tengah;BARITO SELATAN;Jenamas;Kelurahan Rantau Kujang;31/07/2023;12:55 WIB;NASA-NOAA20;Medium;-245972.0;11489788.0;Kalimantan;barito selatan;;;;;
+Kalimantan Utara;NUNUKAN;Krayan Tengah;Long Padi;31/07/2023;13:03 WIB;NASA-MODIS;High;371324.0;11584149.0;Kalimantan;nunukan;25.4;32.3;28.0;0.0;2.0
+Kalimantan Barat;KETAPANG;Kendawangan;Mekar Utama;31/07/2023;00:13 WIB;NASA-NOAA20;Medium;-230603.0;11027119.0;Kalimantan;ketapang;23.6;34.2;28.6;0.0;4.0
+Kalimantan Barat;SAMBAS;Subah;Mensade;31/07/2023;13:03 WIB;NASA-MODIS;Medium;112744.0;10947531.0;Kalimantan;sambas;23.2;34.2;27.9;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Muakan Petinggi;31/07/2023;12:53 WIB;NASA-NOAA20;Medium;0.86462;11089959.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Mungguk Gelombang;31/07/2023;13:03 WIB;NASA-MODIS;Medium;0.87949;11140173.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Nanga Kelapan;31/07/2023;13:03 WIB;NASA-MODIS;Medium;0.91144;11140745.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;SINTANG;Kayan Hulu;Nanga Masau;31/07/2023;13:03 WIB;NASA-MODIS;Medium;-0.17079;11231256.0;Kalimantan;sintang;21.2;34.2;27.4;0.0;1.0
+Kalimantan Barat;MELAWI;Belimbing;Tekaban;31/07/2023;13:03 WIB;NASA-MODIS;Medium;-0.381;11156619.0;Kalimantan;melawi;22.7;34.2;27.9;0.0;1.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telaga Antang;Tumbang Sangai;31/07/2023;12:55 WIB;NASA-NOAA20;Medium;-182599.0;11254446.0;Kalimantan;kotawaringin timur;;33.9;28.1;;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Mentaya Hilir Selatan;Basirih Hulu;31/08/2023;21:33 WIB;NASA-MODIS;High;-284591.0;11289692.0;Kalimantan;kotawaringin timur;23.8;34.0;28.2;;2.0
+Kalimantan Timur;BERAU;Gunung Tabur;Batu-Batu;31/08/2023;21:33 WIB;NASA-MODIS;Medium;224236.0;11784114.0;Kalimantan;berau;25.1;36.2;29.6;0.0;2.0
+Kalimantan Barat;MELAWI;Ella Hilir;Kahiya;31/08/2023;13:12 WIB;NASA-NOAA20;Medium;-0.59682;11196152.0;Kalimantan;melawi;24.6;34.9;29.1;0.0;2.0
+Kalimantan Barat;SINTANG;Kayan Hilir;Karya Baru;31/08/2023;13:12 WIB;NASA-NOAA20;Medium;-0.05839;11196218.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;SINTANG;Ketungau Tengah;Kayu Dujung;31/08/2023;13:25 WIB;NASA-MODIS;Medium;0.76986;1116974.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Tengah;KOTA PALANGKARAYA;Sabangau;Kelurahan Danau Tundai;31/08/2023;13:25 WIB;NASA-MODIS;Medium;-22287.0;11402955.0;Kalimantan;kota palangkaraya;22.8;35.4;28.4;0.6;3.0
+Kalimantan Tengah;BARITO SELATAN;Dusun Hilir;Kelurahan Mengkatip;31/08/2023;00:32 WIB;NASA-NOAA20;Medium;-217763.0;11484721.0;Kalimantan;barito selatan;24.0;35.0;28.9;0.0;1.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas;Kelurahan Tanjung Palas Hilir;31/08/2023;13:14 WIB;NASA-NOAA20;High;290601.0;1172867.0;Kalimantan;bulungan;24.2;35.4;28.8;12.9;2.0
+Kalimantan Utara;BULUNGAN;Peso;Lepak Aru;31/08/2023;13:14 WIB;NASA-NOAA20;High;290952.0;11673127.0;Kalimantan;bulungan;24.2;35.4;28.8;12.9;2.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Barat;Long Pari;31/08/2023;13:14 WIB;NASA-NOAA20;High;289732.0;11717825.0;Kalimantan;bulungan;24.2;35.4;28.8;12.9;2.0
+Kalimantan Timur;BERAU;Gunung Tabur;Maluang;31/08/2023;13:14 WIB;NASA-NOAA20;Medium;222778.0;11753286.0;Kalimantan;berau;25.1;36.2;29.6;0.0;2.0
+Kalimantan Barat;KETAPANG;Sandai;Merimbang Jaya;31/08/2023;13:25 WIB;NASA-MODIS;Medium;-107706.0;11059314.0;Kalimantan;ketapang;24.1;33.6;28.5;0.0;4.0
+Kalimantan Barat;SINTANG;Serawai;Meroboi;31/08/2023;13:12 WIB;NASA-NOAA20;Medium;-0.45194;11268183.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Tengah;BARITO SELATAN;Gunung Bintang Awai;Patas I;31/08/2023;13:25 WIB;NASA-MODIS;High;-15284.0;11520761.0;Kalimantan;barito selatan;24.0;35.0;28.9;0.0;1.0
+Kalimantan Tengah;BARITO UTARA;Gunung Timang;Pelari;31/08/2023;13:12 WIB;NASA-NOAA20;Medium;-119966.0;11520425.0;Kalimantan;barito utara;24.5;34.4;28.8;0.0;0.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Telawang;Sebabi;31/08/2023;13:25 WIB;NASA-MODIS;Medium;-240204.0;11245043.0;Kalimantan;kotawaringin timur;23.8;34.0;28.2;;2.0
+Kalimantan Barat;SAMBAS;Selakau Timur;Selakau Tua;31/08/2023;13:14 WIB;NASA-NOAA20;Medium;103869.0;10908179.0;Kalimantan;sambas;23.6;34.1;28.7;0.0;2.0
+Kalimantan Timur;BERAU;Tabalar;Semurut;31/08/2023;13:14 WIB;NASA-NOAA20;Medium;179296.0;11788867.0;Kalimantan;berau;25.1;36.2;29.6;0.0;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Pulau Hanaut;Serambut;31/08/2023;00:32 WIB;NASA-NOAA20;Medium;-296805.0;11307572.0;Kalimantan;kotawaringin timur;23.8;34.0;28.2;;2.0
+Kalimantan Barat;KUBU RAYA;Kubu;Seruat Dua;31/08/2023;13:12 WIB;NASA-NOAA20;Medium;-0.45367;10917183.0;Kalimantan;kubu raya;23.8;34.2;28.0;0.0;3.0
+Kalimantan Barat;SINTANG;Kelam Permai;Sungai Labi;31/08/2023;13:25 WIB;NASA-MODIS;Medium;0.1474;11191172.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Barat;MELAWI;Menukung;Sungai Sampuk;31/08/2023;13:12 WIB;NASA-NOAA20;Medium;-0.37803;11232504.0;Kalimantan;melawi;24.6;34.9;29.1;0.0;2.0
+Kalimantan Barat;SINTANG;Ketungau Hulu;Sungai Seria;31/08/2023;13:25 WIB;NASA-MODIS;Medium;0.85189;11086475.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Utara;BULUNGAN;Tanjung Palas Timur;Tanjung Agung;31/08/2023;13:14 WIB;NASA-NOAA20;High;270612.0;11748325.0;Kalimantan;bulungan;24.2;35.4;28.8;12.9;2.0
+Kalimantan Barat;SINTANG;Sepauk;Temawang Bulai;31/08/2023;13:12 WIB;NASA-NOAA20;Medium;-0.44254;1112383.0;Kalimantan;sintang;22.6;35.0;28.7;0.0;1.0
+Kalimantan Timur;BERAU;Segah;Tepian Buah;31/08/2023;13:14 WIB;NASA-NOAA20;Medium;211408.0;11706973.0;Kalimantan;berau;25.1;36.2;29.6;0.0;2.0
+Kalimantan Tengah;KOTAWARINGIN TIMUR;Antang Kalang;Tumbang Hejan;31/08/2023;13:25 WIB;NASA-MODIS;High;-134823.0;1125314.0;Kalimantan;kotawaringin timur;23.8;34.0;28.2;;2.0
