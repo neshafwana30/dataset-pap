@@ -1,0 +1,997 @@
+Provinsi,Kab Kota,Kecamatan,Desa,Tanggal,Waktu,Satelit,Confidence,Latitude,Longitude,TN,TX,TAVG,RR,FF_AVG,Confidence_encoded
+Kalimantan Barat,SINTANG,Serawai,Nanga Segulang,16/08/2023,12:53 WIB,NASA-NOAA20,medium,-0.40554,11244154.0,,,24.4,33.6,27.6,0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Besar,16/08/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",21496.0,23.2,34.8,27.4,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Bakau,30/08/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",94658.0,24.0,33.8,28.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Danau Buntar,13/06/2023,00:13 WIB,NASA-NOAA20,medium,"-2,00000",61686.0,23.8,34.6,28.3,0.0,2.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaiasam,27/07/2023,13:31 WIB,NASA-MODIS,medium,"0,00000",24669.0,23.6,34.0,27.5,0.0,4.0,0
+Kalimantan Barat,SINTANG,Kelam Permai,Bengkuang,29/07/2023,13:31 WIB,NASA-NOAA20,medium,0.1588,11188893.0,,,21.3,33.0,27.1,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Utara,Reong,27/08/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",39508.0,23.2,34.6,28.2,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Tanjung Medan,14/08/2023,00:52 WIB,NASA-NOAA20,medium,"-1,00000",39919.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Pendamaran Indah,10/08/2023,13:05 WIB,NASA-NOAA20,medium,"-1,00000",13416.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hilir Selatan,Sei Ijum Raya,27/08/2023,09:47 WIB,NASA-MODIS,medium,-293617.0,11290868.0,,,23.2,34.5,28.5,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Tumbang Titi,31/08/2023,13:25 WIB,NASA-MODIS,medium,"-1,00000",82306.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Utara,Kuala Tolak,16/08/2023,12:55 WIB,NASA-NOAA20,medium,"-1,00000",45773.0,23.9,33.4,27.9,0.0,3.0,0
+Kalimantan Barat,SINTANG,Sepauk,Temawang Bulai,31/08/2023,13:12 WIB,NASA-NOAA20,medium,-0.44254,1112383.0,,,22.6,35.0,28.7,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Tajok Kayong,01/08/2023,12:33 WIB,NASA-NOAA20,medium,"-1,00000",58155.0,24.4,34.2,28.5,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Limbung,18/08/2023,01:15 WIB,NASA-NOAA20,medium,"0,00000",18457.0,23.7,34.0,26.7,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Sepauhan Raya,25/07/2023,13:44 WIB,NASA-MODIS,medium,"-1,00000",96355.0,24.6,33.6,28.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Manis Mata,Sungai Buluh,21/08/2023,00:20 WIB,NASA-NOAA20,medium,"-2,00000",61565.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Botuh Bosi,12/08/2023,12:27 WIB,NASA-NOAA20,medium,"0,00000",54872.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Merimbang Jaya,27/08/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",11513.0,23.6,32.4,28.3,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Kuala Mandor B,Kuala Mandor B,06/08/2023,12:42 WIB,NASA-NOAA20,medium,"0,00000",1287.0,23.9,33.6,27.3,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Kenyabur,18/08/2023,12:16 WIB,NASA-NOAA20,medium,"0,00000",76764.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sandai,Randau,15/08/2023,13:42 WIB,NASA-MODIS,medium,"0,00000",99498.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Tabatan,11/08/2023,12:46 WIB,NASA-NOAA20,medium,"-2,00000",53841.0,22.8,34.0,27.0,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Selangkut Raya,13/08/2023,12:10 WIB,NASA-NOAA20,medium,"0,00000",75718.0,22.6,33.2,27.2,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Limpang,14/08/2023,12:59 WIB,NASA-MODIS,medium,"-1,00000",87926.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Kayong Utara,09/08/2023,13:25 WIB,NASA-NOAA20,medium,"-1,00000",51883.0,23.5,33.4,28.1,0.0,3.0,0
+Kalimantan Timur,BERAU,Gunung Tabur,Sambakungan,02/08/2023,12:16 WIB,NASA-NOAA20,medium,"2,00000",24716.0,23.8,35.2,28.8,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Seriam,28/06/2023,13:12 WIB,NASA-NOAA20,medium,"-2,00000",55449.0,24.4,34.6,28.9,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Nanga Kelampai,29/06/2023,12:55 WIB,NASA-NOAA20,medium,"-1,00000",91308.0,24.3,34.3,28.3,0.0,3.0,0
+Kalimantan Timur,BERAU,Segah,Bukit Makmur,10/08/2023,01:06 WIB,NASA-MODIS,medium,"2,00000",5469.0,23.7,34.4,27.4,23.5,1.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Mekar Harapan,10/08/2023,13:05 WIB,NASA-NOAA20,medium,"0,00000",9799.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Beginci Darat,17/08/2023,12:33 WIB,NASA-NOAA20,medium,"-1,00000",23307.0,24.4,33.8,28.0,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaiasam,05/08/2023,12:59 WIB,NASA-NOAA20,medium,"0,00000",2585.0,24.4,34.4,28.2,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Kayung Tuhe,11/08/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",59313.0,23.3,33.2,27.7,0.0,3.0,0
+Kalimantan Timur,BERAU,Pulau Derawan,Teluk Semanting,01/08/2023,12:36 WIB,NASA-NOAA20,medium,"2,00000",25595.0,24.2,35.5,28.6,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Kualan,21/08/2023,00:20 WIB,NASA-NOAA20,medium,"0,00000",56821.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Timur,BERAU,Pulau Derawan,Kasai,26/07/2023,12:48 WIB,NASA-NOAA20,medium,"2,00000",22449.0,23.4,34.0,28.2,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Semantun,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-2,00000",5048.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Hilir,Mahajandau,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"-2,00000",33247.0,24.8,35.0,28.8,0.0,1.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kumai,Keraya,11/07/2023,12:27 WIB,NASA-NOAA20,medium,"-2,00000",97372.0,23.7,32.3,27.3,0.5,2.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Batu Tajam,01/08/2023,12:33 WIB,NASA-NOAA20,medium,"-1,00000",80395.0,24.4,34.2,28.5,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Tasik Malaya,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",75216.0,23.8,34.0,27.7,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Botuh Bosi,27/07/2023,09:58 WIB,NASA-MODIS,medium,"0,00000",51374.0,24.0,32.6,28.5,0.0,3.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Hilir,Sungai Jaya,11/08/2023,12:46 WIB,NASA-NOAA20,medium,"-2,00000",49036.0,22.8,34.0,27.0,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Batu Mas,13/08/2023,13:50 WIB,NASA-NOAA20,medium,"-1,00000",68986.0,22.6,33.2,27.2,0.0,3.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kumai,Teluk Pulai,22/08/2023,12:40 WIB,NASA-NOAA20,medium,"-2,00000",86409.0,22.8,32.6,26.9,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Pematang Tujuh,29/07/2023,09:38 WIB,NASA-MODIS,medium,"0,00000",19253.0,22.9,32.5,26.8,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Limpang,31/08/2023,13:25 WIB,NASA-MODIS,medium,"-1,00000",87861.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Kayung Tuhe,10/08/2023,13:29 WIB,NASA-MODIS,medium,"-1,00000",57307.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Teluk Sampit,Lampuyang,26/08/2023,13:05 WIB,NASA-NOAA20,medium,"-2,00000",96579.0,22.9,32.5,27.0,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Marau,Belaban,22/08/2023,01:19 WIB,NASA-MODIS,medium,"-2,00000",319.0,24.2,34.4,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Tumbang Titi,27/07/2023,13:31 WIB,NASA-MODIS,medium,"-1,00000",84798.0,24.0,32.6,28.5,0.0,3.0,0
+Kalimantan Barat,SINTANG,Kayan Hilir,Tanjung Putar,26/07/2023,12:48 WIB,NASA-NOAA20,medium,0.00376,11192925.0,,,23.8,33.6,28.2,0
+Kalimantan Timur,BERAU,Sambaliung,Bena Baru,14/08/2023,00:49 WIB,NASA-NOAA20,medium,"1,00000",99186.0,23.8,34.1,27.3,26.7,1.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hilir,18/08/2023,13:57 WIB,NASA-NOAA20,medium,"0,00000",61815.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,01/06/2023,00:39 WIB,NASA-NOAA20,medium,"-1,00000",91778.0,25.6,33.8,29.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,31/07/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",73387.0,23.6,34.2,28.6,0.0,4.0,0
+Kalimantan Barat,MELAWI,Belimbing,Balai Lagas,19/08/2023,13:37 WIB,NASA-NOAA20,medium,-0.50975,1113251.0,,,24.7,35.2,29.2,0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Besar,24/07/2023,13:25 WIB,NASA-NOAA20,medium,"0,00000",19873.0,24.5,33.4,27.5,0.0,3.0,0
+Kalimantan Timur,BERAU,Teluk Bayur,Tumbit Melayu,29/08/2023,12:10 WIB,NASA-NOAA20,medium,"1,00000",99496.0,23.8,33.6,29.0,0.0,2.0,0
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Rasau Jaya Umum,22/06/2023,13:25 WIB,NASA-NOAA20,medium,"0,00000",17133.0,23.5,34.8,28.3,9.2,2.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pematang Gadung,14/08/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",99991.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Timur,BERAU,Segah,Bukit Makmur,01/08/2023,12:36 WIB,NASA-NOAA20,medium,"2,00000",6143.0,24.2,35.5,28.6,0.0,2.0,0
+Kalimantan Timur,BERAU,Biatan,Biatan Bapinang,13/08/2023,12:10 WIB,NASA-NOAA20,medium,"1,00000",62771.0,24.1,32.6,27.9,0.0,2.0,0
+Kalimantan Tengah,BARITO UTARA,Montallat,Pepas,13/08/2023,01:11 WIB,NASA-NOAA20,medium,"-1,00000",29139.0,22.5,33.2,27.3,0.0,0.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Merawa,31/07/2023,13:03 WIB,NASA-MODIS,medium,"0,00000",47511.0,23.6,34.2,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Pangkalan Suka,27/07/2023,13:31 WIB,NASA-MODIS,medium,"-1,00000",39924.0,24.0,32.6,28.5,0.0,3.0,0
+Kalimantan Barat,MELAWI,Pinoh Utara,Tengkajau,26/07/2023,12:48 WIB,NASA-NOAA20,medium,-0.22696,1117468.0,,,24.5,33.6,28.4,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Kelurahan Rantau Kujang,27/08/2023,09:47 WIB,NASA-MODIS,medium,"-2,00000",38622.0,23.2,34.6,28.2,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,17/08/2023,09:32 WIB,NASA-MODIS,medium,"-1,00000",89914.0,24.4,33.8,28.0,0.0,3.0,0
+Kalimantan Timur,BERAU,Teluk Bayur,Tumbit Melayu,15/07/2023,12:53 WIB,NASA-NOAA20,medium,"2,00000",12.0,24.2,33.8,27.7,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Jungkal,26/07/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",95144.0,24.5,33.2,28.3,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Pangkalan Suka,25/07/2023,13:05 WIB,NASA-NOAA20,medium,"-1,00000",32671.0,24.6,33.6,28.4,0.0,3.0,0
+Kalimantan Timur,BERAU,Talisayan,Talisayan,15/07/2023,12:53 WIB,NASA-NOAA20,medium,"1,00000",58979.0,24.2,33.8,27.7,0.0,2.0,0
+Kalimantan Barat,KUBU RAYA,Teluk Pakedai,Sungai Nibung,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"0,00000",50654.0,24.1,34.4,27.2,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Mekar Harapan,31/08/2023,13:25 WIB,NASA-MODIS,medium,"0,00000",99506.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Mutiara,31/07/2023,21:44 WIB,NASA-MODIS,medium,"0,00000",86442.0,23.6,34.2,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Manis Mata,Suka Ramai,19/08/2023,13:37 WIB,NASA-NOAA20,medium,"-2,00000",8011.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Barat,MELAWI,Menukung,Sungai Sampuk,31/08/2023,13:12 WIB,NASA-NOAA20,medium,-0.37803,11232504.0,,,24.6,34.9,29.1,0
+Kalimantan Barat,KETAPANG,Pemahan,Muara Semayok,30/07/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",71411.0,23.0,33.8,28.2,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Kampar Sebomban,31/07/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",70308.0,23.6,34.2,28.6,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Teluk Pakedai,Teluk Gelam,13/08/2023,13:50 WIB,NASA-NOAA20,medium,"0,00000",36781.0,21.8,34.6,26.6,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,04/08/2023,13:20 WIB,NASA-NOAA20,medium,"-1,00000",22021.0,24.4,34.6,29.7,0.0,4.0,0
+Kalimantan Timur,BERAU,Biduk-Biduk,Giring-Giring,13/07/2023,11:51 WIB,NASA-NOAA20,medium,"1,00000",1724.0,23.8,33.2,27.5,24.6,2.0,0
+Kalimantan Tengah,BARITO UTARA,Teweh Tengah,Beringin Raya,29/07/2023,13:16 WIB,NASA-MODIS,medium,"0,00000",93566.0,22.6,33.0,27.2,0.0,0.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Selangkut Raya,12/08/2023,12:27 WIB,NASA-NOAA20,medium,"0,00000",75522.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hulu,13/08/2023,12:10 WIB,NASA-NOAA20,medium,-0.54378,11057427.0,,,22.6,33.2,27.2,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Riam Dadap,22/08/2023,12:42 WIB,NASA-NOAA20,medium,"-1,00000",21025.0,24.2,34.4,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Cinta Manis,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"-1,00000",12559.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Suka Damai,14/08/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",78987.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Pendamaran Indah,17/08/2023,13:27 WIB,NASA-MODIS,medium,"-1,00000",9371.0,24.4,33.8,28.0,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,02/06/2023,12:59 WIB,NASA-NOAA20,medium,"-1,00000",91036.0,25.6,35.0,30.0,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Tanjungharapan,19/08/2023,00:58 WIB,NASA-NOAA20,medium,"0,00000",91765.0,24.0,34.4,27.4,3.4,2.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Pangkalan Teluk,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-1,00000",42013.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Utara,Sungai Telang,27/08/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",59635.0,23.2,34.6,28.2,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Sungai Melayu Rayak,Makmur Abadi,28/06/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",68265.0,24.4,34.6,28.9,0.0,3.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kotawaringin Lama,Kelurahan Kotawaringin Hilir,29/06/2023,12:55 WIB,NASA-NOAA20,medium,-256877.0,11142502.0,,,24.2,32.5,27.5,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Pangkalan Teluk,10/08/2023,13:05 WIB,NASA-NOAA20,medium,"-1,00000",27748.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Barat,MELAWI,Menukung,Batas Nangka,29/06/2023,12:53 WIB,NASA-NOAA20,medium,-0.31451,11234037.0,,,25.3,33.4,28.9,0
+Kalimantan Barat,KETAPANG,Kendawangan,Airhitam Hulu,14/08/2023,13:31 WIB,NASA-NOAA20,medium,"-2,00000",56099.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Timur,BERAU,Segah,Pandan Sari,09/08/2023,00:43 WIB,NASA-NOAA20,medium,"2,00000",7193.0,23.0,35.8,27.3,24.3,1.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Kusik Batu Lapu,12/08/2023,13:14 WIB,NASA-MODIS,medium,"-1,00000",98939.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Merabu Jaya,17/08/2023,12:33 WIB,NASA-NOAA20,medium,"0,00000",68584.0,24.4,33.8,28.0,0.0,3.0,0
+Kalimantan Timur,BERAU,Batu Putih,Tembudan,17/08/2023,12:36 WIB,NASA-NOAA20,medium,"1,00000",45402.0,24.0,34.0,27.8,4.5,2.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,31/07/2023,13:01 WIB,NASA-MODIS,medium,"-1,00000",2715.0,23.6,34.2,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Segar Wangi,05/08/2023,13:14 WIB,NASA-MODIS,medium,"-1,00000",88328.0,24.9,34.2,28.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Labai,16/08/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",45745.0,23.9,33.4,27.9,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sunge Bengaras,10/08/2023,13:29 WIB,NASA-MODIS,medium,"0,00000",70794.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Timur,BERAU,Segah,Bukit Makmur,02/08/2023,12:16 WIB,NASA-NOAA20,medium,"2,00000",6269.0,23.8,35.2,28.8,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Merabu Jaya,12/08/2023,13:14 WIB,NASA-MODIS,medium,"0,00000",6996.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Timur,BERAU,Sambaliung,Bena Baru,01/08/2023,12:36 WIB,NASA-NOAA20,medium,"1,00000",96606.0,24.2,35.5,28.6,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Titi Baru,29/07/2023,13:16 WIB,NASA-MODIS,medium,"-1,00000",86924.0,23.7,33.6,28.3,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Marau,Karya Baru,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-2,00000",22969.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaiasam,29/07/2023,09:38 WIB,NASA-MODIS,medium,-0.25832,10951056.0,,,22.9,32.5,26.8,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Periangan,10/08/2023,13:29 WIB,NASA-MODIS,medium,-204434.0,11086019.0,,,23.8,33.3,27.9,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Pangkalan Teluk,12/08/2023,13:14 WIB,NASA-MODIS,medium,"-1,00000",40415.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Mekar Sari,28/07/2023,01:11 WIB,NASA-NOAA20,medium,"0,00000",25113.0,23.7,32.8,27.0,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Tebing Berseri,12/08/2023,12:27 WIB,NASA-NOAA20,medium,"-1,00000",97618.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Batu Ampar,29/08/2023,13:40 WIB,NASA-MODIS,medium,"0,00000",78122.0,23.3,34.6,28.6,0.8,2.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Kecil,16/08/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",20052.0,23.2,34.8,27.4,0.0,2.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Kelurahan Rantau Kujang,17/08/2023,13:27 WIB,NASA-MODIS,medium,"-2,00000",4423.0,21.8,34.1,27.4,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Sungai Melayu Rayak,Makmur Abadi,30/06/2023,01:36 WIB,NASA-NOAA20,medium,"-1,00000",67936.0,24.8,34.4,28.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Bayun Sari,31/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",3958.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Manis Mata,Manis Mata,29/06/2023,12:55 WIB,NASA-NOAA20,medium,"-2,00000",48291.0,24.3,34.3,28.3,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Terentang,Terentang Hulu,15/08/2023,13:14 WIB,NASA-NOAA20,medium,"0,00000",46798.0,21.8,34.6,26.5,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Muara Pawan,Sungai Awan Kanan,12/08/2023,12:27 WIB,NASA-NOAA20,medium,"-1,00000",80985.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Lubuk Kakap,19/08/2023,13:37 WIB,NASA-NOAA20,medium,"-1,00000",18137.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Simpang Tiga Sembelangaan,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-1,00000",4629.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Madu Sari,11/08/2023,12:48 WIB,NASA-NOAA20,medium,"0,00000",11478.0,23.8,32.0,26.4,0.1,2.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hilir,19/08/2023,13:12 WIB,NASA-MODIS,medium,"0,00000",68201.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sandai,Petai Patah,28/08/2023,12:27 WIB,NASA-NOAA20,medium,"-1,00000",20838.0,24.2,33.8,28.3,0.0,4.0,0
+Kalimantan Timur,BERAU,Gunung Tabur,Tasuk,02/08/2023,12:48 WIB,NASA-MODIS,medium,"2,00000",16823.0,23.8,35.2,28.8,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kenanga,29/07/2023,13:16 WIB,NASA-MODIS,medium,"0,00000",63971.0,23.7,33.6,28.3,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Rantau Bahuang,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-2,00000",4903.0,23.8,34.8,28.5,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Nanga Kelampai,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",89317.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Selangkut Raya,15/08/2023,13:42 WIB,NASA-MODIS,medium,"0,00000",717.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Balai Pinang,25/07/2023,13:05 WIB,NASA-NOAA20,medium,"0,00000",52464.0,24.6,33.6,28.4,0.0,3.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Arut Selatan,Kenambui,25/07/2023,13:05 WIB,NASA-NOAA20,medium,-234544.0,11165225.0,,,23.0,32.7,27.4,0
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Payak,24/07/2023,13:25 WIB,NASA-NOAA20,medium,-0.14549,11199704.0,,,24.5,33.4,27.1,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Nanjung,13/08/2023,10:04 WIB,NASA-MODIS,medium,"-2,00000",17776.0,22.6,33.2,27.2,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,22/08/2023,09:38 WIB,NASA-MODIS,medium,"-1,00000",89681.0,24.2,34.4,28.5,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Kecil,15/08/2023,13:42 WIB,NASA-MODIS,medium,"0,00000",15753.0,21.8,34.6,26.5,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Bakau,19/08/2023,13:37 WIB,NASA-NOAA20,medium,"-1,00000",9256.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Tengah,BARITO UTARA,Montallat,Pepas,24/08/2023,01:04 WIB,NASA-NOAA20,medium,"-1,00000",28977.0,23.4,33.9,27.8,12.0,0.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Siantau Raya,10/08/2023,09:38 WIB,NASA-MODIS,medium,"-1,00000",65587.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Randau Limat,19/08/2023,13:12 WIB,NASA-MODIS,medium,"0,00000",63732.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Pangkalan Teluk,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",42528.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",8164.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Mekar Sari,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",25065.0,23.8,34.0,27.7,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Labai Hilir,18/07/2023,13:46 WIB,NASA-MODIS,medium,"0,00000",53305.0,24.8,34.2,28.9,0.0,3.0,0
+Kalimantan Timur,BERAU,Segah,Gunung Sari,04/08/2023,12:36 WIB,NASA-MODIS,medium,"2,00000",24385.0,24.6,35.6,28.6,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Airhitam Hulu,28/06/2023,13:12 WIB,NASA-NOAA20,medium,"-2,00000",64364.0,24.4,34.6,28.9,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Sungaibesar,18/08/2023,13:57 WIB,NASA-NOAA20,medium,"0,00000",77163.0,23.7,34.0,26.7,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Balai Pinang Hulu,26/07/2023,12:50 WIB,NASA-MODIS,medium,"0,00000",58732.0,24.5,33.2,28.3,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Cinta Manis,16/08/2023,12:55 WIB,NASA-NOAA20,medium,"-1,00000",18038.0,23.9,33.4,27.9,0.0,3.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Tabatan,10/08/2023,13:05 WIB,NASA-NOAA20,medium,"-2,00000",55744.0,23.3,34.0,27.9,0.0,1.0,0
+Kalimantan Barat,SINTANG,Ambalau,Nanga Kesange,14/08/2023,13:31 WIB,NASA-NOAA20,medium,-0.29648,11281207.0,,,22.2,32.4,26.2,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Titi Baru,13/08/2023,13:50 WIB,NASA-NOAA20,medium,"-1,00000",88508.0,22.6,33.2,27.2,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Kiri,24/08/2023,13:44 WIB,NASA-NOAA20,medium,"0,00000",65755.0,24.9,34.0,28.7,4.3,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Sandai,24/08/2023,13:25 WIB,NASA-MODIS,medium,"-1,00000",3107.0,24.9,34.0,28.7,4.3,3.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Padang Tikar Satu,03/06/2023,01:41 WIB,NASA-NOAA20,medium,"0,00000",7257.0,24.0,34.2,26.5,1.6,2.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Tasik Malaya,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",73137.0,21.8,34.6,26.5,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Semantun,14/08/2023,13:31 WIB,NASA-NOAA20,medium,"-2,00000",3855.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Labai Hilir,09/08/2023,13:25 WIB,NASA-NOAA20,medium,"0,00000",46365.0,23.5,33.4,28.1,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Kenyabur,31/07/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",70968.0,23.6,34.2,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Kemuning Biutak,30/06/2023,01:36 WIB,NASA-NOAA20,medium,"-1,00000",99593.0,24.8,34.4,28.6,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Sungaibesar,26/07/2023,12:48 WIB,NASA-NOAA20,medium,"0,00000",77507.0,23.4,34.0,28.1,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Tanjung Beulang,24/08/2023,13:25 WIB,NASA-MODIS,medium,"-1,00000",75167.0,24.9,34.0,28.7,4.3,3.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Utara,Kuala Tolak,19/08/2023,13:37 WIB,NASA-NOAA20,medium,"-1,00000",44112.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Tengah,KOTA PALANGKARAYA,Sabangau,Kelurahan Kalampangan,30/08/2023,00:52 WIB,NASA-NOAA20,medium,"-2,00000",26252.0,22.8,34.2,27.9,0.0,2.0,0
+Kalimantan Barat,KUBU RAYA,Terentang,Betuah,25/07/2023,13:46 WIB,NASA-MODIS,medium,"0,00000",36003.0,23.6,33.8,27.4,0.0,2.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Tebang Kacang,13/08/2023,01:11 WIB,NASA-NOAA20,medium,"0,00000",18661.0,21.8,34.6,26.6,0.0,2.0,0
+Kalimantan Timur,BERAU,Tabalar,Tabalar Muara,18/07/2023,11:57 WIB,NASA-NOAA20,medium,"1,00000",72822.0,23.0,33.6,27.6,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Marau,Batu Payung Dua,04/08/2023,13:18 WIB,NASA-NOAA20,medium,"-2,00000",6716.0,24.4,34.6,29.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Manis Mata,Asam Besar,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-2,00000",38245.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Legong,06/08/2023,12:42 WIB,NASA-NOAA20,medium,"0,00000",58597.0,25.1,34.0,28.1,4.9,3.0,0
+Kalimantan Barat,KETAPANG,Air Upas,Suka Ria,10/08/2023,13:05 WIB,NASA-NOAA20,medium,"-2,00000",21791.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Timur,BERAU,Teluk Bayur,Tumbit Melayu,14/08/2023,11:51 WIB,NASA-NOAA20,medium,"1,00000",97049.0,23.8,34.1,27.3,26.7,1.0,0
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Rasau Jaya Umum,17/07/2023,01:15 WIB,NASA-NOAA20,medium,"0,00000",20804.0,24.5,34.0,28.3,0.0,2.0,0
+Kalimantan Timur,BERAU,Tabalar,Tabalar Ulu,01/08/2023,12:36 WIB,NASA-NOAA20,medium,"1,00000",64079.0,24.2,35.5,28.6,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Harapan Baru,18/08/2023,12:16 WIB,NASA-NOAA20,medium,"0,00000",78014.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Riam Bunut,29/08/2023,13:40 WIB,NASA-MODIS,medium,"0,00000",94614.0,23.6,34.8,29.0,0.0,4.0,0
+Kalimantan Barat,KAPUAS HULU,Silat Hilir,Rumbih,26/07/2023,12:50 WIB,NASA-MODIS,medium,0.22164,11192316.0,,,24.1,35.3,29.2,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Kayung Tuhe,30/07/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",59708.0,23.0,33.8,28.2,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Teluk Sampit,Ujung Pandaran,21/08/2023,12:59 WIB,NASA-NOAA20,medium,-317383.0,11299387.0,,,21.7,33.9,26.7,0
+Kalimantan Barat,KETAPANG,Air Upas,Harapan Baru,26/06/2023,01:11 WIB,NASA-NOAA20,medium,"-2,00000",22897.0,24.0,32.4,28.0,0.0,2.0,0
+Kalimantan Timur,BERAU,Gunung Tabur,Tasuk,02/08/2023,12:48 WIB,NASA-MODIS,medium,216823.0,11728085.0,,,23.8,35.2,28.8,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pematang Gadung,12/08/2023,12:27 WIB,NASA-NOAA20,medium,"-2,00000",271.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Petai Patah,31/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",16724.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hilir Selatan,Samuda Besar,05/08/2023,13:14 WIB,NASA-MODIS,medium,"-2,00000",92189.0,24.4,33.8,28.6,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Banjar Sari,19/08/2023,21:33 WIB,NASA-MODIS,medium,"-2,00000",47843.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Cempaga,Patai,30/07/2023,00:32 WIB,NASA-NOAA20,medium,"-2,00000",22376.0,22.3,33.4,27.3,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,10/08/2023,13:05 WIB,NASA-NOAA20,medium,"0,00000",72573.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Tengah,04/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",43482.0,24.4,34.6,29.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Kayung Tuhe,22/08/2023,09:38 WIB,NASA-MODIS,medium,"-1,00000",59657.0,24.2,34.4,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Krio Hulu,21/08/2023,12:59 WIB,NASA-MODIS,medium,"0,00000",76928.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Danau Buntar,21/08/2023,21:18 WIB,NASA-MODIS,medium,"-2,00000",59037.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,30/07/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",2795.0,23.0,33.8,28.2,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,18/08/2023,01:15 WIB,NASA-NOAA20,medium,"0,00000",77092.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentawa Baru Ketapang,Kelurahan Pasir Putih,28/06/2023,00:32 WIB,NASA-NOAA20,medium,-247303.0,11281952.0,,,21.7,34.3,28.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Besar,15/08/2023,09:47 WIB,NASA-MODIS,medium,"0,00000",21741.0,21.8,34.6,26.5,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Sinar Kuri,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",91905.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Timur,BERAU,Segah,Bukit Makmur,14/08/2023,09:06 WIB,NASA-MODIS,medium,"2,00000",5532.0,23.8,34.1,27.3,26.7,1.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Tumbang Titi,10/08/2023,13:05 WIB,NASA-NOAA20,medium,"-1,00000",84689.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Tabatan,17/08/2023,13:27 WIB,NASA-MODIS,medium,"-2,00000",55052.0,21.8,34.1,27.4,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kenanga,12/08/2023,13:14 WIB,NASA-MODIS,medium,"0,00000",68174.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Petai Patah,13/08/2023,13:50 WIB,NASA-NOAA20,medium,-118442.0,11059985.0,,,22.6,33.2,27.2,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Kualan,04/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",63104.0,24.4,34.6,29.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,17/08/2023,09:32 WIB,NASA-MODIS,medium,"-1,00000",91166.0,24.4,33.8,28.0,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Sandai,29/08/2023,13:50 WIB,NASA-NOAA20,medium,"-1,00000",29553.0,23.6,34.8,29.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Banjar Sari,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-2,00000",50649.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,SINTANG,Sintang,Tertung,26/06/2023,01:11 WIB,NASA-NOAA20,medium,0.01469,11155705.0,,,24.3,34.4,27.7,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,01/07/2023,13:22 WIB,NASA-MODIS,medium,"-1,00000",28714.0,25.0,34.3,28.2,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Kenyabur,30/07/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",73099.0,23.0,33.8,28.2,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Kuala Dua,16/08/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",19669.0,23.2,34.8,27.4,0.0,2.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Utara,Panarukan,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-1,00000",36674.0,23.8,34.8,28.5,0.0,1.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Rangga Ilung,21/08/2023,08:58 WIB,NASA-MODIS,medium,"-2,00000",34846.0,24.8,35.0,28.8,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Paoh Concong,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",71237.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Mahawa,18/08/2023,01:15 WIB,NASA-NOAA20,medium,"-1,00000",88516.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Legong,01/08/2023,01:34 WIB,NASA-NOAA20,medium,"0,00000",56492.0,24.4,34.2,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Kualan,25/07/2023,13:05 WIB,NASA-NOAA20,medium,"0,00000",69366.0,24.6,33.6,28.4,0.0,3.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Tabatan,21/08/2023,12:57 WIB,NASA-MODIS,medium,"-2,00000",56098.0,24.8,35.0,28.8,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Muara Pawan,Mayak,17/08/2023,12:33 WIB,NASA-NOAA20,medium,"-1,00000",76783.0,24.4,33.8,28.0,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Terentang,Betuah,26/07/2023,12:48 WIB,NASA-NOAA20,medium,"0,00000",30231.0,23.4,34.0,28.1,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Kemuning Biutak,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"-2,00000",1975.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Merawa,06/08/2023,12:42 WIB,NASA-NOAA20,medium,"0,00000",55677.0,25.1,34.0,28.1,4.9,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Merawa,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",54651.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Punggur Kapuas,27/07/2023,13:31 WIB,NASA-MODIS,medium,"0,00000",16908.0,23.6,34.0,27.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Senduruhan,28/07/2023,13:50 WIB,NASA-NOAA20,medium,"0,00000",99733.0,23.3,33.4,27.8,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Mekar Sari,14/08/2023,00:52 WIB,NASA-NOAA20,medium,"0,00000",24287.0,22.7,33.4,26.6,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Sinar Kuri,25/07/2023,13:05 WIB,NASA-NOAA20,medium,"0,00000",93576.0,24.6,33.6,28.4,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Pematang Tujuh,31/07/2023,21:44 WIB,NASA-MODIS,medium,"0,00000",19922.0,22.3,33.6,27.2,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,30/08/2023,00:52 WIB,NASA-NOAA20,medium,"-1,00000",91402.0,24.0,33.8,28.0,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Hilir,Mangkatir,17/08/2023,13:27 WIB,NASA-MODIS,medium,"-2,00000",1989.0,21.8,34.1,27.4,0.0,1.0,0
+Kalimantan Barat,KAPUAS HULU,Bunut Hulu,Selaup,26/07/2023,12:48 WIB,NASA-NOAA20,medium,0.44204,11276105.0,,,24.1,35.3,29.2,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Merawa,10/08/2023,13:05 WIB,NASA-NOAA20,medium,"0,00000",53054.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Hulu,18/08/2023,12:16 WIB,NASA-NOAA20,medium,"0,00000",60995.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sandai,Randau Jungkal,06/08/2023,12:42 WIB,NASA-NOAA20,medium,"-1,00000",14843.0,25.1,34.0,28.1,4.9,3.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Rantau Bahuang,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"-2,00000",47977.0,24.8,35.0,28.8,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Pangkalan Suka,19/08/2023,13:12 WIB,NASA-MODIS,medium,"-1,00000",93124.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Kubu,Kubu,31/08/2023,13:25 WIB,NASA-MODIS,medium,"0,00000",4611.0,23.8,34.2,28.0,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Padang Tikar Satu,13/08/2023,01:11 WIB,NASA-NOAA20,medium,"0,00000",72311.0,21.8,34.6,26.6,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Teluk Runjai,27/08/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",99575.0,23.6,32.4,28.3,0.0,3.0,0
+Kalimantan Barat,MELAWI,Ella Hilir,Natai Compa,03/08/2023,13:29 WIB,NASA-MODIS,medium,-0.35431,11201536.0,,,22.6,34.2,27.5,0
+Kalimantan Barat,KETAPANG,Marau,Batu Payung Dua,27/07/2023,12:27 WIB,NASA-NOAA20,medium,"-2,00000",6881.0,24.0,32.6,28.5,0.0,3.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Hilir,Sungai Jaya,17/08/2023,12:33 WIB,NASA-NOAA20,medium,"-2,00000",44453.0,21.8,34.1,27.4,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sungai Kelik,18/06/2023,12:59 WIB,NASA-NOAA20,medium,"-1,00000",65914.0,24.9,33.6,28.4,0.0,2.0,0
+Kalimantan Barat,MELAWI,Menukung,Nanga Melona Satu,03/08/2023,13:29 WIB,NASA-MODIS,medium,-0.368,11236169.0,,,22.6,34.2,27.5,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Teluk Sampit,Lampuyang,17/08/2023,13:27 WIB,NASA-MODIS,medium,-300958.0,11293558.0,,,21.8,33.0,26.7,0
+Kalimantan Barat,KETAPANG,Air Upas,Harapan Baru,26/06/2023,01:11 WIB,NASA-NOAA20,medium,-222897.0,11083983.0,,,24.0,32.4,28.0,0
+Kalimantan Tengah,BARITO UTARA,Gunung Timang,Walur,30/06/2023,12:33 WIB,NASA-NOAA20,medium,"-1,00000",26765.0,24.5,33.5,27.9,1.0,0.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Kampar Sebomban,15/08/2023,13:12 WIB,NASA-NOAA20,medium,-0.71101,11015422.0,,,23.0,33.4,27.7,0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Besar,31/07/2023,21:44 WIB,NASA-MODIS,medium,"0,00000",21433.0,22.3,33.6,27.2,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Kampar Sebomban,29/08/2023,13:40 WIB,NASA-MODIS,medium,"0,00000",87599.0,23.6,34.8,29.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Merabu Jaya,19/08/2023,13:12 WIB,NASA-MODIS,medium,"0,00000",70618.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hilir Selatan,Samuda Besar,27/08/2023,00:07 WIB,NASA-NOAA20,medium,"-2,00000",9242.0,23.2,34.5,28.5,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Bayur,31/08/2023,13:25 WIB,NASA-MODIS,medium,"-1,00000",17521.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Pemahan,Pebihingan,14/08/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",76569.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,15/08/2023,09:49 WIB,NASA-MODIS,medium,"-1,00000",91251.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pesaguan Kanan,10/08/2023,01:09 WIB,NASA-MODIS,medium,"-2,00000",5863.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Balai Pinang,05/08/2023,13:16 WIB,NASA-MODIS,medium,"0,00000",48821.0,24.9,34.2,28.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,25/07/2023,13:05 WIB,NASA-NOAA20,medium,-0.84245,11035908.0,,,24.6,33.6,28.4,0
+Kalimantan Timur,BERAU,Pulau Derawan,Kasai,22/08/2023,00:00 WIB,NASA-NOAA20,medium,"2,00000",27824.0,24.2,33.8,28.1,0.3,1.0,0
+Kalimantan Tengah,BARITO SELATAN,Karau Kuala,Janggi,31/08/2023,09:13 WIB,NASA-MODIS,medium,"-1,00000",95868.0,24.0,35.0,28.9,0.0,1.0,0
+Kalimantan Tengah,BARITO UTARA,Montallat,Ruji,03/08/2023,00:58 WIB,NASA-NOAA20,medium,"-1,00000",27122.0,23.0,35.1,28.7,13.9,0.0,0
+Kalimantan Barat,KETAPANG,Sandai,Demit,29/08/2023,13:50 WIB,NASA-NOAA20,medium,"-1,00000",19031.0,23.6,34.8,29.0,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Karau Kuala,Kelurahan Bangkuang,14/08/2023,00:52 WIB,NASA-NOAA20,medium,"-2,00000",4535.0,22.6,32.0,26.8,0.0,1.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Hilir,Sungai Jaya,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"-2,00000",41553.0,24.8,35.0,28.8,0.0,1.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Tabatan,15/08/2023,00:32 WIB,NASA-NOAA20,medium,"-2,00000",55394.0,23.0,32.8,27.3,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Nanjung,14/08/2023,21:27 WIB,NASA-MODIS,medium,-21487.0,11012749.0,,,23.3,33.0,27.4,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kenanga,13/08/2023,13:57 WIB,NASA-MODIS,medium,"0,00000",62669.0,22.6,33.2,27.2,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Manis Mata,Suka Ramai,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-2,00000",73471.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sandai,Randau,18/08/2023,13:57 WIB,NASA-NOAA20,medium,"-1,00000",1093.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sandai,Muara Jekak,29/07/2023,13:16 WIB,NASA-MODIS,medium,"-1,00000",16363.0,23.7,33.6,28.3,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Pemahan,Pebihingan,30/07/2023,13:59 WIB,NASA-MODIS,medium,"-1,00000",73791.0,23.0,33.8,28.2,0.0,4.0,0
+Kalimantan Barat,SINTANG,Ambalau,Nanga Rade,17/08/2023,12:36 WIB,NASA-NOAA20,medium,-0.05269,11287813.0,,,23.2,33.8,27.3,0
+Kalimantan Tengah,BARITO UTARA,Teweh Baru,Gandring,31/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",45.0,24.5,34.4,28.8,0.0,0.0,0
+Kalimantan Barat,KETAPANG,Sungai Melayu Rayak,Makmur Abadi,12/08/2023,13:14 WIB,NASA-MODIS,medium,"-1,00000",70328.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Tasik Malaya,19/08/2023,21:35 WIB,NASA-MODIS,medium,"0,00000",74643.0,24.0,34.4,27.4,3.4,2.0,0
+Kalimantan Barat,KETAPANG,Sandai,Merimbang Jaya,31/08/2023,13:25 WIB,NASA-MODIS,medium,"-1,00000",7706.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hilir Selatan,Samuda Besar,10/06/2023,13:25 WIB,NASA-MODIS,medium,"-2,00000",92368.0,22.6,34.2,28.3,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Lanjut Mekar Sari,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",94892.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Mutiara,18/08/2023,01:15 WIB,NASA-NOAA20,medium,"0,00000",87616.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Kenyabur,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",76191.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kumai,Sungai Bakau,28/06/2023,09:51 WIB,NASA-MODIS,medium,"-2,00000",95079.0,23.6,33.5,28.4,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,22/08/2023,13:40 WIB,NASA-MODIS,medium,"-2,00000",90199.0,24.2,34.4,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Marau,Karya Baru,24/06/2023,12:46 WIB,NASA-NOAA20,medium,"-2,00000",24806.0,24.2,32.6,28.3,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Selimantan Jaya,31/07/2023,13:01 WIB,NASA-MODIS,medium,"-2,00000",27485.0,23.6,34.2,28.6,0.0,4.0,0
+Kalimantan Tengah,KOTA PALANGKARAYA,Rakumpit,Kelurahan Petuk Barunai,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"-1,00000",72406.0,23.4,35.4,28.4,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Teluk Runjai,25/07/2023,13:05 WIB,NASA-NOAA20,medium,-199134.0,11077235.0,,,24.6,33.6,28.4,0
+Kalimantan Timur,BERAU,Gunung Tabur,Maluang,02/08/2023,12:16 WIB,NASA-NOAA20,medium,"2,00000",22443.0,23.8,35.2,28.8,0.0,2.0,0
+Kalimantan Timur,BERAU,Gunung Tabur,Birang,10/08/2023,13:08 WIB,NASA-NOAA20,medium,"2,00000",5124.0,23.7,34.4,27.4,23.5,1.0,0
+Kalimantan Barat,KETAPANG,Sandai,Randau,29/07/2023,13:16 WIB,NASA-MODIS,medium,"0,00000",96516.0,23.7,33.6,28.3,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sungai Kelik,30/07/2023,13:59 WIB,NASA-MODIS,medium,"-1,00000",64471.0,23.0,33.8,28.2,0.0,4.0,0
+Kalimantan Timur,BERAU,Kelay,Merapun,22/08/2023,00:00 WIB,NASA-NOAA20,medium,"1,00000",43286.0,24.2,33.8,28.1,0.3,1.0,0
+Kalimantan Timur,BERAU,Sambaliung,Pegat Bukur,21/08/2023,12:59 WIB,NASA-NOAA20,medium,204869.0,11741747.0,,,24.0,34.9,27.6,0
+Kalimantan Barat,KETAPANG,Air Upas,Air Upas,31/08/2023,13:12 WIB,NASA-NOAA20,medium,"-2,00000",40666.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kumai,Kubu,29/07/2023,00:52 WIB,NASA-NOAA20,medium,"-2,00000",85784.0,22.8,32.6,27.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Marau,Rangkung,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"-2,00000",22206.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Benua Krio,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",6555.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Utara,Hulu Tampang,11/08/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",40525.0,22.8,34.0,27.0,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Airhitam Hulu,09/08/2023,13:22 WIB,NASA-NOAA20,medium,"-2,00000",67757.0,23.5,33.4,28.1,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Labai,29/08/2023,13:50 WIB,NASA-NOAA20,medium,"0,00000",50828.0,23.6,34.8,29.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,29/07/2023,13:16 WIB,NASA-MODIS,medium,"-1,00000",2753.0,23.7,33.6,28.3,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,04/08/2023,00:41 WIB,NASA-NOAA20,medium,"-2,00000",87688.0,24.4,34.6,29.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pesaguan Kanan,06/08/2023,10:15 WIB,NASA-MODIS,medium,"-2,00000",5551.0,25.1,34.0,28.1,4.9,3.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentawa Baru Ketapang,Bapeang,27/08/2023,12:46 WIB,NASA-NOAA20,medium,"-2,00000",64818.0,23.2,34.5,28.5,0.0,2.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kumai,Sungai Bakau,08/06/2023,21:40 WIB,NASA-MODIS,medium,"-2,00000",97734.0,24.4,32.8,28.3,10.6,2.0,0
+Kalimantan Tengah,BARITO UTARA,Montallat,Pepas,15/08/2023,00:32 WIB,NASA-NOAA20,medium,"-1,00000",28949.0,23.9,32.4,27.4,0.0,0.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Mekar Sari,07/08/2023,01:21 WIB,NASA-NOAA20,medium,"0,00000",24768.0,23.8,32.0,25.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Kiri,09/08/2023,13:25 WIB,NASA-NOAA20,medium,"0,00000",64949.0,23.5,33.4,28.1,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Air Upas,Suka Ria,11/08/2023,12:48 WIB,NASA-NOAA20,medium,"-2,00000",21758.0,23.3,33.2,27.7,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hilir,25/07/2023,13:46 WIB,NASA-MODIS,medium,"0,00000",58176.0,24.6,33.6,28.4,0.0,3.0,0
+Kalimantan Timur,BERAU,Sambaliung,Pilanjau,06/08/2023,12:42 WIB,NASA-NOAA20,medium,"1,00000",92768.0,24.0,35.2,28.4,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Air Upas,Air Durian Jaya,14/08/2023,00:52 WIB,NASA-NOAA20,medium,"-2,00000",35845.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Manis Mata,Ratu Elok,18/08/2023,01:15 WIB,NASA-NOAA20,medium,"-2,00000",50514.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Pangkalan Batu,29/08/2023,01:11 WIB,NASA-NOAA20,medium,"-2,00000",8625.0,23.6,34.8,29.0,0.0,4.0,0
+Kalimantan Barat,MELAWI,Ella Hilir,Kahiya,08/08/2023,12:04 WIB,NASA-NOAA20,medium,-0.59958,11196234.0,,,22.8,33.4,28.3,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Kayung Tuhe,05/08/2023,13:14 WIB,NASA-MODIS,medium,"-1,00000",57267.0,24.9,34.2,28.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Banjar Sari,14/08/2023,00:52 WIB,NASA-NOAA20,medium,"-2,00000",48601.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Paoh Concong,06/08/2023,12:42 WIB,NASA-NOAA20,medium,"0,00000",72929.0,25.1,34.0,28.1,4.9,3.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sebadak Raya,31/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",37815.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Bakau,15/08/2023,13:42 WIB,NASA-MODIS,medium,"-1,00000",94352.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Balai Pinang Hulu,12/08/2023,12:27 WIB,NASA-NOAA20,medium,"0,00000",61431.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Bayun Sari,17/08/2023,12:33 WIB,NASA-NOAA20,medium,"-1,00000",3897.0,24.4,33.8,28.0,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Senduruhan,16/08/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",85311.0,23.9,33.4,27.9,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Krio Hulu,19/08/2023,13:12 WIB,NASA-MODIS,medium,"0,00000",86106.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Air Tarap,31/08/2023,00:32 WIB,NASA-NOAA20,medium,"-2,00000",49404.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Hilir,Sungai Jaya,23/08/2023,12:23 WIB,NASA-NOAA20,medium,"-2,00000",40932.0,23.6,33.0,28.2,20.8,1.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Mutiara,20/08/2023,13:20 WIB,NASA-NOAA20,medium,-0.88735,11049601.0,,,24.6,33.8,28.6,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Padang Tikar Satu,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"0,00000",72579.0,24.1,34.4,27.2,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Labai,24/06/2023,12:48 WIB,NASA-NOAA20,medium,"0,00000",49816.0,24.2,32.6,28.3,0.0,2.0,0
+Kalimantan Barat,KUBU RAYA,Terentang,Betuah,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",26631.0,23.8,34.0,27.7,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Muara Jekak,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",1381.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Sempurna,30/08/2023,10:13 WIB,NASA-MODIS,medium,"-1,00000",20307.0,24.0,33.8,28.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Sepotong,24/08/2023,13:25 WIB,NASA-MODIS,medium,"0,00000",82916.0,24.9,34.0,28.7,4.3,3.0,0
+Kalimantan Timur,BERAU,Pulau Derawan,Tanjung Batu,06/08/2023,12:42 WIB,NASA-NOAA20,medium,"2,00000",25099.0,24.0,35.2,28.4,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Balai Pinang Hulu,13/08/2023,12:10 WIB,NASA-NOAA20,medium,"0,00000",60565.0,22.6,33.2,27.2,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaiasam,19/08/2023,13:14 WIB,NASA-MODIS,medium,"0,00000",2445.0,24.0,34.4,27.4,3.4,2.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaiasam,17/08/2023,01:06 WIB,NASA-MODIS,medium,"0,00000",28351.0,23.5,33.6,27.1,0.0,2.0,0
+Kalimantan Timur,BERAU,Gunung Tabur,Batu-Batu,04/08/2023,12:33 WIB,NASA-MODIS,medium,"2,00000",22147.0,24.6,35.6,28.6,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sepakat Jaya,06/08/2023,01:36 WIB,NASA-MODIS,medium,"-1,00000",50674.0,25.1,34.0,28.1,4.9,3.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Besar,24/06/2023,13:22 WIB,NASA-MODIS,medium,"0,00000",19198.0,24.1,33.4,27.2,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sunge Bengaras,31/08/2023,13:25 WIB,NASA-MODIS,medium,"0,00000",85269.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sandai,Randau,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"-1,00000",3021.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Bengaras,09/08/2023,13:25 WIB,NASA-NOAA20,medium,"0,00000",9691.0,23.5,33.4,28.1,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Krio Hulu,16/08/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",88056.0,23.9,33.4,27.9,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Tanjung Maju,26/06/2023,13:10 WIB,NASA-MODIS,medium,"0,00000",6807.0,24.0,32.4,28.0,0.0,2.0,0
+Kalimantan Tengah,BARITO UTARA,Teweh Tengah,Sei Rahayu II,26/07/2023,12:48 WIB,NASA-NOAA20,medium,"0,00000",85656.0,24.4,32.9,27.9,0.0,1.0,0
+Kalimantan Timur,BERAU,Pulau Derawan,Kasai,01/08/2023,12:36 WIB,NASA-NOAA20,medium,"2,00000",20908.0,24.2,35.5,28.6,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Manis Mata,Suak Burung,27/07/2023,12:27 WIB,NASA-NOAA20,medium,"-2,00000",32155.0,24.0,32.6,28.5,0.0,3.0,0
+Kalimantan Timur,BERAU,Talisayan,Dumaring,21/08/2023,00:17 WIB,NASA-NOAA20,medium,"1,00000",52347.0,24.0,34.9,27.6,27.4,1.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Kusik Batu Lapu,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-2,00000",407.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,30/08/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",21555.0,24.0,33.8,28.0,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Rasau Jaya Satu,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",23311.0,23.8,34.0,27.7,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Manis Mata,Silat,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-2,00000",29672.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Mutiara,15/08/2023,13:42 WIB,NASA-MODIS,medium,"0,00000",87487.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Timur,BERAU,Segah,Tepian Buah,25/08/2023,12:29 WIB,NASA-MODIS,medium,"2,00000",14058.0,23.8,34.5,27.2,1.0,2.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Arut Selatan,Pasir Panjang,26/07/2023,21:37 WIB,NASA-MODIS,medium,"-2,00000",82476.0,22.5,32.6,27.2,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Nanga Kelampai,30/07/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",89126.0,23.0,33.8,28.2,0.0,4.0,0
+Kalimantan Tengah,BARITO UTARA,Gunung Timang,Batu Raya II,19/06/2023,12:40 WIB,NASA-NOAA20,medium,"-1,00000",27684.0,23.8,33.3,27.7,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Lubuk Kakap,12/08/2023,13:14 WIB,NASA-MODIS,medium,"-1,00000",30452.0,22.5,32.3,26.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Kemuning Biutak,10/07/2023,09:51 WIB,NASA-MODIS,medium,"-1,00000",99704.0,25.5,32.4,27.1,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Lubuk Kakap,17/08/2023,12:33 WIB,NASA-NOAA20,medium,"-1,00000",26865.0,24.4,33.8,28.0,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Sandai,25/07/2023,13:05 WIB,NASA-NOAA20,medium,"-1,00000",24181.0,24.6,33.6,28.4,0.0,3.0,0
+Kalimantan Tengah,BARITO SELATAN,Jenamas,Tabatan,27/08/2023,00:07 WIB,NASA-NOAA20,medium,"-2,00000",57592.0,23.2,34.6,28.2,0.0,1.0,0
+Kalimantan Tengah,KOTA PALANGKARAYA,Sabangau,Kelurahan Danau Tundai,20/07/2023,12:59 WIB,NASA-NOAA20,medium,"-2,00000",16247.0,23.4,33.2,26.0,0.0,2.0,0
+Kalimantan Barat,SINTANG,Kayan Hilir,Sungai Meraya,22/06/2023,13:25 WIB,NASA-NOAA20,medium,-0.00778,11194205.0,,,22.8,34.8,28.3,0
+Kalimantan Barat,KETAPANG,Marau,Batu Payung Dua,11/06/2023,00:52 WIB,NASA-NOAA20,medium,-201137.0,11053643.0,,,25.2,33.5,28.6,0
+Kalimantan Barat,KETAPANG,Pemahan,Pebihingan,13/08/2023,13:50 WIB,NASA-NOAA20,medium,"-1,00000",74229.0,22.6,33.2,27.2,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Terentang,Betuah,31/08/2023,13:25 WIB,NASA-MODIS,medium,"0,00000",28115.0,23.8,34.2,28.0,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Senduruhan,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",666.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Medan Mas,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",71721.0,21.8,34.6,26.5,0.0,2.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Nipah Panjang,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",78412.0,23.8,34.0,27.7,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Limbung,16/08/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",1652.0,23.2,34.8,27.4,0.0,2.0,0
+Kalimantan Barat,SINTANG,Ambalau,Nanga Menantak,27/07/2023,13:31 WIB,NASA-MODIS,medium,-0.25945,11297945.0,,,22.4,33.4,27.6,0
+Kalimantan Timur,BERAU,Gunung Tabur,Melati Jaya,04/08/2023,00:39 WIB,NASA-NOAA20,medium,"2,00000",32656.0,24.6,35.6,28.6,0.0,1.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Tanjungharapan,26/06/2023,13:50 WIB,NASA-NOAA20,medium,"0,00000",89618.0,23.8,33.4,27.5,0.2,2.0,0
+Kalimantan Barat,MELAWI,Belimbing,Laman Bukit,17/08/2023,12:36 WIB,NASA-NOAA20,medium,-0.26439,11161359.0,,,24.6,34.1,28.6,0
+Kalimantan Barat,KAPUAS HULU,Boyan Tanjung,Nanga Jemah,26/07/2023,12:50 WIB,NASA-MODIS,medium,0.31714,11245532.0,,,24.1,35.3,29.2,0
+Kalimantan Barat,KUBU RAYA,Kubu,Seruat Dua,27/07/2023,13:31 WIB,NASA-MODIS,medium,"0,00000",44545.0,23.6,34.0,27.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Kiri,27/07/2023,13:31 WIB,NASA-MODIS,medium,"0,00000",61333.0,24.0,32.6,28.5,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Batu Lapis,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",29026.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Marau,Karya Baru,04/08/2023,13:18 WIB,NASA-NOAA20,medium,"-2,00000",2877.0,24.4,34.6,29.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Tajok Kayong,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",59436.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Kualan,24/07/2023,13:25 WIB,NASA-NOAA20,medium,"0,00000",69553.0,24.8,32.8,28.3,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaibulan,18/07/2023,01:26 WIB,NASA-MODIS,medium,"0,00000",31828.0,24.4,34.4,28.4,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kenanga,28/07/2023,13:50 WIB,NASA-NOAA20,medium,"0,00000",67401.0,23.3,33.4,27.8,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Rasau Jaya Umum,19/08/2023,21:35 WIB,NASA-MODIS,medium,"0,00000",17406.0,24.0,34.4,27.4,3.4,2.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Kualan,09/08/2023,13:25 WIB,NASA-NOAA20,medium,"0,00000",60475.0,23.5,33.4,28.1,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Tengah,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",47549.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Siantau Raya,04/08/2023,00:39 WIB,NASA-NOAA20,medium,"-1,00000",66624.0,24.4,34.6,29.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,20/08/2023,01:34 WIB,NASA-MODIS,medium,"-1,00000",90757.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Mekar Utama,20/08/2023,13:54 WIB,NASA-MODIS,medium,"-2,00000",32259.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Legong,29/07/2023,13:16 WIB,NASA-MODIS,medium,"0,00000",59502.0,23.7,33.6,28.3,0.0,4.0,0
+Kalimantan Timur,BERAU,Segah,Tepian Buah,31/08/2023,13:14 WIB,NASA-NOAA20,medium,211408.0,11706973.0,,,25.1,36.2,29.6,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Batu Ampar,23/06/2023,13:05 WIB,NASA-NOAA20,medium,"0,00000",81408.0,23.8,33.0,27.2,52.4,2.0,0
+Kalimantan Barat,KETAPANG,Sandai,Pendamaran Indah,09/08/2023,13:25 WIB,NASA-NOAA20,medium,"-1,00000",478.0,23.5,33.4,28.1,0.0,3.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Teluk Sampit,Parebok,26/08/2023,13:05 WIB,NASA-NOAA20,medium,"-2,00000",96337.0,22.9,32.5,27.0,0.0,2.0,0
+Kalimantan Barat,KUBU RAYA,Terentang,Betuah,29/07/2023,13:16 WIB,NASA-MODIS,medium,"0,00000",27053.0,22.9,32.5,26.8,0.0,2.0,0
+Kalimantan Timur,BERAU,Biatan,Biatan Lempake,13/08/2023,12:10 WIB,NASA-NOAA20,medium,"1,00000",65222.0,24.1,32.6,27.9,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Semantun,31/07/2023,13:01 WIB,NASA-MODIS,medium,"-2,00000",10003.0,23.6,34.2,28.6,0.0,4.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Baamang,Kelurahan Baamang Hulu,13/08/2023,01:11 WIB,NASA-NOAA20,medium,-245511.0,11293808.0,,,19.4,33.6,25.7,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Hilir,Kelurahan Mengkatip,11/08/2023,12:46 WIB,NASA-NOAA20,medium,"-2,00000",22248.0,22.8,34.0,27.0,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Bengaras,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",97615.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,30/08/2023,13:31 WIB,NASA-NOAA20,medium,-121555.0,11075985.0,,,24.0,33.8,28.0,0
+Kalimantan Timur,BERAU,Tabalar,Tubaan,06/08/2023,12:42 WIB,NASA-NOAA20,medium,"1,00000",79551.0,24.0,35.2,28.4,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Utara,Kuala Satong,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",39761.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Kampar Sebomban,24/06/2023,12:48 WIB,NASA-NOAA20,medium,"0,00000",82836.0,24.2,32.6,28.3,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Siantau Raya,15/08/2023,09:49 WIB,NASA-MODIS,medium,"-1,00000",66328.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Semantun,26/07/2023,12:48 WIB,NASA-NOAA20,medium,"-2,00000",9147.0,24.5,33.2,28.3,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Jungkal,10/08/2023,13:05 WIB,NASA-NOAA20,medium,"-1,00000",97624.0,23.8,33.3,27.9,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Labai Hilir,04/08/2023,13:20 WIB,NASA-NOAA20,medium,"0,00000",55394.0,24.4,34.6,29.7,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Kamora,31/08/2023,13:25 WIB,NASA-MODIS,medium,"0,00000",9551.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Beringin Rayo,21/08/2023,12:59 WIB,NASA-MODIS,medium,"-1,00000",75245.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Batu Lapis,05/08/2023,12:59 WIB,NASA-NOAA20,medium,"-1,00000",26485.0,24.9,34.2,28.4,0.0,3.0,0
+Kalimantan Barat,SINTANG,Serawai,Mentajoi,12/08/2023,13:14 WIB,NASA-MODIS,medium,-0.40116,11262944.0,,,22.0,33.6,26.6,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"0,00000",80982.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Betenung,22/08/2023,01:43 WIB,NASA-NOAA20,medium,"-1,00000",57297.0,24.2,34.4,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Aur Gading,29/08/2023,13:50 WIB,NASA-NOAA20,medium,"-1,00000",79027.0,23.6,34.8,29.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sungai Kelik,29/08/2023,09:30 WIB,NASA-MODIS,medium,"-1,00000",66949.0,23.6,34.8,29.0,0.0,4.0,0
+Kalimantan Tengah,BARITO UTARA,Teweh Baru,Hajak,28/07/2023,12:10 WIB,NASA-NOAA20,medium,"-1,00000",7074.0,22.3,33.5,27.5,0.0,0.0,0
+Kalimantan Timur,BERAU,Talisayan,Dumaring,17/08/2023,12:36 WIB,NASA-NOAA20,medium,"1,00000",43303.0,24.0,34.0,27.8,4.5,2.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kumai,Teluk Bogam,09/06/2023,10:02 WIB,NASA-MODIS,medium,"-2,00000",96952.0,24.1,33.6,27.6,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Marau,Batu Payung Dua,29/07/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",97318.0,23.7,33.6,28.3,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Air Tarap,29/06/2023,12:55 WIB,NASA-NOAA20,medium,"-2,00000",487.0,24.3,34.3,28.3,0.0,3.0,0
+Kalimantan Timur,BERAU,Teluk Bayur,Labanan Makmur,10/08/2023,01:06 WIB,NASA-MODIS,medium,"2,00000",4131.0,23.7,34.4,27.4,23.5,1.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Kenyabur,27/07/2023,12:27 WIB,NASA-NOAA20,medium,-0.53475,1111953.0,,,24.0,32.6,28.5,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Titi Baru,18/08/2023,13:57 WIB,NASA-NOAA20,medium,"-1,00000",85197.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Timur,BERAU,Gunung Tabur,Birang,08/08/2023,12:04 WIB,NASA-NOAA20,medium,222405.0,11747018.0,,,23.5,36.0,28.7,0
+Kalimantan Barat,KETAPANG,Sandai,Randau Jungkal,27/08/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",5309.0,23.6,32.4,28.3,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Alam Pakuan,30/08/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",12518.0,24.0,33.8,28.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Lanjut Mekar Sari,31/08/2023,13:25 WIB,NASA-MODIS,medium,"0,00000",94918.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Batu Mas,22/08/2023,13:40 WIB,NASA-MODIS,medium,"-1,00000",66409.0,24.2,34.4,28.5,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Hilir,Kelurahan Mengkatip,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"-2,00000",27893.0,24.8,35.0,28.8,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Sandai,Randau,22/08/2023,12:42 WIB,NASA-NOAA20,medium,"-1,00000",3888.0,24.2,34.4,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Melayu Rayak,Sungai Melayu,19/08/2023,13:12 WIB,NASA-MODIS,medium,"-1,00000",80371.0,24.3,34.0,28.9,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Ambarawa,12/08/2023,12:27 WIB,NASA-NOAA20,medium,-0.84648,10928188.0,,,23.1,33.0,25.9,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Tanjung Maloi,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-1,00000",80014.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Tengah,BARITO SELATAN,Dusun Hilir,Sungai Jaya,31/08/2023,13:25 WIB,NASA-MODIS,medium,"-2,00000",42862.0,24.0,35.0,28.9,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Danau Buntar,22/08/2023,01:41 WIB,NASA-NOAA20,medium,"-2,00000",58781.0,24.2,34.4,28.5,0.0,4.0,0
+Kalimantan Timur,BERAU,Pulau Derawan,Kasai,30/07/2023,12:21 WIB,NASA-MODIS,medium,"2,00000",23465.0,22.2,34.5,27.7,0.0,2.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kotawaringin Lama,Sagu Suka Mulya,29/06/2023,00:13 WIB,NASA-NOAA20,medium,"-2,00000",38098.0,24.2,32.5,27.5,2.6,1.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Tanjung Maju,31/08/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",71758.0,24.1,33.6,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,29/08/2023,13:40 WIB,NASA-MODIS,medium,"-1,00000",89393.0,23.6,34.8,29.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,01/08/2023,12:36 WIB,NASA-NOAA20,medium,"0,00000",75039.0,24.4,34.2,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Mutiara,21/08/2023,12:59 WIB,NASA-MODIS,medium,"0,00000",85729.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,SAMBAS,Tebas,Maribas,30/07/2023,01:38 WIB,NASA-MODIS,medium,109087.0,1091249.0,,,23.2,33.0,27.6,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaibulan,25/07/2023,13:05 WIB,NASA-NOAA20,medium,"0,00000",32108.0,23.6,33.8,27.4,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Air Upas,Harapan Baru,29/07/2023,13:31 WIB,NASA-NOAA20,medium,"-2,00000",19189.0,23.7,33.6,28.3,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Natai Kuini,01/06/2023,13:40 WIB,NASA-MODIS,medium,"-2,00000",94779.0,25.6,33.8,29.4,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Merimbang Jaya,13/08/2023,13:50 WIB,NASA-NOAA20,medium,-101454.0,11054928.0,,,22.6,33.2,27.2,0
+Kalimantan Barat,KETAPANG,Sandai,Pendamaran Indah,30/08/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",4408.0,24.0,33.8,28.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sebadak Raya,16/08/2023,12:55 WIB,NASA-NOAA20,medium,"-1,00000",40595.0,23.9,33.4,27.9,0.0,3.0,0
+Kalimantan Timur,BERAU,Teluk Bayur,Labanan Makmur,22/08/2023,12:42 WIB,NASA-NOAA20,medium,"2,00000",892.0,24.2,33.8,28.1,0.3,1.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Gema,01/08/2023,12:33 WIB,NASA-NOAA20,medium,"0,00000",81533.0,24.4,34.2,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Batu Beransak,18/08/2023,13:57 WIB,NASA-NOAA20,medium,"-1,00000",82541.0,24.0,34.2,28.1,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sandai,Petai Patah,19/07/2023,13:20 WIB,NASA-NOAA20,medium,"-1,00000",16593.0,25.0,34.2,28.8,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Hulu,01/08/2023,12:36 WIB,NASA-NOAA20,medium,"0,00000",65223.0,24.4,34.2,28.5,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Kampar Sebomban,26/07/2023,12:50 WIB,NASA-MODIS,medium,"0,00000",80459.0,24.5,33.2,28.3,0.0,3.0,0
+Kalimantan Tengah,KOTAWARINGIN BARAT,Kumai,Sungai Bakau,28/06/2023,09:51 WIB,NASA-MODIS,medium,-295079.0,11161621.0,,,23.6,33.5,28.4,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Kusik Batu Lapu,11/08/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",97485.0,23.3,33.2,27.7,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Terentang,Betuah,05/08/2023,13:16 WIB,NASA-MODIS,medium,"0,00000",30799.0,24.4,34.4,28.2,0.0,2.0,0
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hilir Selatan,Sebamban,27/08/2023,01:32 WIB,NASA-MODIS,medium,"-2,00000",92856.0,23.2,34.5,28.5,0.0,2.0,0
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Ungai,03/08/2023,13:37 WIB,NASA-NOAA20,medium,-0.09473,1120955.0,,,22.2,33.6,27.2,0
+Kalimantan Barat,KETAPANG,Marau,Karya Baru,29/07/2023,13:16 WIB,NASA-MODIS,medium,"-2,00000",19967.0,23.7,33.6,28.3,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Hulu Sungai,Beginci Darat,20/08/2023,13:18 WIB,NASA-NOAA20,medium,"-1,00000",21744.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Bayun Sari,28/08/2023,12:57 WIB,NASA-MODIS,medium,"-1,00000",1842.0,24.2,33.8,28.3,0.0,4.0,0
+Kalimantan Tengah,KOTA PALANGKARAYA,Jekan Raya,Kelurahan Petuk Katimpun,29/08/2023,21:50 WIB,NASA-MODIS,medium,"-2,00000",14331.0,22.5,35.0,28.0,0.0,3.0,0
+Kalimantan Barat,MELAWI,Ella Hilir,Jabai,05/08/2023,13:16 WIB,NASA-MODIS,medium,-0.69275,11198358.0,,,23.6,35.0,28.9,0
+Kalimantan Barat,KETAPANG,Manis Mata,Pakit Selaba,31/07/2023,13:01 WIB,NASA-MODIS,medium,"-2,00000",22545.0,23.6,34.2,28.6,0.0,4.0,0
+Kalimantan Timur,BERAU,Kelay,Long Lamcin,21/08/2023,12:59 WIB,NASA-MODIS,medium,"1,00000",92221.0,24.0,34.9,27.6,27.4,1.0,0
+Kalimantan Barat,KETAPANG,Jelai Hulu,Air Dua,14/08/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",89388.0,23.3,33.0,27.4,0.0,3.0,0
+Kalimantan Timur,BERAU,Kelay,Long Pelay,04/08/2023,12:33 WIB,NASA-MODIS,medium,"1,00000",9102.0,24.6,35.6,28.6,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Sandai,Randau Jungkal,16/08/2023,12:55 WIB,NASA-NOAA20,medium,"-1,00000",20068.0,23.9,33.4,27.9,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Sandai,30/07/2023,13:12 WIB,NASA-NOAA20,medium,"-1,00000",26432.0,23.0,33.8,28.2,0.0,4.0,0
+Kalimantan Barat,KUBU RAYA,Terentang,Teluk Empening,14/08/2023,00:52 WIB,NASA-NOAA20,medium,-0.39583,10960375.0,,,22.7,33.4,26.6,0
+Kalimantan Timur,BERAU,Pulau Derawan,Teluk Semanting,29/07/2023,13:16 WIB,NASA-MODIS,medium,"2,00000",3192.0,22.4,34.0,27.6,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Muara Pawan,Tempurukan,20/08/2023,09:58 WIB,NASA-MODIS,medium,"-1,00000",64321.0,24.6,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Sinar Kuri,30/07/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",90446.0,23.0,33.8,28.2,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Lanjut Mekar Sari,16/08/2023,12:53 WIB,NASA-NOAA20,medium,"0,00000",9565.0,23.9,33.4,27.9,0.0,3.0,0
+Kalimantan Timur,BERAU,Sambaliung,Pegat Bukur,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"2,00000",4869.0,24.0,34.9,27.6,27.4,1.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Paoh Concong,21/08/2023,00:20 WIB,NASA-NOAA20,medium,"0,00000",70622.0,24.3,33.8,28.6,0.0,4.0,0
+Kalimantan Barat,MELAWI,Pinoh Selatan,Bina Jaya,14/08/2023,13:31 WIB,NASA-NOAA20,medium,-0.48854,11193558.0,,,23.7,32.2,27.5,0
+Kalimantan Barat,KETAPANG,Sandai,Merimbang Jaya,30/08/2023,13:31 WIB,NASA-NOAA20,medium,"-1,00000",10117.0,24.0,33.8,28.0,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Tengah,18/07/2023,13:37 WIB,NASA-NOAA20,medium,"0,00000",44747.0,24.8,34.2,28.9,0.0,3.0,0
+Kalimantan Tengah,KOTA PALANGKARAYA,Jekan Raya,Kelurahan Petuk Katimpun,21/08/2023,12:57 WIB,NASA-MODIS,medium,"-2,00000",13078.0,23.4,35.4,28.4,0.0,2.0,0
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pesaguan Kanan,28/08/2023,12:27 WIB,NASA-NOAA20,medium,"-2,00000",4689.0,24.2,33.8,28.3,0.0,4.0,0
+Kalimantan Barat,KETAPANG,Simpang Hulu,Balai Pinang Hulu,15/08/2023,13:12 WIB,NASA-NOAA20,medium,"0,00000",62773.0,23.0,33.4,27.7,0.0,4.0,0
+Kalimantan Timur,BERAU,Kelay,Muara Lesan,20/08/2023,13:20 WIB,NASA-NOAA20,medium,"1,00000",6095.0,23.5,34.3,27.7,0.0,1.0,0
+Kalimantan Barat,KETAPANG,Sungai Laur,Tanjung Maju,28/08/2023,12:27 WIB,NASA-NOAA20,medium,"0,00000",70247.0,24.2,33.8,28.3,0.0,4.0,0
+Kalimantan Barat,SINTANG,Kayan Hilir,Tuguk,05/08/2023,12:59 WIB,NASA-NOAA20,medium,-0.06011,1118664.0,,,21.8,34.6,27.7,0
+Kalimantan Timur,BERAU,Kelay,Lesan Dayak,22/08/2023,12:42 WIB,NASA-NOAA20,medium,"1,00000",69483.0,24.2,33.8,28.1,0.3,1.0,0
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Sungaijawi,21/08/2023,12:59 WIB,NASA-NOAA20,medium,"0,00000",80239.0,24.1,34.4,27.2,0.0,3.0,0
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaiasam,02/06/2023,12:59 WIB,NASA-NOAA20,medium,"0,00000",30664.0,23.4,34.7,28.6,0.2,2.0,0
+Kalimantan Barat,KETAPANG,Simpang Dua,Gema,13/08/2023,13:57 WIB,NASA-MODIS,medium,"0,00000",87284.0,22.6,33.2,27.2,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Sandai,Demit,27/06/2023,13:50 WIB,NASA-MODIS,medium,"-1,00000",16565.0,23.9,32.9,27.6,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Tumbang Titi,Aur Gading,11/08/2023,12:48 WIB,NASA-NOAA20,medium,"-1,00000",80095.0,23.3,33.2,27.7,0.0,3.0,0
+Kalimantan Barat,KETAPANG,Kendawangan,Bangkal Serai,24/06/2023,13:22 WIB,NASA-MODIS,high,-25249.0,11045467.0,,,24.2,32.6,28.3,1
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Kecil,13/08/2023,10:04 WIB,NASA-MODIS,high,-0.13049,10933752.0,,,21.8,34.6,26.6,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,29/08/2023,13:50 WIB,NASA-NOAA20,high,-0.81051,11035065.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Limpang,12/08/2023,13:14 WIB,NASA-MODIS,high,-187883.0,11082427.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,MELAWI,Sokan,Tanjung Mahung,31/07/2023,13:01 WIB,NASA-MODIS,high,-1063.0,1114557.0,,,22.7,34.2,27.9,1
+Kalimantan Barat,MELAWI,Belimbing,Nanga Pau,08/08/2023,13:44 WIB,NASA-MODIS,high,-0.43542,11142487.0,,,22.8,33.4,28.3,1
+Kalimantan Barat,SINTANG,Serawai,Sawang Senghiang,18/08/2023,12:16 WIB,NASA-NOAA20,high,-0.18,11261105.0,,,23.4,34.6,26.9,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Embaleh,31/07/2023,13:03 WIB,NASA-MODIS,high,0.78961,11129347.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hilir,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.66441,11030282.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,MELAWI,Belimbing Hulu,Nanga Keberak,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.39419,11148582.0,,,24.7,35.2,29.2,1
+Kalimantan Barat,KETAPANG,Kendawangan,Bangkal Serai,03/08/2023,13:37 WIB,NASA-NOAA20,high,-233005.0,11055733.0,,,22.9,34.0,27.6,1
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentawa Baru Ketapang,Eka Bahurui,22/08/2023,01:19 WIB,NASA-MODIS,high,-261087.0,1129446.0,,,22.4,33.1,27.9,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Periangan,29/08/2023,13:37 WIB,NASA-MODIS,high,-207451.0,11089583.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Kecil,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.11525,10932002.0,,,23.6,34.0,27.5,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.7354,11038219.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Pahangan,29/07/2023,13:31 WIB,NASA-NOAA20,high,-0.29426,11305988.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,SAMBAS,Paloh,Temajuk,15/06/2023,13:40 WIB,NASA-MODIS,high,195883.0,10947733.0,,,24.0,33.2,27.0,1
+Kalimantan Barat,SAMBAS,Semparuk,Sepinggan,31/07/2023,21:44 WIB,NASA-MODIS,high,110101.0,10911206.0,,,23.2,34.2,27.9,1
+Kalimantan Barat,SAMBAS,Jawai,Sarang Burung Danau,31/07/2023,13:03 WIB,NASA-MODIS,high,146165.0,10910943.0,,,23.2,34.2,27.9,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Keluas Hulu,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.71211,11134699.0,,,23.0,34.0,27.5,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hilir,07/08/2023,13:01 WIB,NASA-MODIS,high,-0.59665,11019176.0,,,24.3,30.0,27.2,1
+Kalimantan Barat,MELAWI,Ella Hilir,Sungai Labuk,14/08/2023,13:31 WIB,NASA-NOAA20,high,-0.64312,11211993.0,,,23.7,32.2,27.5,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Margahayu,29/07/2023,13:16 WIB,NASA-MODIS,high,0.78614,11133845.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,SAMBAS,Paloh,Temajuk,01/08/2023,13:44 WIB,NASA-MODIS,high,194901.0,10945328.0,,,24.3,33.4,28.4,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Tanjung Bunga,29/08/2023,13:40 WIB,NASA-MODIS,high,-0.16307,11205254.0,,,24.8,34.0,27.9,1
+Kalimantan Barat,KUBU RAYA,Kubu,Dabong,17/08/2023,12:36 WIB,NASA-NOAA20,high,-0.53845,10928914.0,,,23.5,33.6,27.1,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Limbung,15/08/2023,13:42 WIB,NASA-MODIS,high,-0.16541,10936442.0,,,21.8,34.6,26.5,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Sempurna,31/08/2023,13:25 WIB,NASA-MODIS,high,-117736.0,1104029.0,,,24.1,33.6,28.5,1
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Parenggean,Kabuau,19/08/2023,13:37 WIB,NASA-NOAA20,high,-209909.0,11277521.0,,,22.0,33.9,26.9,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Mungguk Lawang,31/08/2023,13:25 WIB,NASA-MODIS,high,0.65801,11168311.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Bengaras,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.95059,11049868.0,,,24.1,33.6,28.5,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,20/08/2023,01:34 WIB,NASA-MODIS,high,-190891.0,11015186.0,,,24.6,33.8,28.6,1
+Kalimantan Utara,BULUNGAN,Tanjung Palas Barat,Mara Hilir,30/08/2023,11:51 WIB,NASA-NOAA20,high,27678.0,11725644.0,,,25.4,35.8,29.3,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hilir,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.63568,11030821.0,,,24.9,34.2,28.4,1
+Kalimantan Barat,KETAPANG,Sandai,Demit,19/08/2023,13:37 WIB,NASA-NOAA20,high,-121035.0,11066417.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,SINTANG,Ambalau,Deme,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.18299,11302891.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,28/08/2023,12:27 WIB,NASA-NOAA20,high,-0.84816,1103486.0,,,24.2,33.8,28.3,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Sungai Seria,29/07/2023,13:16 WIB,NASA-MODIS,high,0.87639,11082999.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Air Dua,10/08/2023,13:29 WIB,NASA-MODIS,high,-195063.0,11080393.0,,,23.8,33.3,27.9,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Riam Danau Kanan,13/08/2023,13:50 WIB,NASA-NOAA20,high,-195355.0,11085262.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,SINTANG,Kayan Hilir,Sungai Sintang,18/07/2023,13:37 WIB,NASA-NOAA20,high,0.11198,11206994.0,,,22.6,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Kendawangan,Danau Buntar,19/08/2023,13:12 WIB,NASA-MODIS,high,-280599.0,11097997.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Rasau Jaya Umum,01/08/2023,12:36 WIB,NASA-NOAA20,high,-0.16209,10935119.0,,,23.2,34.2,27.4,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,19/08/2023,13:12 WIB,NASA-MODIS,high,-191647.0,11013944.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,MELAWI,Ella Hilir,Sungai Mentoba,19/07/2023,12:53 WIB,NASA-MODIS,high,-0.29378,11209573.0,,,23.4,34.3,29.1,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,10/08/2023,13:29 WIB,NASA-MODIS,high,-0.70995,1102693.0,,,23.8,33.3,27.9,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Sungai Kelik,27/07/2023,13:31 WIB,NASA-MODIS,high,101103.0,11119192.0,,,22.4,33.4,27.6,1
+Kalimantan Barat,SINTANG,Ambalau,Luting Mingan,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.00246,11260287.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Harapan Baru,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.76258,11050636.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Panggi Ruguk,27/07/2023,13:31 WIB,NASA-MODIS,high,0.64328,11138335.0,,,22.4,33.4,27.6,1
+Kalimantan Barat,KAPUAS HULU,Seberuang,Nanga Pala,27/07/2023,13:31 WIB,NASA-MODIS,high,0.40938,11193612.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,KETAPANG,Sandai,Demit,29/07/2023,13:16 WIB,NASA-MODIS,high,-116718.0,11064395.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Bayur,15/08/2023,09:49 WIB,NASA-MODIS,high,-117912.0,11048532.0,,,23.0,33.4,27.7,1
+Kalimantan Barat,MELAWI,Belimbing,Balai Lagas,20/08/2023,13:20 WIB,NASA-NOAA20,high,-0.5584,11137173.0,,,25.0,34.4,29.4,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Laja,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.70346,11142978.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Sakai,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.21314,11282694.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Bukit Raya,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.7313,11148237.0,,,23.6,35.0,28.9,1
+Kalimantan Barat,KAPUAS HULU,Putussibau Utara,Sungai Uluk Palin,27/07/2023,13:31 WIB,NASA-MODIS,high,105334.0,11279596.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,MELAWI,Belimbing,Tekaban,29/07/2023,13:31 WIB,NASA-NOAA20,high,-0.37707,11156744.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,17/08/2023,13:27 WIB,NASA-MODIS,high,-0.83951,11035349.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Kusik Batu Lapu,29/08/2023,13:50 WIB,NASA-NOAA20,high,-19949.0,11093804.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,KETAPANG,Kendawangan,Seriam,30/07/2023,13:59 WIB,NASA-MODIS,high,-258129.0,1104124.0,,,23.0,33.8,28.2,1
+Kalimantan Barat,KETAPANG,Sandai,Petai Patah,19/08/2023,13:12 WIB,NASA-MODIS,high,-118511.0,11059694.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Mungguk Entawak,08/08/2023,13:44 WIB,NASA-MODIS,high,0.80467,11125607.0,,,23.6,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Siantau Raya,03/08/2023,13:29 WIB,NASA-MODIS,high,-166641.0,11052867.0,,,22.9,34.0,27.6,1
+Kalimantan Utara,BULUNGAN,Tanjung Palas,Kelurahan Tanjung Palas Hilir,30/08/2023,12:42 WIB,NASA-MODIS,high,286788.0,11730634.0,,,25.4,35.8,29.3,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Semantun,27/07/2023,12:27 WIB,NASA-NOAA20,high,-209685.0,11097465.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Tapang Manua,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.15994,11241743.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,SINTANG,Ketungau Hilir,Jentawang Hilir,29/07/2023,13:31 WIB,NASA-NOAA20,high,0.42883,11170186.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,MELAWI,Ella Hilir,Nanga Nuak,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.40303,1121203.0,,,23.6,33.2,28.2,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Tanjung Lalau,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.19908,11212259.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kenanga,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.66627,11054495.0,,,24.0,32.6,28.5,1
+Kalimantan Utara,BULUNGAN,Tanjung Palas Timur,Tanjung Agung,31/08/2023,13:14 WIB,NASA-NOAA20,high,270612.0,11748325.0,,,24.2,35.4,28.8,1
+Kalimantan Barat,SINTANG,Ambalau,Buntut Purun,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.29591,11302432.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Toran,31/07/2023,13:03 WIB,NASA-MODIS,high,-0.08994,11208684.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Radin Jaya,27/07/2023,13:31 WIB,NASA-MODIS,high,0.83416,11156055.0,,,22.4,33.4,27.6,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Botuh Bosi,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.5449,11035532.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Paoh Concong,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.68737,11039108.0,,,24.9,34.2,28.4,1
+Kalimantan Barat,KETAPANG,Manis Mata,Kemuning,10/08/2023,13:29 WIB,NASA-MODIS,high,-221544.0,11095163.0,,,23.8,33.3,27.9,1
+Kalimantan Barat,MELAWI,Menukung,Belaban Ella,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.52651,1121926.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Ukai,14/08/2023,12:59 WIB,NASA-MODIS,high,-0.23701,11297671.0,,,22.2,32.4,26.2,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Empakan,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.1581,11213596.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,KAPUAS HULU,Silat Hilir,Perigi,21/06/2023,13:44 WIB,NASA-NOAA20,high,0.31519,1117515.0,,,23.9,34.7,28.5,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Ambalau,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.27256,11276883.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,SINTANG,Serawai,Mensulung Bio,13/08/2023,12:10 WIB,NASA-NOAA20,high,-0.23427,11260754.0,,,22.0,34.2,27.0,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Ganjang,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.91355,11128838.0,,,24.7,35.2,29.2,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaibulan,27/07/2023,01:11 WIB,NASA-MODIS,high,-0.32045,10947803.0,,,23.6,34.0,27.5,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Sepiluk,31/08/2023,13:25 WIB,NASA-MODIS,high,0.8354,11094198.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,SAMBAS,Teluk Keramat,Tri Mandayan,01/08/2023,01:24 WIB,NASA-MODIS,high,146991.0,10912782.0,,,24.3,33.4,28.4,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Senduruhan,15/08/2023,13:42 WIB,NASA-MODIS,high,-100704.0,11068059.0,,,23.0,33.4,27.7,1
+Kalimantan Barat,KETAPANG,Muara Pawan,Tempurukan,20/08/2023,09:58 WIB,NASA-MODIS,high,-164498.0,11006329.0,,,24.6,33.8,28.6,1
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hilir Selatan,Basirih Hulu,31/08/2023,21:33 WIB,NASA-MODIS,high,-284591.0,11289692.0,,,23.8,34.0,28.2,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Jasa,31/08/2023,13:25 WIB,NASA-MODIS,high,0.98395,11113645.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Kusik Batu Lapu,03/08/2023,13:29 WIB,NASA-MODIS,high,-203764.0,11088732.0,,,22.9,34.0,27.6,1
+Kalimantan Barat,KETAPANG,Kendawangan,Pembedilan,10/06/2023,13:25 WIB,NASA-MODIS,high,-278462.0,11041674.0,,,24.0,33.8,29.0,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Segar Wangi,05/08/2023,13:14 WIB,NASA-MODIS,high,-18798.0,11053373.0,,,24.9,34.2,28.4,1
+Kalimantan Barat,SINTANG,Ketungau Hilir,Pampang Dua,29/07/2023,13:31 WIB,NASA-NOAA20,high,0.6121,11154097.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Kamora,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.95081,11029702.0,,,24.1,33.6,28.5,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Labai,24/06/2023,13:22 WIB,NASA-MODIS,high,-0.43155,11016019.0,,,24.2,32.6,28.3,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,15/08/2023,09:49 WIB,NASA-MODIS,high,-191113.0,11013929.0,,,23.0,33.4,27.7,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Bayun Sari,31/08/2023,13:25 WIB,NASA-MODIS,high,-104518.0,1104186.0,,,24.1,33.6,28.5,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Labai,29/08/2023,13:50 WIB,NASA-NOAA20,high,-0.50752,11013502.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,KAPUAS HULU,Silat Hulu,Belimbing,17/07/2023,13:05 WIB,NASA-MODIS,high,0.26747,11202532.0,,,23.6,34.5,28.6,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Mutiara,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.84959,1104984.0,,,24.1,33.6,28.5,1
+Kalimantan Barat,MELAWI,Menukung,Nusa Poring,13/08/2023,13:50 WIB,NASA-NOAA20,high,-0.46962,11235312.0,,,23.1,34.5,28.1,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Krio Hulu,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.83388,11086798.0,,,24.1,33.6,28.5,1
+Kalimantan Barat,MELAWI,Ella Hilir,Nanga Ella Hilir,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.42699,11205335.0,,,23.0,34.0,27.5,1
+Kalimantan Barat,KETAPANG,Manis Mata,Pelempangan,03/08/2023,13:37 WIB,NASA-NOAA20,high,-218899.0,1110371.0,,,22.9,34.0,27.6,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Jelayan,03/08/2023,13:37 WIB,NASA-NOAA20,high,-177602.0,11065588.0,,,22.9,34.0,27.6,1
+Kalimantan Barat,MELAWI,Pinoh Utara,Senibung,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.21904,11178738.0,,,23.6,33.2,28.2,1
+Kalimantan Barat,KUBU RAYA,Sungai Ambawang,Lingga,13/08/2023,13:50 WIB,NASA-NOAA20,high,-0.05587,10958996.0,,,21.8,34.6,26.6,1
+Kalimantan Barat,MELAWI,Menukung,Laman Mumbung,18/08/2023,12:16 WIB,NASA-NOAA20,high,-0.43873,11224826.0,,,24.5,34.0,28.9,1
+Kalimantan Barat,MELAWI,Menukung,Laman Mumbung,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.47681,11227229.0,,,24.7,35.2,29.2,1
+Kalimantan Barat,MELAWI,Ella Hilir,Bemban Permai,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.5916,11204284.0,,,23.6,35.0,28.9,1
+Kalimantan Barat,KAPUAS HULU,Putussibau Utara,Nanga Awin,27/07/2023,13:31 WIB,NASA-MODIS,high,0.95473,11288641.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,SINTANG,Ketungau Hilir,Bukit Sidin Permai,29/07/2023,13:16 WIB,NASA-MODIS,high,0.6116,11153499.0,,,21.3,33.0,27.1,1
+Kalimantan Timur,BERAU,Sambaliung,Long Lanuk,07/08/2023,13:01 WIB,NASA-MODIS,high,188708.0,11718087.0,,,25.0,35.1,28.7,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Legong,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.58481,11050089.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,KETAPANG,Air Upas,Gahang,29/07/2023,13:16 WIB,NASA-MODIS,high,-23472.0,11075282.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,KETAPANG,Sandai,Randau,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.96353,11056817.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,MELAWI,Sokan,Nanga Tangkit,13/08/2023,13:50 WIB,NASA-NOAA20,high,-105758.0,11147807.0,,,23.1,34.5,28.1,1
+Kalimantan Barat,SINTANG,Ambalau,Buntut Purun,31/07/2023,13:03 WIB,NASA-MODIS,high,-0.32189,11300838.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Durian Jaya,13/08/2023,13:50 WIB,NASA-NOAA20,high,-0.78523,11140145.0,,,23.1,34.5,28.1,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Hulu,13/08/2023,13:57 WIB,NASA-MODIS,high,-0.55932,11049343.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,SAMBAS,Salatiga,Serumpun,31/07/2023,21:44 WIB,NASA-MODIS,high,108891.0,10910202.0,,,23.2,34.2,27.9,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Durian Jaya,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.83924,11143034.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Bengaras,10/08/2023,13:29 WIB,NASA-MODIS,high,-0.98826,11051582.0,,,23.8,33.3,27.9,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Harapan Baru,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.74488,11051641.0,,,24.1,33.6,28.5,1
+Kalimantan Barat,KAPUAS HULU,Silat Hilir,Seberu,27/07/2023,13:31 WIB,NASA-MODIS,high,0.28461,11194601.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Merabu Jaya,13/08/2023,12:10 WIB,NASA-NOAA20,high,-0.65681,11067886.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Beginci Darat,03/08/2023,13:37 WIB,NASA-NOAA20,high,-134904.0,11104089.0,,,22.9,34.0,27.6,1
+Kalimantan Barat,SAMBAS,Jawai,Sarang Burung Danau,01/08/2023,01:24 WIB,NASA-MODIS,high,147036.0,10912335.0,,,24.3,33.4,28.4,1
+Kalimantan Barat,MELAWI,Tanah Pinoh,Keranjik,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.85144,11156277.0,,,23.6,33.2,28.2,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Oran,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.13368,11213959.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Batu Lapis,19/08/2023,13:37 WIB,NASA-NOAA20,high,-127913.0,11087801.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,MELAWI,Pinoh Selatan,Nyanggai,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.58935,11184068.0,,,24.7,35.2,29.2,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Selangkut Raya,17/08/2023,13:27 WIB,NASA-MODIS,high,-0.74892,11060208.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,SINTANG,Kayan Hilir,Sungai Menuang,08/08/2023,13:44 WIB,NASA-MODIS,high,-0.18167,11197513.0,,,23.6,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Mekar Harapan,27/07/2023,13:31 WIB,NASA-MODIS,high,-10458.0,11040652.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,SINTANG,Serawai,Bedaha,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.30774,11249664.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,SAMBAS,Paloh,Temajuk,27/07/2023,13:31 WIB,NASA-MODIS,high,193795.0,10943955.0,,,24.4,34.5,28.7,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Tengah,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.35477,11046086.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Mekar Harapan,29/08/2023,13:40 WIB,NASA-MODIS,high,-104218.0,11039518.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,MELAWI,Pinoh Utara,Engkurai,13/08/2023,13:50 WIB,NASA-NOAA20,high,-0.2827,11193931.0,,,23.1,34.5,28.1,1
+Kalimantan Barat,SINTANG,Kayan Hilir,Sungai Buaya,05/08/2023,13:16 WIB,NASA-MODIS,high,0.08922,11198469.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Legong,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.57092,11057112.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Lintak Tambuk,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.18068,11219156.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,SINTANG,Sepauk,Landau Panjang,18/07/2023,13:37 WIB,NASA-NOAA20,high,-0.28182,11118712.0,,,22.6,33.8,28.0,1
+Kalimantan Barat,MELAWI,Pinoh Utara,Manding,03/06/2023,13:25 WIB,NASA-MODIS,high,-0.31326,11184557.0,,,26.0,33.5,30.6,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Tapang Manua,17/08/2023,13:27 WIB,NASA-MODIS,high,-0.13988,1123951.0,,,23.2,33.8,27.3,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hulu,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.5539,11055287.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,10/06/2023,13:25 WIB,NASA-MODIS,high,-0.79939,11032636.0,,,24.0,33.8,29.0,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Menakon,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.24428,11294472.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,SINTANG,Sepauk,Nanga Libau,10/08/2023,13:29 WIB,NASA-MODIS,high,-0.15037,11115012.0,,,23.4,34.6,27.6,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Balai Pinang Hulu,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.57187,11042796.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,SINTANG,Kelam Permai,Sungai Labi,31/08/2023,13:25 WIB,NASA-MODIS,high,0.14869,11192061.0,,,22.6,35.0,28.7,1
+Kalimantan Timur,BERAU,Sambaliung,Bena Baru,07/08/2023,13:01 WIB,NASA-MODIS,high,194444.0,11738936.0,,,25.0,35.1,28.7,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Pangkalan Teluk,18/07/2023,13:46 WIB,NASA-MODIS,high,-139111.0,11044575.0,,,24.8,34.2,28.9,1
+Kalimantan Barat,SINTANG,Tempunak,Riam Batu,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.38284,1112907.0,,,22.4,33.4,27.6,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Simpang Tiga Sembelangaan,29/07/2023,13:16 WIB,NASA-MODIS,high,-148146.0,11037873.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Batu Lapis,03/08/2023,13:29 WIB,NASA-MODIS,high,-1287.0,11079246.0,,,22.9,34.0,27.6,1
+Kalimantan Timur,BERAU,Pulau Derawan,Teluk Semanting,21/08/2023,12:59 WIB,NASA-MODIS,high,23325.0,11794444.0,,,24.0,34.9,27.6,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Ungai,04/08/2023,13:20 WIB,NASA-NOAA20,high,-0.04364,1121349.0,,,22.6,34.4,28.4,1
+Kalimantan Barat,KETAPANG,Benua Kayong,Negeri Baru,13/08/2023,13:50 WIB,NASA-NOAA20,high,-188715.0,11008078.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,MELAWI,Belimbing Hulu,Nanga Tikan,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.46471,11157349.0,,,24.4,34.5,29.0,1
+Kalimantan Barat,SAMBAS,Semparuk,Sepinggan,01/08/2023,01:24 WIB,NASA-MODIS,high,109299.0,10911716.0,,,24.3,33.4,28.4,1
+Kalimantan Barat,MELAWI,Sokan,Landau Kabu,31/07/2023,13:01 WIB,NASA-MODIS,high,-100363.0,11149668.0,,,22.7,34.2,27.9,1
+Kalimantan Barat,KAPUAS HULU,Batang Lupar,Sungai Ajung,27/07/2023,13:31 WIB,NASA-MODIS,high,102422.0,11237379.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,12/08/2023,12:27 WIB,NASA-NOAA20,high,-0.72818,11033591.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sunge Bengaras,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.82327,11079257.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Masau,03/08/2023,13:29 WIB,NASA-MODIS,high,-0.16076,1123427.0,,,22.2,33.6,27.2,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Botuh Bosi,12/08/2023,12:27 WIB,NASA-NOAA20,high,-0.56581,11037728.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,MELAWI,Menukung,Batu Badak,03/08/2023,13:29 WIB,NASA-MODIS,high,-0.42548,1122296.0,,,22.6,34.2,27.5,1
+Kalimantan Utara,BULUNGAN,Tanjung Palas Timur,Sajau,30/08/2023,11:51 WIB,NASA-NOAA20,high,26018.0,11754926.0,,,25.4,35.8,29.3,1
+Kalimantan Barat,MELAWI,Sokan,Keluing Taja,12/08/2023,13:14 WIB,NASA-MODIS,high,-101714.0,11143281.0,,,23.0,34.0,27.5,1
+Kalimantan Barat,MELAWI,Sayan,Nanga Raku,13/08/2023,13:50 WIB,NASA-NOAA20,high,-0.75993,11178667.0,,,23.1,34.5,28.1,1
+Kalimantan Barat,KAPUAS HULU,Bika,Jelemuk,27/07/2023,13:31 WIB,NASA-MODIS,high,0.77625,11278428.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,KETAPANG,Kendawangan,Sungai Jelayan,08/08/2023,13:44 WIB,NASA-NOAA20,high,-215165.0,11044567.0,,,24.4,34.0,28.7,1
+Kalimantan Barat,MELAWI,Belimbing Hulu,Piawas,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.43479,11150669.0,,,23.6,33.2,28.2,1
+Kalimantan Barat,KETAPANG,Air Upas,Harapan Baru,13/08/2023,13:50 WIB,NASA-NOAA20,high,-218086.0,11091259.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Madu Sari,12/08/2023,21:44 WIB,NASA-MODIS,high,-0.10841,10944904.0,,,23.1,33.0,25.9,1
+Kalimantan Barat,MELAWI,Ella Hilir,Kerangan Kora,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.62916,11205718.0,,,24.7,35.2,29.2,1
+Kalimantan Barat,KETAPANG,Muara Pawan,Tanjung Pasar,29/08/2023,13:50 WIB,NASA-NOAA20,high,-182341.0,1101465.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,MELAWI,Belimbing,Tekaban,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.35864,11158643.0,,,23.6,33.2,28.2,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Kesange,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.24439,11283764.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,SINTANG,Serawai,Gurung Senghiang,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.28259,112451.0,,,22.4,35.0,28.0,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Ungai,19/08/2023,13:14 WIB,NASA-MODIS,high,-0.08313,11215141.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Tirta Karya,05/08/2023,13:16 WIB,NASA-MODIS,high,0.67792,11160507.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,KAPUAS HULU,Putussibau Utara,Lauk,18/07/2023,13:37 WIB,NASA-NOAA20,high,111083.0,11265839.0,,,23.5,35.8,28.9,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Merah Arai,29/07/2023,13:31 WIB,NASA-NOAA20,high,-0.23113,11225453.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,13/08/2023,01:36 WIB,NASA-MODIS,high,-190271.0,11015113.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Nanga Kelampai,05/08/2023,13:14 WIB,NASA-MODIS,high,-188511.0,11052907.0,,,24.9,34.2,28.4,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Lubuk Kakap,19/08/2023,13:37 WIB,NASA-NOAA20,high,-117601.0,11115276.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,SINTANG,Ambalau,Lunjan Tingang,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.21938,11271844.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Ukai,31/07/2023,13:03 WIB,NASA-MODIS,high,-0.22431,11297503.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Segulang,13/08/2023,12:10 WIB,NASA-NOAA20,high,-0.48268,11249033.0,,,22.0,34.2,27.0,1
+Kalimantan Barat,SINTANG,Serawai,Mensulung Bio,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.23603,11257668.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,SINTANG,Serawai,Tanjung Baru,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.30605,11238583.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,MELAWI,Tanah Pinoh,Keranjik,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.83789,11154198.0,,,23.6,35.0,28.9,1
+Kalimantan Barat,SINTANG,Serawai,Tanjung Baru,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.3009,112403.0,,,22.4,35.0,28.0,1
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Teluknibung,27/07/2023,12:27 WIB,NASA-NOAA20,high,-0.82063,10942406.0,,,23.6,34.0,27.5,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hilir,12/08/2023,12:27 WIB,NASA-NOAA20,high,-0.546,11018581.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Kecil,19/08/2023,21:35 WIB,NASA-MODIS,high,-0.17842,10930763.0,,,24.0,34.4,27.4,1
+Kalimantan Barat,SAMBAS,Paloh,Malek,29/08/2023,21:52 WIB,NASA-MODIS,high,167589.0,10932066.0,,,24.7,35.6,29.0,1
+Kalimantan Barat,KETAPANG,Kendawangan,Danau Buntar,22/06/2023,13:37 WIB,NASA-MODIS,high,-270053.0,11093418.0,,,24.7,34.9,29.2,1
+Kalimantan Barat,KETAPANG,Marau,Pelanjau Jaya,03/08/2023,13:29 WIB,NASA-MODIS,high,-224844.0,11064088.0,,,22.9,34.0,27.6,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kenanga,28/07/2023,13:50 WIB,NASA-NOAA20,high,-0.67321,11054777.0,,,23.3,33.4,27.8,1
+Kalimantan Barat,KETAPANG,Sungai Melayu Rayak,Sungai Melayu,19/08/2023,21:35 WIB,NASA-MODIS,high,-179803.0,11044187.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,SINTANG,Ketungau Hilir,Batu Nyadi,29/07/2023,13:16 WIB,NASA-MODIS,high,0.54291,11143163.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Semareh,31/07/2023,13:03 WIB,NASA-MODIS,high,0.98302,1113578.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Tangoi,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.28918,1127168.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,MELAWI,Menukung,Nanga Mawang Mentatai,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.44623,11235136.0,,,23.6,35.0,28.9,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Batu Daya,19/08/2023,13:12 WIB,NASA-MODIS,high,-100977.0,11037942.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,MELAWI,Sayan,Madya Raya,10/08/2023,13:29 WIB,NASA-MODIS,high,-0.89052,11163491.0,,,24.5,34.0,27.6,1
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Besar,15/08/2023,13:42 WIB,NASA-MODIS,high,-0.21906,10925423.0,,,21.8,34.6,26.5,1
+Kalimantan Barat,KAPUAS HULU,Silat Hulu,Belimbing,18/07/2023,13:37 WIB,NASA-NOAA20,high,0.25896,11209677.0,,,23.5,35.8,28.9,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Menantak,31/07/2023,13:03 WIB,NASA-MODIS,high,-0.21845,11301512.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,KETAPANG,Kendawangan,Mekar Utama,20/08/2023,13:54 WIB,NASA-MODIS,high,-23272.0,11025725.0,,,24.6,33.8,28.6,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Kiri,12/08/2023,12:27 WIB,NASA-NOAA20,high,-0.64068,11041276.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,MELAWI,Sayan,Bora,27/06/2023,13:31 WIB,NASA-NOAA20,high,-0.66881,11178072.0,,,25.3,33.5,27.4,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Kepari,17/08/2023,13:27 WIB,NASA-MODIS,high,-0.86872,1105333.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,MELAWI,Ella Hilir,Nanga Nyuruh,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.52364,1120774.0,,,23.6,35.0,28.9,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Senangan Jaya,08/08/2023,13:44 WIB,NASA-MODIS,high,0.69688,11154409.0,,,23.6,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Aur Gading,29/08/2023,13:50 WIB,NASA-NOAA20,high,-179362.0,11059095.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Tengah,27/07/2023,12:27 WIB,NASA-NOAA20,high,-0.46538,11039867.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Legong,29/06/2023,13:37 WIB,NASA-MODIS,high,-0.59273,11050995.0,,,24.3,34.3,28.3,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Mutiara,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.86146,1104938.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Betenung,14/08/2023,12:59 WIB,NASA-MODIS,high,-157379.0,11076942.0,,,23.3,33.0,27.4,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Kenyabur,18/08/2023,12:16 WIB,NASA-NOAA20,high,-0.76688,11093163.0,,,24.0,34.2,28.1,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Padung Kumang,05/08/2023,13:16 WIB,NASA-MODIS,high,0.71006,11169315.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Panggi Agung,31/08/2023,13:25 WIB,NASA-MODIS,high,0.58288,11129928.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,SAMBAS,Selakau Timur,Selakau Tua,20/08/2023,13:20 WIB,NASA-NOAA20,high,107211.0,10911062.0,,,24.6,33.6,27.7,1
+Kalimantan Barat,SINTANG,Serawai,Teluk Harapan,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.47051,1124538.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,SAMBAS,Jawai,Lambau,13/08/2023,13:52 WIB,NASA-NOAA20,high,136993.0,10914436.0,,,23.4,33.4,27.7,1
+Kalimantan Barat,SINTANG,Ketungau Hilir,Air Nyuruk,27/07/2023,13:31 WIB,NASA-MODIS,high,0.55839,11155903.0,,,22.4,33.4,27.6,1
+Kalimantan Utara,BULUNGAN,Tanjung Palas,Kelurahan Tanjung Palas Hilir,31/08/2023,13:14 WIB,NASA-NOAA20,high,290601.0,1172867.0,,,24.2,35.4,28.8,1
+Kalimantan Barat,SINTANG,Kayan Hilir,Sungai Sintang,05/08/2023,13:16 WIB,NASA-MODIS,high,0.10564,11203197.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,KUBU RAYA,Rasau Jaya,Rasau Jaya Umum,19/08/2023,21:35 WIB,NASA-MODIS,high,-0.16988,10934287.0,,,24.0,34.4,27.4,1
+Kalimantan Barat,SAMBAS,Jawai,Pelimpaan,13/08/2023,13:57 WIB,NASA-MODIS,high,136375.0,10914398.0,,,23.4,33.4,27.7,1
+Kalimantan Barat,MELAWI,Sayan,Karangan Purun,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.66249,11162373.0,,,23.0,34.0,27.5,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Legong,12/08/2023,12:27 WIB,NASA-NOAA20,high,-0.59092,11052996.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,SINTANG,Ketungau Hilir,Beluh Mulyo,18/07/2023,13:37 WIB,NASA-NOAA20,high,0.4597,11149659.0,,,22.6,33.8,28.0,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Mekar Sari,12/08/2023,21:44 WIB,NASA-MODIS,high,-0.23899,10944361.0,,,23.1,33.0,25.9,1
+Kalimantan Barat,KETAPANG,Sandai,Pendamaran Indah,28/08/2023,12:27 WIB,NASA-NOAA20,high,-113393.0,11062012.0,,,24.2,33.8,28.3,1
+Kalimantan Barat,MELAWI,Sokan,Teluk Pongkal,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.95803,1114016.0,,,24.7,35.2,29.2,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Pelita Jaya,13/08/2023,13:50 WIB,NASA-NOAA20,high,-0.75083,11153062.0,,,23.1,34.5,28.1,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Nanjung,24/07/2023,21:52 WIB,NASA-MODIS,high,-213764.0,11012641.0,,,24.8,32.8,28.3,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Titi Baru,13/08/2023,13:50 WIB,NASA-NOAA20,high,-18622.0,11062466.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaibulan,26/07/2023,21:37 WIB,NASA-MODIS,high,-0.31816,10946907.0,,,23.4,34.0,28.1,1
+Kalimantan Barat,KETAPANG,Kendawangan,Seriam,12/08/2023,12:27 WIB,NASA-NOAA20,high,-27051.0,11041655.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,21/08/2023,12:59 WIB,NASA-NOAA20,high,-190936.0,11015162.0,,,24.3,33.8,28.6,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,24/08/2023,13:25 WIB,NASA-MODIS,high,-129754.0,11080869.0,,,24.9,34.0,28.7,1
+Kalimantan Barat,KETAPANG,Sandai,Muara Jekak,24/08/2023,13:25 WIB,NASA-MODIS,high,-116475.0,11057906.0,,,24.9,34.0,28.7,1
+Kalimantan Tengah,BARITO SELATAN,Gunung Bintang Awai,Patas I,31/08/2023,13:25 WIB,NASA-MODIS,high,-15284.0,11520761.0,,,24.0,35.0,28.9,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Tebidah,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.14434,11208699.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,MELAWI,Sokan,Teluk Pongkal,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.94916,11140452.0,,,23.0,34.0,27.5,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Labai Hilir,13/08/2023,13:57 WIB,NASA-MODIS,high,-0.5022,11000619.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,SINTANG,Serawai,Muara Kota,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.30153,11241708.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,SINTANG,Serawai,Merako Jaya,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.33069,1126586.0,,,22.0,33.6,26.6,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Ambalau,31/07/2023,13:03 WIB,NASA-MODIS,high,-0.26691,11276021.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sepakat Jaya,17/08/2023,13:27 WIB,NASA-MODIS,high,-134975.0,11071326.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Kendawangan,Danau Buntar,22/08/2023,01:19 WIB,NASA-MODIS,high,-258517.0,11087325.0,,,24.2,34.4,28.5,1
+Kalimantan Barat,KETAPANG,Sandai,Muara Jekak,29/08/2023,13:40 WIB,NASA-MODIS,high,-12212.0,11056081.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Besar,31/07/2023,21:44 WIB,NASA-MODIS,high,-0.21557,1092552.0,,,22.3,33.6,27.2,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Lubuk Kakap,17/08/2023,13:27 WIB,NASA-MODIS,high,-127925.0,11114015.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Kemangai,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.28523,11272013.0,,,22.4,35.0,28.0,1
+Kalimantan Barat,MELAWI,Ella Hilir,Kerangan Kora,31/08/2023,21:33 WIB,NASA-MODIS,high,-0.68038,11206375.0,,,24.6,34.9,29.1,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Radin Jaya,31/08/2023,13:25 WIB,NASA-MODIS,high,0.7697,11157042.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,MELAWI,Menukung,Lihai,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.397,11218104.0,,,23.6,35.0,28.9,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Engkeruh,31/07/2023,13:03 WIB,NASA-MODIS,high,0.93348,11104985.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sebadak Raya,17/08/2023,13:27 WIB,NASA-MODIS,high,-134846.0,11072224.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Hilir,15/08/2023,13:42 WIB,NASA-MODIS,high,-0.54815,11019765.0,,,23.0,33.4,27.7,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Mahawa,03/06/2023,13:25 WIB,NASA-MODIS,high,-189973.0,11062084.0,,,26.1,34.5,29.4,1
+Kalimantan Utara,BULUNGAN,Tanjung Selor,Gunung Seriang,30/08/2023,11:51 WIB,NASA-NOAA20,high,263218.0,11737927.0,,,25.4,35.8,29.3,1
+Kalimantan Barat,MELAWI,Ella Hilir,Nanga Kempangai,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.61763,11212633.0,,,23.6,35.0,28.9,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kenanga,13/08/2023,13:57 WIB,NASA-MODIS,high,-0.62972,11055357.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Mekar Raya,29/08/2023,13:50 WIB,NASA-NOAA20,high,-0.8744,11035312.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Segulang,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.46589,11254768.0,,,22.4,35.0,28.0,1
+Kalimantan Utara,BULUNGAN,Tanjung Palas Timur,Pura Sajau,30/08/2023,11:51 WIB,NASA-NOAA20,high,266805.0,11762822.0,,,25.4,35.8,29.3,1
+Kalimantan Barat,SINTANG,Ambalau,Dahtah Bungai,14/08/2023,13:31 WIB,NASA-NOAA20,high,-0.27271,11285573.0,,,22.2,32.4,26.2,1
+Kalimantan Barat,SINTANG,Kayan Hilir,Batu Netak,31/07/2023,13:03 WIB,NASA-MODIS,high,0.14144,11200936.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Tanjung Maju,12/08/2023,12:27 WIB,NASA-NOAA20,high,-0.69011,11047625.0,,,22.5,32.3,26.6,1
+Kalimantan Utara,NUNUKAN,Krayan Tengah,Long Padi,31/07/2023,13:03 WIB,NASA-MODIS,high,371324.0,11584149.0,,,25.4,32.3,28.0,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Begelang Jaya,29/07/2023,13:16 WIB,NASA-MODIS,high,0.61469,1112951.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,MELAWI,Belimbing,Nanga Pau,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.52109,11146729.0,,,23.0,34.0,27.5,1
+Kalimantan Barat,SINTANG,Ketungau Hilir,Bukit Sidin Permai,17/08/2023,13:27 WIB,NASA-MODIS,high,0.57124,1115084.0,,,23.2,33.8,27.3,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Toran,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.06632,11205653.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Sejawak,31/08/2023,13:25 WIB,NASA-MODIS,high,0.88787,11123977.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,MELAWI,Belimbing Hulu,Nanga Tikan,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.44592,11160343.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,MELAWI,Menukung,Sungai Sampuk,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.35285,11231097.0,,,24.4,34.5,29.0,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Tebing Berseri,12/08/2023,12:27 WIB,NASA-NOAA20,high,-197571.0,1108521.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,SAMBAS,Paloh,Mentibar,25/06/2023,21:48 WIB,NASA-MODIS,high,166094.0,10926562.0,,,23.9,33.4,28.0,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Botuh Bosi,29/08/2023,13:50 WIB,NASA-NOAA20,high,-0.52828,11031551.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Sungai Daka,17/08/2023,13:27 WIB,NASA-MODIS,high,-0.98835,11047417.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Bayun Sari,12/08/2023,13:14 WIB,NASA-MODIS,high,-103598.0,11044279.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Senduruhan,17/08/2023,13:27 WIB,NASA-MODIS,high,-0.79679,11065139.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Hulu,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.56231,11047926.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Buluh Merindu,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.04611,11212548.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,KETAPANG,Manis Mata,Pakit Selaba,29/07/2023,13:16 WIB,NASA-MODIS,high,-221608.0,11102647.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Nanga Tayap,12/08/2023,13:14 WIB,NASA-MODIS,high,-155847.0,11056763.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Beginci Darat,31/08/2023,13:25 WIB,NASA-MODIS,high,-130802.0,11108852.0,,,24.1,33.6,28.5,1
+Kalimantan Barat,KETAPANG,Sungai Melayu Rayak,Sungai Melayu,15/08/2023,13:42 WIB,NASA-MODIS,high,-184374.0,11035623.0,,,23.0,33.4,27.7,1
+Kalimantan Barat,MELAWI,Sayan,Tumbak Raya,29/07/2023,13:31 WIB,NASA-NOAA20,high,-0.79838,11169225.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,MELAWI,Sayan,Nanga Sayan,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.70689,11166354.0,,,23.0,34.0,27.5,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Kayu Dujung,31/07/2023,13:03 WIB,NASA-MODIS,high,0.79821,11163802.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,MELAWI,Ella Hilir,Perembang Nyuruh,10/08/2023,09:38 WIB,NASA-MODIS,high,-0.5683,11212706.0,,,24.5,34.0,27.6,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Merawa,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.48432,11044901.0,,,24.9,34.2,28.4,1
+Kalimantan Barat,SINTANG,Tempunak,Kuala Tiga,28/07/2023,13:50 WIB,NASA-NOAA20,high,-0.25409,11129333.0,,,22.6,32.2,27.4,1
+Kalimantan Barat,MELAWI,Belimbing,Nanga Entebah,08/08/2023,13:44 WIB,NASA-MODIS,high,-0.40926,11135986.0,,,22.8,33.4,28.3,1
+Kalimantan Barat,KETAPANG,Marau,Runjai Jaya,03/08/2023,13:37 WIB,NASA-NOAA20,high,-209708.0,11083342.0,,,22.9,34.0,27.6,1
+Kalimantan Barat,KETAPANG,Kendawangan,Banjar Sari,15/08/2023,13:42 WIB,NASA-MODIS,high,-247571.0,11024128.0,,,23.0,33.4,27.7,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Empunak Tapang Keladan,31/08/2023,13:25 WIB,NASA-MODIS,high,0.83965,11103442.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Limbung,19/08/2023,21:35 WIB,NASA-MODIS,high,-0.17117,10936014.0,,,24.0,34.4,27.4,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Riyoi,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.37878,11271615.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,SINTANG,Dedai,Kumpang,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.05964,11175454.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Ungai,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.08835,11209792.0,,,21.3,33.0,27.1,1
+Kalimantan Utara,BULUNGAN,Tanjung Palas Barat,Long Pari,31/08/2023,13:14 WIB,NASA-NOAA20,high,289732.0,11717825.0,,,24.2,35.4,28.8,1
+Kalimantan Timur,BERAU,Gunung Tabur,Kelurahan Gunung Tabur,30/08/2023,12:42 WIB,NASA-MODIS,high,224414.0,1175184.0,,,24.0,36.2,29.2,1
+Kalimantan Timur,BERAU,Gunung Tabur,Samburakat,30/08/2023,11:51 WIB,NASA-NOAA20,high,220135.0,11757343.0,,,24.0,36.2,29.2,1
+Kalimantan Barat,KAPUAS HULU,Silat Hulu,Dangkan Kota,27/07/2023,13:31 WIB,NASA-MODIS,high,0.21905,1120276.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Wana Bhakti,31/08/2023,13:25 WIB,NASA-MODIS,high,0.85187,11149747.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,MELAWI,Ella Hilir,Kahiya,13/08/2023,01:11 WIB,NASA-NOAA20,high,-0.49729,11196352.0,,,23.1,34.5,28.1,1
+Kalimantan Timur,BERAU,Segah,Batu Rajang,04/08/2023,13:20 WIB,NASA-NOAA20,high,2061.0,11709026.0,,,24.6,35.6,28.6,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Limbung,21/08/2023,12:59 WIB,NASA-NOAA20,high,-0.15973,1093753.0,,,24.1,34.4,27.2,1
+Kalimantan Barat,KETAPANG,Pemahan,Muara Gerunggang,03/08/2023,13:29 WIB,NASA-MODIS,high,-167659.0,11052111.0,,,22.9,34.0,27.6,1
+Kalimantan Barat,SINTANG,Serawai,Rantau Malam,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.48806,11258109.0,,,22.4,35.0,28.0,1
+Kalimantan Barat,SAMBAS,Teluk Keramat,Sungai Baru,13/08/2023,13:57 WIB,NASA-MODIS,high,137832.0,10915936.0,,,23.4,33.4,27.7,1
+Kalimantan Barat,MELAWI,Ella Hilir,Bemban Permai,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.56913,11202638.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kenanga,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.67209,1105303.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Bayun Sari,15/08/2023,13:12 WIB,NASA-NOAA20,high,-101534.0,11047895.0,,,23.0,33.4,27.7,1
+Kalimantan Barat,SINTANG,Ambalau,Purut Beribit,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.15004,11275687.0,,,22.4,35.0,28.0,1
+Kalimantan Utara,NUNUKAN,Krayan Tengah,Long Mutan,29/07/2023,11:51 WIB,NASA-NOAA20,high,371272.0,11585788.0,,,24.9,32.4,28.2,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Landau Temiang,31/08/2023,13:25 WIB,NASA-MODIS,high,0.72298,11169198.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Legong,13/08/2023,12:10 WIB,NASA-NOAA20,high,-0.62559,11050977.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,21/08/2023,12:59 WIB,NASA-MODIS,high,-189673.0,11011067.0,,,24.3,33.8,28.6,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Kebarau,08/08/2023,13:44 WIB,NASA-MODIS,high,-0.13536,11207146.0,,,23.6,33.8,28.0,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Bakti Senabung,29/07/2023,13:16 WIB,NASA-MODIS,high,0.53946,11134191.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,SINTANG,Ambalau,Pulou Sabhang,31/07/2023,13:03 WIB,NASA-MODIS,high,-0.10954,11274474.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,MELAWI,Sayan,Nanga Raku,24/08/2023,13:25 WIB,NASA-MODIS,high,-0.78811,1117897.0,,,24.8,35.2,28.7,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,17/08/2023,13:27 WIB,NASA-MODIS,high,-191248.0,11013346.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,MELAWI,Ella Hilir,Nanga Nyuruh,01/08/2023,12:33 WIB,NASA-NOAA20,high,-0.51109,11207652.0,,,22.4,34.6,28.9,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Tajok Kayong,12/08/2023,13:14 WIB,NASA-MODIS,high,-156733.0,11058235.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Panggi Ruguk,31/08/2023,13:25 WIB,NASA-MODIS,high,0.64217,11138503.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Teluk Runjai,05/08/2023,13:14 WIB,NASA-MODIS,high,-199862.0,11079475.0,,,24.9,34.2,28.4,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Nanga Kelapan,31/07/2023,13:03 WIB,NASA-MODIS,high,0.90891,11139055.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,20/08/2023,09:58 WIB,NASA-MODIS,high,-190831.0,11012219.0,,,24.6,33.8,28.6,1
+Kalimantan Barat,SINTANG,Kayan Hilir,Sungai Garong,31/07/2023,13:03 WIB,NASA-MODIS,high,0.14912,112003.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Balai Pinang,27/07/2023,12:27 WIB,NASA-NOAA20,high,-0.53383,11040897.0,,,24.0,32.6,28.5,1
+Kalimantan Utara,NUNUKAN,Sebuku,Tetaban,26/08/2023,13:08 WIB,NASA-NOAA20,high,406282.0,11690282.0,,,24.8,32.9,28.5,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Kesuma Jaya,10/08/2023,13:29 WIB,NASA-MODIS,high,-193556.0,11084126.0,,,23.8,33.3,27.9,1
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Antang Kalang,Tumbang Hejan,31/08/2023,13:25 WIB,NASA-MODIS,high,-134823.0,1125314.0,,,23.8,34.0,28.2,1
+Kalimantan Barat,MELAWI,Sayan,Nanga Kompi,14/08/2023,13:31 WIB,NASA-NOAA20,high,-0.8704,11168844.0,,,23.7,32.2,27.5,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Harapan Baru,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.77496,11049415.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Kayung Tuhe,05/08/2023,13:14 WIB,NASA-MODIS,high,-157446.0,11061681.0,,,24.9,34.2,28.4,1
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Batu Ampar,29/08/2023,13:40 WIB,NASA-MODIS,high,-0.78251,10951495.0,,,23.3,34.6,28.6,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Tangoi,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.28672,11272184.0,,,22.4,35.0,28.0,1
+Kalimantan Barat,MELAWI,Tanah Pinoh,Bata Luar,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.86112,11144871.0,,,23.6,35.0,28.9,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Entogong,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.16105,1121004.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,13/08/2023,01:36 WIB,NASA-MODIS,high,-189217.0,11014307.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kenanga,12/08/2023,13:14 WIB,NASA-MODIS,high,-0.61767,11057073.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Menantak,14/08/2023,12:59 WIB,NASA-MODIS,high,-0.2324,11300796.0,,,22.2,32.4,26.2,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pesaguan Kanan,19/07/2023,21:44 WIB,NASA-MODIS,high,-201071.0,11017554.0,,,25.0,34.2,28.8,1
+Kalimantan Barat,KAPUAS HULU,Seberuang,Emperiang,27/07/2023,13:31 WIB,NASA-MODIS,high,0.46496,11205227.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,01/07/2023,13:22 WIB,NASA-MODIS,high,-128577.0,11082446.0,,,25.0,34.3,28.2,1
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Kecil,12/08/2023,21:44 WIB,NASA-MODIS,high,-0.12587,10932504.0,,,23.1,33.0,25.9,1
+Kalimantan Barat,MELAWI,Sayan,Nanga Kompi,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.85582,11175227.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Kubu Berangan,27/07/2023,13:31 WIB,NASA-MODIS,high,0.84098,11141109.0,,,22.4,33.4,27.6,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Nanga Kelampai,17/08/2023,13:27 WIB,NASA-MODIS,high,-189684.0,1104996.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,MELAWI,Ella Hilir,Kerangan Kora,29/07/2023,13:31 WIB,NASA-NOAA20,high,-0.67237,11207578.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,KAPUAS HULU,Silat Hilir,Sentabai,27/07/2023,13:31 WIB,NASA-MODIS,high,0.48457,11175646.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Tekungai,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.41199,11250398.0,,,23.2,33.5,26.9,1
+Kalimantan Barat,SINTANG,Kayan Hilir,Jambu,18/07/2023,13:37 WIB,NASA-NOAA20,high,-0.1493,11195847.0,,,22.6,33.8,28.0,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Segulang,03/08/2023,13:29 WIB,NASA-MODIS,high,-0.418,11248053.0,,,22.2,33.6,27.2,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Pangkalan Suka,12/08/2023,12:27 WIB,NASA-NOAA20,high,-135492.0,11058876.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Sekucing Labai,13/08/2023,12:10 WIB,NASA-NOAA20,high,-0.47078,11033096.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaiasam,14/08/2023,21:27 WIB,NASA-MODIS,high,-0.29163,10953075.0,,,22.7,33.4,26.6,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,19/08/2023,09:15 WIB,NASA-MODIS,high,-189877.0,11012199.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pesaguan Kanan,29/08/2023,09:32 WIB,NASA-MODIS,high,-205305.0,11020692.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Nanga Kelampai,03/06/2023,13:25 WIB,NASA-MODIS,high,-190104.0,11061181.0,,,26.1,34.5,29.4,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Titi Baru,22/08/2023,13:40 WIB,NASA-MODIS,high,-182297.0,11063847.0,,,24.2,34.4,28.5,1
+Kalimantan Barat,KUBU RAYA,Batu Ampar,Tanjungharapan,17/08/2023,12:33 WIB,NASA-NOAA20,high,-0.86058,10948589.0,,,23.5,33.6,27.1,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Batu Beransak,28/08/2023,12:27 WIB,NASA-NOAA20,high,-179071.0,11071322.0,,,24.2,33.8,28.3,1
+Kalimantan Barat,KETAPANG,Sandai,Randau,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.94812,11064699.0,,,24.1,33.6,28.5,1
+Kalimantan Barat,MELAWI,Sayan,Nanga Kompi,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.86497,11177019.0,,,24.7,35.2,29.2,1
+Kalimantan Barat,MELAWI,Sayan,Landau Sandak,29/07/2023,13:31 WIB,NASA-NOAA20,high,-0.82657,11167587.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Bihe,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.38851,1126011.0,,,22.4,35.0,28.0,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pesaguan Kanan,06/08/2023,01:36 WIB,NASA-MODIS,high,-20503.0,1102167.0,,,25.1,34.0,28.1,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Harapan Jaya,07/08/2023,13:01 WIB,NASA-MODIS,high,-0.65896,11138828.0,,,22.6,34.0,27.5,1
+Kalimantan Barat,SINTANG,Sepauk,Limau Bakti,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.29595,11109617.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Labai Hilir,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.48967,10998483.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Merawa,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.5208,11046587.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,17/08/2023,09:32 WIB,NASA-MODIS,high,-190216.0,11013068.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Muara Pawan,Tempurukan,19/08/2023,21:35 WIB,NASA-MODIS,high,-164818.0,11005756.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,14/08/2023,09:06 WIB,NASA-MODIS,high,-190019.0,11012794.0,,,23.3,33.0,27.4,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Teluk Mutiara,21/08/2023,12:59 WIB,NASA-MODIS,high,-0.85667,11046838.0,,,24.3,33.8,28.6,1
+Kalimantan Barat,MELAWI,Belimbing Hulu,Kayu Bunga,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.52897,11152978.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,SAMBAS,Teluk Keramat,Sungai Kumpai,18/07/2023,13:46 WIB,NASA-MODIS,high,144778.0,10914664.0,,,24.8,33.6,29.1,1
+Kalimantan Barat,KETAPANG,Sungai Melayu Rayak,Jairan Jaya,12/08/2023,12:27 WIB,NASA-NOAA20,high,-1754.0,11043411.0,,,22.5,32.3,26.6,1
+Kalimantan Timur,BERAU,Pulau Derawan,Teluk Semanting,30/08/2023,12:42 WIB,NASA-MODIS,high,225638.0,11798073.0,,,24.0,36.2,29.2,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Paoh Concong,12/08/2023,12:27 WIB,NASA-NOAA20,high,-0.70491,11041566.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Durian Jaya,24/08/2023,13:25 WIB,NASA-MODIS,high,-0.78745,11146664.0,,,24.8,35.2,28.7,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Ungai,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.0447,11213522.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Panggi Ruguk,17/08/2023,13:27 WIB,NASA-MODIS,high,0.60393,11135294.0,,,23.2,33.8,27.3,1
+Kalimantan Barat,SAMBAS,Paloh,Mentibar,29/08/2023,21:52 WIB,NASA-MODIS,high,167456.0,10931097.0,,,24.7,35.6,29.0,1
+Kalimantan Utara,BULUNGAN,Peso Hilir,Long Tungu,30/08/2023,11:51 WIB,NASA-NOAA20,high,282422.0,11706364.0,,,25.4,35.8,29.3,1
+Kalimantan Barat,MELAWI,Tanah Pinoh,Bata Luar,10/08/2023,13:29 WIB,NASA-MODIS,high,-0.87162,11144932.0,,,24.5,34.0,27.6,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Kiri,08/08/2023,13:44 WIB,NASA-NOAA20,high,-0.62032,11045532.0,,,24.4,34.0,28.7,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Tengah,18/07/2023,13:37 WIB,NASA-NOAA20,high,-0.4675,11040295.0,,,24.8,34.2,28.9,1
+Kalimantan Timur,BERAU,Segah,Siduung Indah,20/08/2023,13:20 WIB,NASA-NOAA20,high,199491.0,11715797.0,,,23.5,34.3,27.7,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,16/08/2023,02:04 WIB,NASA-MODIS,high,-190253.0,11013607.0,,,23.9,33.4,27.9,1
+Kalimantan Barat,SINTANG,Serawai,Mensulung Bio,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.23076,11260743.0,,,22.4,35.0,28.0,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Botuh Bosi,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.50626,11033145.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,KETAPANG,Singkup,Bukit Kelambing,24/08/2023,13:25 WIB,NASA-MODIS,high,-23605.0,11071632.0,,,24.9,34.0,28.7,1
+Kalimantan Barat,KAPUAS HULU,Seberuang,Bati,27/07/2023,12:27 WIB,NASA-NOAA20,high,0.4101,11206928.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaiasam,17/08/2023,09:32 WIB,NASA-MODIS,high,-0.28548,10951373.0,,,23.5,33.6,27.1,1
+Kalimantan Barat,MELAWI,Sayan,Tumbak Raya,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.80902,11167558.0,,,23.6,35.0,28.9,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Sumber Sari,29/07/2023,13:16 WIB,NASA-MODIS,high,0.76746,1113412.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,27/07/2023,12:27 WIB,NASA-NOAA20,high,-126487.0,11083016.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,SINTANG,Sepauk,Bernayau,18/07/2023,13:37 WIB,NASA-NOAA20,high,-0.37474,11113735.0,,,22.6,33.8,28.0,1
+Kalimantan Barat,MELAWI,Sayan,Madya Raya,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.90267,11162554.0,,,24.7,35.2,29.2,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Mekar Harapan,19/08/2023,13:12 WIB,NASA-MODIS,high,-100763.0,1103939.0,,,24.3,34.0,28.9,1
+Kalimantan Timur,BERAU,Kelay,Lesan Dayak,07/08/2023,13:01 WIB,NASA-MODIS,high,167904.0,11714201.0,,,25.0,35.1,28.7,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Sekukun,29/07/2023,13:16 WIB,NASA-MODIS,high,-126543.0,11081802.0,,,23.7,33.6,28.3,1
+Kalimantan Barat,SINTANG,Serawai,Mensulung Bio,03/08/2023,13:37 WIB,NASA-NOAA20,high,-0.23303,11261018.0,,,22.2,33.6,27.2,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,22/08/2023,09:38 WIB,NASA-MODIS,high,-189925.0,11010839.0,,,24.2,34.4,28.5,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Sungai Daka,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.99929,11050288.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,KETAPANG,Sandai,Sandai,13/08/2023,12:10 WIB,NASA-NOAA20,high,-12826.0,1105991.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaibulan,16/07/2023,12:36 WIB,NASA-NOAA20,high,-0.3232,10947347.0,,,24.2,32.8,27.9,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Pelang,15/08/2023,09:49 WIB,NASA-MODIS,high,-190051.0,11013097.0,,,23.0,33.4,27.7,1
+Kalimantan Barat,KETAPANG,Sandai,Randau Jungkal,19/08/2023,13:12 WIB,NASA-MODIS,high,-11454.0,11071913.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,SINTANG,Ambalau,Kepala Jungai,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.01456,11298302.0,,,21.8,34.6,27.7,1
+Kalimantan Barat,KUBU RAYA,Sungai Raya,Sungaiasam,22/08/2023,21:59 WIB,NASA-MODIS,high,-0.28189,1094799.0,,,24.3,31.1,26.4,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Semandang Hulu,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.61067,11048573.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,KUBU RAYA,Sungai Kakap,Pungur Besar,17/08/2023,21:52 WIB,NASA-MODIS,high,-0.22527,10925541.0,,,23.5,33.6,27.1,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Batu Mas,12/08/2023,12:27 WIB,NASA-NOAA20,high,-168093.0,11055894.0,,,22.5,32.3,26.6,1
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Telawang,Kenyala,29/08/2023,21:50 WIB,NASA-MODIS,high,-229047.0,11270644.0,,,23.6,34.0,27.7,1
+Kalimantan Barat,KAPUAS HULU,Putussibau Utara,Nanga Nyabau,27/07/2023,13:31 WIB,NASA-MODIS,high,101494.0,11274332.0,,,23.9,35.1,29.2,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,14/08/2023,21:27 WIB,NASA-MODIS,high,-190589.0,11012971.0,,,23.3,33.0,27.4,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Sungai Besar,31/08/2023,21:33 WIB,NASA-MODIS,high,-19137.0,11015905.0,,,24.1,33.6,28.5,1
+Kalimantan Barat,SINTANG,Ambalau,Nanga Rade,31/08/2023,13:25 WIB,NASA-MODIS,high,-0.04631,11286959.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,SAMBAS,Tangaran,Semata,31/07/2023,21:44 WIB,NASA-MODIS,high,15069.0,10912009.0,,,23.2,34.2,27.9,1
+Kalimantan Barat,MELAWI,Sokan,Gelata,07/08/2023,12:23 WIB,NASA-NOAA20,high,-10253.0,111.53,,,22.6,34.0,27.5,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Serengkah Kanan,08/08/2023,13:44 WIB,NASA-MODIS,high,-176735.0,11072659.0,,,24.4,34.0,28.7,1
+Kalimantan Barat,SINTANG,Kayan Hilir,Kempas Raya,10/08/2023,13:29 WIB,NASA-MODIS,high,0.0318,11195676.0,,,23.4,34.6,27.6,1
+Kalimantan Barat,SINTANG,Sepauk,Nanga Pari,01/07/2023,13:22 WIB,NASA-MODIS,high,-0.43613,1111557.0,,,25.1,32.8,28.3,1
+Kalimantan Barat,KETAPANG,Manis Mata,Pakit Selaba,31/07/2023,13:01 WIB,NASA-MODIS,high,-22155.0,11100195.0,,,23.6,34.2,28.6,1
+Kalimantan Barat,SINTANG,Sepauk,Bernayau,01/08/2023,13:44 WIB,NASA-MODIS,high,-0.38729,11117196.0,,,23.2,34.2,28.3,1
+Kalimantan Barat,SAMBAS,Paloh,Temajuk,27/06/2023,01:28 WIB,NASA-MODIS,high,197462.0,10948142.0,,,23.6,33.9,28.6,1
+Kalimantan Barat,KETAPANG,Tumbang Titi,Nanga Kelampai,10/08/2023,13:29 WIB,NASA-MODIS,high,-192573.0,11046712.0,,,23.8,33.3,27.9,1
+Kalimantan Barat,MELAWI,Ella Hilir,Jabai,29/07/2023,13:31 WIB,NASA-NOAA20,high,-0.66954,1120261.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Tekungai,30/08/2023,13:31 WIB,NASA-NOAA20,high,-0.36329,1124816.0,,,22.4,35.0,28.0,1
+Kalimantan Barat,MELAWI,Tanah Pinoh Barat,Keluas Hulu,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.70583,11134762.0,,,22.5,33.8,27.0,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Botuh Bosi,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.51203,11033752.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,KETAPANG,Sandai,Merimbang Jaya,17/08/2023,13:27 WIB,NASA-MODIS,high,-111305.0,11056896.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Sepotong,17/08/2023,13:27 WIB,NASA-MODIS,high,-0.87003,11052428.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,SAMBAS,Jawai,Sarang Burung Danau,30/07/2023,13:59 WIB,NASA-MODIS,high,145575.0,10912409.0,,,23.2,33.0,27.6,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Kesuma Jaya,17/08/2023,13:27 WIB,NASA-MODIS,high,-193852.0,11084433.0,,,24.4,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pematang Gadung,01/07/2023,13:22 WIB,NASA-MODIS,high,-199758.0,11015031.0,,,25.0,34.3,28.2,1
+Kalimantan Barat,KETAPANG,Sandai,Sandai Kiri,13/08/2023,13:57 WIB,NASA-MODIS,high,-125143.0,11050417.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Nanga Tayap,03/08/2023,13:29 WIB,NASA-MODIS,high,-159407.0,11052142.0,,,22.9,34.0,27.6,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Wana Bhakti,27/07/2023,13:31 WIB,NASA-MODIS,high,0.83274,11155074.0,,,22.4,33.4,27.6,1
+Kalimantan Barat,SINTANG,Serawai,Nanga Segulang,05/08/2023,13:16 WIB,NASA-MODIS,high,-0.42344,11244483.0,,,21.8,34.6,27.7,1
+Kalimantan Utara,BULUNGAN,Tanjung Palas Timur,Wonomulyo,30/08/2023,11:51 WIB,NASA-NOAA20,high,269328.0,11756416.0,,,25.4,35.8,29.3,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Semandang Kanan,08/08/2023,13:44 WIB,NASA-NOAA20,high,-0.72879,11037253.0,,,24.4,34.0,28.7,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Kualan Tengah,12/08/2023,12:27 WIB,NASA-NOAA20,high,-0.45112,11035359.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,SINTANG,Sepauk,Nanga Libau,24/08/2023,13:25 WIB,NASA-MODIS,high,-0.1496,11116812.0,,,23.6,34.5,28.1,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Kubu Berangan,29/07/2023,13:16 WIB,NASA-MODIS,high,0.76601,11133135.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,MELAWI,Sokan,Tanjung Mahung,12/08/2023,13:14 WIB,NASA-MODIS,high,-101552.0,11144393.0,,,23.0,34.0,27.5,1
+Kalimantan Barat,SINTANG,Kelam Permai,Sepan Lebang,18/07/2023,13:37 WIB,NASA-NOAA20,high,0.18558,11182127.0,,,22.6,33.8,28.0,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Penyarang,29/08/2023,13:50 WIB,NASA-NOAA20,high,-204384.0,11091939.0,,,23.6,34.8,29.0,1
+Kalimantan Barat,MELAWI,Menukung,Nanga Mawang Mentatai,04/08/2023,13:20 WIB,NASA-NOAA20,high,-0.43716,11230538.0,,,24.5,34.8,29.1,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Batu Lapis,13/08/2023,12:10 WIB,NASA-NOAA20,high,-126081.0,11097064.0,,,22.6,33.2,27.2,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Nanga Abai,18/07/2023,13:37 WIB,NASA-NOAA20,high,-0.0772,11226425.0,,,22.6,33.8,28.0,1
+Kalimantan Barat,SAMBAS,Paloh,Tanah Hitam,29/08/2023,21:52 WIB,NASA-MODIS,high,161014.0,1092375.0,,,24.7,35.6,29.0,1
+Kalimantan Barat,KETAPANG,Matan Hilir Selatan,Pesaguan Kanan,10/08/2023,01:09 WIB,NASA-MODIS,high,-205213.0,11021556.0,,,23.8,33.3,27.9,1
+Kalimantan Barat,MELAWI,Tanah Pinoh,Bina Karya,10/08/2023,13:29 WIB,NASA-MODIS,high,-0.79555,11158697.0,,,24.5,34.0,27.6,1
+Kalimantan Barat,SINTANG,Kayan Hulu,Buluh Merindu,29/07/2023,13:16 WIB,NASA-MODIS,high,-0.0397,11212333.0,,,21.3,33.0,27.1,1
+Kalimantan Barat,SINTANG,Serawai,Teluk Harapan,13/08/2023,12:10 WIB,NASA-NOAA20,high,-0.48555,11248781.0,,,22.0,34.2,27.0,1
+Kalimantan Barat,SAMBAS,Jawai,Sarang Burung Kuala,13/08/2023,13:57 WIB,NASA-MODIS,high,137582.0,10914225.0,,,23.4,33.4,27.7,1
+Kalimantan Barat,KETAPANG,Simpang Hulu,Paoh Concong,20/08/2023,09:56 WIB,NASA-MODIS,high,-0.70657,11042664.0,,,24.6,33.8,28.6,1
+Kalimantan Barat,KETAPANG,Hulu Sungai,Riam Dadap,27/07/2023,13:31 WIB,NASA-MODIS,high,-120724.0,110816.0,,,24.0,32.6,28.5,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Nanga Kelapan,31/08/2023,13:25 WIB,NASA-MODIS,high,0.90998,1113922.0,,,22.6,35.0,28.7,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Sebadak Raya,12/08/2023,12:27 WIB,NASA-NOAA20,high,-140518.0,11075702.0,,,22.5,32.3,26.6,1
+Kalimantan Utara,BULUNGAN,Peso,Lepak Aru,31/08/2023,13:14 WIB,NASA-NOAA20,high,290952.0,11673127.0,,,24.2,35.4,28.8,1
+Kalimantan Barat,KETAPANG,Jelai Hulu,Kesuma Jaya,12/08/2023,13:14 WIB,NASA-MODIS,high,-193869.0,11085857.0,,,22.5,32.3,26.6,1
+Kalimantan Barat,MELAWI,Sayan,Landau Sandak,27/07/2023,13:31 WIB,NASA-MODIS,high,-0.8364,11166733.0,,,23.6,33.2,28.2,1
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Mentaya Hulu,Tanjung Bantur,27/06/2023,21:29 WIB,NASA-MODIS,high,-209216.0,11251619.0,,,20.8,34.1,26.6,1
+Kalimantan Barat,KETAPANG,Simpang Dua,Gema,19/08/2023,13:37 WIB,NASA-NOAA20,high,-0.84688,11042012.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,SAMBAS,Selakau Timur,Selakau Tua,31/07/2023,13:03 WIB,NASA-MODIS,high,108191.0,10911308.0,,,23.2,34.2,27.9,1
+Kalimantan Tengah,KOTAWARINGIN TIMUR,Kota Besi,Palangan,26/08/2023,21:27 WIB,NASA-MODIS,high,-233081.0,1127568.0,,,22.9,32.5,27.0,1
+Kalimantan Barat,SINTANG,Ketungau Hulu,Sungai Kelik,17/08/2023,13:27 WIB,NASA-MODIS,high,100596.0,11120677.0,,,23.2,33.8,27.3,1
+Kalimantan Barat,SINTANG,Ambalau,Jengkarang,14/08/2023,12:59 WIB,NASA-MODIS,high,-0.02179,11294991.0,,,22.2,32.4,26.2,1
+Kalimantan Barat,KUBU RAYA,Kuala Mandor B,Kubu Padi,21/06/2023,13:44 WIB,NASA-NOAA20,high,0.10321,10941844.0,,,24.0,33.4,27.2,1
+Kalimantan Barat,KETAPANG,Nanga Tayap,Pangkalan Teluk,19/08/2023,13:12 WIB,NASA-MODIS,high,-142134.0,11046794.0,,,24.3,34.0,28.9,1
+Kalimantan Barat,SAMBAS,Paloh,Mentibar,27/06/2023,01:28 WIB,NASA-MODIS,high,166314.0,10928094.0,,,23.6,33.9,28.6,1
+Kalimantan Barat,SINTANG,Ketungau Tengah,Margahayu,31/07/2023,13:03 WIB,NASA-MODIS,high,0.79309,11135033.0,,,21.2,34.2,27.4,1
+Kalimantan Barat,MELAWI,Menukung,Nanga Mawang Mentatai,18/08/2023,12:16 WIB,NASA-NOAA20,high,-0.42831,11231598.0,,,24.5,34.0,28.9,1
+Kalimantan Barat,KETAPANG,Sungai Laur,Kepari,19/08/2023,13:12 WIB,NASA-MODIS,high,-0.8969,11051698.0,,,24.3,34.0,28.9,1
